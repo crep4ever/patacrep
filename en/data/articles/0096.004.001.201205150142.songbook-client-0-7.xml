@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-Client 0.7]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Pfiou, pas mécontent de pouvoir enfin annoncer la nouvelle version
+du <a href="http://github.com/crep4ever/songbook-client/">Songbook-Client</a>
+! La petite 0.7 débarque fièrement et introduit pas mal de nouveautés
+qui, je l'espère, vous plairont autant qu'à moi :)</p>
+
+<p>Alors que peut-on dire de cette version ? Tout d'abord la plupart
+des changements se sont portés sur l'éditeur de chanson mais il y a
+plein de petits trucs peaufinés à droite à gauche. Voici quelques uns
+des changements les plus visibles.</p>
+
+<h3>Éditeur graphique des méta-données</h3>
+
+<p>Certainement la nouveauté la plus visible, difficile de passer à
+côté ^^ Toutes les méta-données associées à une chanson sont
+maintenant gérées de façon transparente par l'interface. Par
+méta-données, je fais référence au titre, à l'artiste, l'album et sa
+pochette mais également les diagrammes de position des accords (\gtab
+et \utab). Grosso modo, "tu s'occupes de rien, le client s'occupe de
+tout" ... ou presque :) Une image étant bien plus parlante, voici la
+bébête en action.</p>
+
+<a href="data/images/sbc07-new-song.png"><img src="data/images/sbc07-new-song.png" height="300" alt="new-song" /></a>
+<a href="data/images/sbc07-song-editor.png"><img src="data/images/sbc07-song-editor.png" height="300" alt="song-editor" /></a>
+
+<p>Je pense que c'est assez parlant et intuitif d'utilisation mais
+quelques trucs à souligner :<p>
+<ul>
+<li>La pochette accepte le drag 'n drop depuis un fichier image</li>
+<li>La p'tite icône avec les deux flèches correspond à la macro
+\transpose qui permet de transposer les accords utilisés dans la
+chanson (tout ceci est normalement expliqué dans les tootips des
+widgets). Attention tout de même avec cette dernière fonctionnalité,
+ça entraîne potentiellement la disparition des diagrammes dans le
+pdf.</li>
+<li>Les environnements pour les couplets, refrains, ponts ont une
+jolie couleur (purement subjectif j'avoue) de fond qui permet de mieux
+les distinguer et par la-même de détecter les erreurs frustrantes du
+style un \begin{verse} qui se termine par un \end{chorus}. Ceci-étant,
+si les couleurs ne vous plaisent pas, vous pouvez toujours les
+désactiver dans l'onglet Éditeur du menu Préférences.</li>
+</ul>
+
+
+<h3>Correcteur orthographique</h3>
+
+<p>Il est maintenant possible d'utiliser la correction orthographique
+sur les chansons. Court aparté technique, il s'agit de la
+bibliothèque <a href="http://hunspell.sourceforge.net/">hunspell</a>,
+notamment utilisée par des gros projets comme Firefox, Chrome ou
+LibreOffice. Le dictionnaire utilisé dépend directement de la langue
+dans laquelle la chanson est écrite. Seul petit bémol, l'insertion des
+accords au milieu des mots à tendance à produire pas mal de faux
+positifs mais bon, c'est déjà pas mal.</p>
+
+<a href="data/images/sbc07-spellchecker.png"><img src="data/images/sbc07-spellchecker.png" height="200" alt="spellchecker" /></a>
+
+
+<h3>Remplacez-moi tous ces Charlies !</h3>
+
+<p>Un nouveau petit bouton apparaît dans la barre d'outils de
+l'éditeur permettant de rechercher/remplacer du texte. La boite de
+dialogue associée n'est pas encore aussi stylée que celle de gedit
+mais ça viendra peut-être un jour. Peut-être.</p>
+
+<a href="data/images/sbc07-find-replace.png"><img src="data/images/sbc07-find-replace.png" height="200" alt="find-replace" /></a>
+
+
+<h3>Auto-complétion des macros</h3>
+
+<p>Ça, c'était Ze feature que j'adorais avec Eclipse
+avant de ne plus pouvoir me passer d'emacs :). Alors
+attention, rien d'aussi abouti ici mais il est tout de même possible
+d'auto-compléter les quelques macros avec Ctrl+espace.</p>
+
+
+<h3>Éditeur des diagrammes d'accords</h3>
+
+<p>Pas grand chose à dire mais non seulement les macros \gtab et \utab
+correspondant aux accords de guitare et de ukulélé sont représentées
+graphiquement dans l'éditeur mais leur édition elle-même est graphique
+... ... ok la phrase veut rien dire. Un (screen)shot et ça ira
+mieux.</p>
+
+<a href="data/images/sbc07-diagram-editor.png"><img src="data/images/sbc07-diagram-editor.png" height="200" alt="diagram-editor" /></a>
+
+
+<h3>Barres de progression interruptibles</h3>
+
+<p>La plupart des barres de progression, preuve flagrante de
+l'incompétence des développeurs à tout faire fonctionner plus vite que
+la lumière, sont dorénavant interruptibles. En effet, il pouvait être
+frustrant de voir cette barre mouliner alors que dans certains cas, on
+sait pertinemment que cela ne sert à rien.</p>
+
+<a href="data/images/sbc07-progress-bar.png"><img src="data/images/sbc07-progress-bar.png" height="30" alt="progress-bar" /></a>
+
+
+<h3>Téléchargement de la bibliothèque</h3>
+
+<p>Rien de transcendant par rapport à ce qui existait déjà mais des
+petites modifications sympatoches. Par exemple, la vitesse de
+téléchargement et le nombre d'octets téléchargés sont maintenant
+affichés pendant le téléchargement. Cela permet de mieux savoir ce qui
+se passait dans votre dos. À noter que vous avez maintenant le choix
+de télécharger l'archive des sources (<a href="">songbook.tar.gz</a>)
+au lieu du snapshot git. Ça fait miroir et c'est toujours bien un
+miroir. D'abord.</p>
+
+<a href="data/images/sbc07-download-bar.png"><img src="data/images/sbc07-download-bar.png" width="80%"  alt="download-bar" /></a>
+
+
+<p>J'oublie volontairement une flopée de petits détails qui sont de
+moindre envergure, vous les découvrirez par vous-même. Et bien
+entendu, cette version doit beaucoup à Lohrun également, c'est lui qui
+a posé toutes les bases du redesign de l'éditeur (sans parler des
+paquets Debian) ! Kudos !</p>
+
+<p>Pour le téléchargement, ça se passe dans la
+partie <a href="http://www.patacrep.com/static1/downloads">downloads</a>. À
+noter que les paquets .deb ne sont valables que pour Debian. Les dmg
+pour Mac arriveront d'ici peu et pour ubuntu, il y a maintenant un
+super PPA tout beau tout propre !</p>
+
+<div class="unix">
+<code>$ sudo add-apt-repository ppa:romain-goffe/patacrep
+$ sudo apt-get update
+$ sudo apt-get install songbook-client</code>
+</div>
+
+<p>En croisant (très) fortement les doigts pour avoir plus corrigé que rajouté de bugs :/</p>
+
+<p>That's all folks!</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

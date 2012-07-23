@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[songbook-client v0.3 released !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<h3>Songbook-client 0.3</h3>
+
+<p>Et hop ! Une nouvelle version tant attendue (ou pas) du songbook-client est de sortie ! Et croyez-le ou non, des choses à raconter il y a. Par exemple, en tant que lecteur assidu du <a href="http://www.patacrep.com/feed.php?rss">flux rss</a> de ce merveilleux projet, vous n'êtes pas sans savoir qu'il y a eu de la casse ces derniers temps en raison d'un changement assez majeur du processus de génération du songbook. Oui oui, il s'agit bien de cette histoire de templates qui fait peur à tout le monde (enfin, surtout à moi, grand peureux de nature, certains pourront confirmer). </p>
+
+<p>Trève de bavardages, revenons-en à nos modifications:</p>
+<ul>
+<li> les songbooks. Dorénavant, un recueil est un fichier .sb (pour SongBook :p ) contenant un ensemble de paramètres + une liste de chansons. Donc, si vous voulez générer votre recueil à vous, et bien il faut que vous spécifiez le .sb (comme mybook.sb) avant de demander la compilation (mais une boîte de dialogue viendra rappeler à l'ordre les têtes-en-l'air). Vous pouvez vous faire les dents avec les songbooks existants comme les volumes 1 et 2 ou la version <a href="http://www.penofchaos.com/warham/donjon.htm">naheulbeuk</a>.</li> 
+<li> les templates sont présents sous la forme d'une petite combobox dans les paramètres du songbook. Il y en a deux pour le moment. Le premier, patacrep.tmpl est somme toute assez classique puisqu'il permet de générer le recueil habituel. Le second, petit nouveau et élégamment nommé minimal.tmpl, permet de faire fi de la page de garde, indexes et autres pages de licence. Très pratique pour générer uniquement le pdf d'une chanson précise.
+</li>
+<li> des petites boîtes de dialogue pour les outils (soit les deux scripts externes qui servent à redimensionner les pochettes et à vérifier les fautes d'aurtograf).</li>
+<li>quelques améliorations sont à noter du côté de l'éditeur de chanson intégré et de sa coloration syntaxique.</li>
+<li>traductions, menus, tooltips and co ont été revus. Par exemple, le menu fichier laisse place au menu songbook (ou recueil) parce que c'est la mode et que ça s'intègre mieux au bureau gnome.</li>
+<li>beaucoup de petits bugs corrigés qui font que ça marche moins mal dans l'ensemble. Surtout lorsque vous utilisez l'application avec une petite résolution genre netbook.</li>
+<li>et puis d'autres choses que j'oublie certainement</li>
+</ul>
+
+<p>J'ai mis à jour les paquets debian dans la partie downloads. L'ebuild pour gentoo n'a normalement pas besoin de bouger puisqu'il est directement synchronisé sur le dépôt git.</p>
+
+<p>Petite remarque importante: si vous désirez tester, n'oubliez pas de bien récupérer à la fois la dernière version du songbook-client ET du songbook. Ils sont enfin correctement synchronisés mais c'est tout de même assez récent.</p>
+
+<p>Dernier petit point. À propos d'un bug qui obligeait à supprimer manuellement les fichiers .d dès lors qu'un fichier était renommé ou supprimé. Déjà, c'est pas un bug trivial (comprendre: "perso, qui me dépasse") mais il est en partie corrigé. En gros, <i>the problem remains</i> mais on peut maintenant faire "make clean" pour que tout soit plus beau et plus blanc qu'avant et surtout, compile sans soucis à nouveau. Comme d'hab, kudos à Lohrun :)
+</p>
+<p>Les screenshots ! Les screenshots ! ... ok</p>
+
+<a href="data/images/sbc-v0-3-01.png">
+<img src="data/images/sbc-v0-3-01.png.tb" alt="" />
+</a>
+
+<a href="data/images/sbc-v0-3-02.png">
+<img src="data/images/sbc-v0-3-02.png.tb" alt="" />
+</a>
+
+<a href="data/images/sbc-v0-3-03.png">
+<img src="data/images/sbc-v0-3-03.png.tb" alt="" />
+</a>
+
+<a href="data/images/sbc-v0-3-04.png">
+<img src="data/images/sbc-v0-3-04.png.tb" alt="" />
+</a>
+
+
+<h3>Songbook</h3>
+
+<p>Des nouvelles chansons, oui, il y en a aussi. Je me suis enfin motivé pour retrouver les tablatures de <i>Yuki Kajiura - Vanity</i> et <i>Les ogres de Barback - Touche pas à mon école</i> qui traînaient sur ma todo liste depuis trop longtemps. Bon, je n'en suis pas encore hyper satisfait et elles sont clairement hautement perfectibles mais c'est une première version potable (tout est relatif) qui ne demande qu'à être améliorée par votre oreille experte (tout est open-source), moi, j'ai fait ce que j'ai pu.</p>
+
+<p>Voici la liste plus exhaustive car je parle de mes galères mais je ne suis pas le seul à avoir bossé, loin de là !</p>
+
+<strong>Crep:</strong>
+<ul>
+<li>Green Day - Minority</li>
+<li>Les Ogres de Barback - Touche pas à mon école</li>
+<li>Yuki Kajiura - Vanity</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook-client, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

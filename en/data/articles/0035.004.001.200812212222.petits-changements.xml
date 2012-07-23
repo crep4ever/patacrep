@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Petits changements]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+À l'approche de Noël, l'heure est aux petits changements. 
+Donc, au menu, que trouve-t-on ?
+</p>
+
+<h3>Site web</h3>
+
+<ul>
+<li>la section installation a été revue et corrigée en étant normalement plus claire et plus précise pour les windowsiens.</li>
+<li>une section index fait également son apparition qui liste toutes les chansons du <a href="data/documents/songbook.pdf">songbook</a> (d'ailleurs, c'est pratique si on utilise la fonction rechercher du site car on peut voir immédiatement si une chanson est référencée)</li>
+<li>suppression du wiki. Définitivement, les iframes, c'est pas terrible. Ce n'est pas forcément une suppression définitive. Si des gens le demandent, on peut toujours le remettre. En attendant, les contributeurs les plus motivés préféreront sans aucun doute le dépôt git de Lohrun.</li>
+</ul>
+
+<h3>Songbook</h3>
+
+<ul>
+<li>changement de police d'écriture. La police utilisée par défaut par LaTeX, bien que très lisible et agréable, faisait quand même un peu austère. Genre trop papier scientifique officiel. Du coup, j'essaye le paquet palatino. À voir à l'usage, pour l'instant, ça me convient.</li>
+<li>la transparence des images png (Crystal XP) a été supprimée car cela posait problème sur les imprimantes laser et pour le rendu depuis windows (arf).</li>
+</ul>
+
+<p>Joyeux Noël à tous ! </p>]]></content>
+	<tags><![CDATA[patacrep, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

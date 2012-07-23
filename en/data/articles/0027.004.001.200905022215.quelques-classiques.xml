@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Quelques classiques]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Profitant d'un week end de 3 jours, le songbook accueille de nouveaux classiques :</p>
+
+<ul>
+<li>Georges Brassens - Les copains d'abord</li>
+<li>Graeme Allwright - Johnny</li>
+<li>Graeme Allwright - La mouche bleue</li>
+<li>Graeme Allwright - Petit garçon</li>
+<li>Oldelaf et Monsieur D. - Nathalie</li>
+<li>Simon &amp; Garfunkel - Cecilia</li>
+<li>Simon &amp; Garfunkel - El condor pasa</li>
+<li>Simon &amp; Garfunkel - Feeling groovy</li>
+</ul>
+
+<p>Bon week end à tous ! </p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

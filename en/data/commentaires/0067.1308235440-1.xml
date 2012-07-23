@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[crep4ever]]></author>
+	<type>normal</type>
+	<ip>192.93.101.88</ip>
+	<mail><![CDATA[romain.goffe@gmail.com]]></mail>
+	<site><![CDATA[http://www.patacrep.com]]></site>
+	<content><![CDATA[Bonjour,
+
+Merci pour le retour et les encouragements ! La prochaine version du songbook-client ne devrait plus tarder et j&#039;espère que ce problème sera corrigé :) 
+
+Est-ce que vous pourriez exécuter l&#039;application depuis un terminal
+(Applications/Utilitaires/Terminal &gt; ./Applications/Songbook-Client.app/Contents/MacOS/Songbook-Client) et m&#039;indiquer s&#039;il y a un message d&#039;erreur plus explicite ?]]></content>
+</comment>

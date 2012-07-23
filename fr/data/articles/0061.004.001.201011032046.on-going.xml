@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Tome 2 bouclé]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Ptites nouvelles des derniers changements ;)</p>
+
+<h3>Songbook</h3>
+
+<strong>Corrections</strong> 
+<p>De très nombreuses petites corrections
+ont été appliquées pour corriger des fautes d'orthographe, d'accords (de guitare :p), de typo etc Donc si vous aviez une faute qui vous énervait dans une chanson mais que vous ne vouliez pas prendre le temps de la signaler,
+elle est potentiellement partie avec cette <a href="../data/documents/songbook.pdf">mise à jour</a> ;)</p>
+
+<strong>Licences</strong> 
+<p>Toutes les licences ont été
+réécrites. Pas au niveau du contenu, qui reste toujours sous <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative
+Commons cc-by-sa</a>, mais au niveau de la forme et sur le côté <a href="http://fr.wikipedia.org/wiki/LaTeX">LaTeX</a> qui
+avait été un peu fait à la va-vite, j'avoue. Bon, tout n'est pas
+encore parfait mais le code est nettement plus joli à regarder (et
+tient surtout sur une seule page ...)</p>
+
+<strong>Internationalisation</strong> 
+<p>Pas mal d'efforts du côté de
+internationalisation sont à noter. La langue de chaque chanson est
+spécifiée au début de chaque fichier .sg par \selectlanguage{french}
+par exemple. Les habitués de LaTeX auront reconnu l'utilisation du
+package babel. En pratique, cela a entraîné quelques petits
+changements sympatoches.  Par exemple, le nouveau script typo.sh
+permet d'appliquer des règles de typo suivant la langue (par exemple
+les caractères ":", "?", "!" prennent un espace avant en français mais
+pas en anglais).</p>
+
+<strong>Volumes</strong> 
+<p>Le <a href="../data/documents/volume-2.pdf">volume 2</a> est maintenant bouclé ! La limite
+des 160 pages a en effet été atteinte et il y a même déjà une dizaine
+des dernières tablatures qui feront partie du tome 3. À propos des
+volumes, les listes des chansons n'avaient plus rien à voir (voir bug
+du client plus haut) mais tout est normalement rentré dans l'ordre.
+En route pour le tome 3 !
+</p>
+
+<strong>Ptits utilitaires</strong> 
+<ul> <li>suppression des espaces en
+fin de ligne (typo.sh)</li> <li>suppression des doubles espaces
+(typo.sh)</li> <li>nouveau script d'indentation en mode batch avec
+emacs (indent.sh)</li> </ul>
+
+
+<h3>Songbook Client</h3>
+
+
+<strong>Nouveautés</strong>
+
+<p>Lorsque le chemin du songbook n'est pas valide, un joli message
+explique ce qu'on peut faire. Ca permet donc de ne pas se retrouver
+face à l'appli vierge en se demandant : mais qu'est-ce que je dois
+bien faire avec ce programme.</p>
+
+<p>Et puis petite modif mineure mais que j'aime bien, c'est qu'on voit
+maintenant le nombre de chansons sélectionnées au niveau du
+recueil. Très pratique je vous assure :)</p>
+
+<p>Tout ceci est disponible dans la section <a href="http://www.patacrep.com/static1/downloads">Downloads</a> sous la forme
+d'un joli paquet en version 0.3.2. Notez que la version <a href="http://github.com/crep4ever/songbook-client">git</a> contient
+quelques petites modifs supplémentaires ;)</p>
+
+<strong>Améliorations</strong>
+
+<p>La mise à jour de la bibliothèque est enfin une vraie mise à jour
+(auparavant, on détruisait tout avant de reconstruire), soit infiniment plus rapide ! Du coup, il y
+a les deux options Rafraichir (à utiliser pour faire apparaitre dans
+l'interface une chanson manuellement rajoutée dans le répertoire
+songs/) et Reconstruire (au cas où).</p>
+
+<strong>Bugs</strong>
+
+<p>Un bug assez gênant de corrigé qui faisait que le modèle ne
+chargeait que les 256 premières chansons tant qu'on ne sélectionnait
+pas une ligne supérieure à 255, ce qui pouvait causer des
+comportements bizarres lors de l'ouverture/sauvegarde des fichiers
+songbooks (sb).</p>
+
+<p>Des problèmes de dépendances pour le paquet debian/ubuntu ont été
+corrigés.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Lohrun</strong> <ul> <li>Avenue Q - The internet is for
+porn</li> <li>Johk - La reine de France</li> </ul>
+
+<strong>Crep</strong> <ul> <li>Crep - Fichu doctorat</li> <li>Crep -
+Soirée pépère</li> <li>Crep - iScream</li> <li>Crep - Bioman</li>
+<li>Crep - Caliméro</li> <li>Oldelaf - Michel</li> </ul>]]></content>
+	<tags><![CDATA[songbook, songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

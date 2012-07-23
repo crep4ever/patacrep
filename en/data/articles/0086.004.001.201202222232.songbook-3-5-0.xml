@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.0]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bien le bonsoir à toutes et à tous.</p>
+
+<p>Le <a href="data/documents/songbook.pdf">songbook</a> passe en version 3.5.0 avec quelques changements sympas.</p>
+
+<p>Tout d'abord, un grand merci à Matteo (here comes a new challenger !!) pour ses contributions. Et puis bien joué à Lohrun pour le nouvel environnement <i>repeatedchords</i> qui permet de mettre tout le monde d'accord sur une fonctionnalité souvent demandée : la possibilité d'afficher les accords sur tous les couplets/refrains !</p>
+
+<p>Alors pour la petite histoire, c'est un truc auquel je m'oppose depuis le début pour des raisons d'économie de place/papier/lisibilité mais qui a été demandé plusieurs fois. Du coup, ce nouvel environnement permet d'indiquer quels sont les couplets/refrains dont les accords sont les mêmes qu'avant et de les afficher ou non suivant un paramètre renseigné dans le template.</p>
+
+<p>Du coup, ça signifie qu'il va falloir que je reprenne (appel à l'aide non dissimulé aux âmes charitables) l'ensemble des 600 tablatures pour rajouter tous les accords aux bons endroits. Le plus long, c'est qu'en général, il faut reécouter la chanson pour déterminer précisement la syllabe qui va bien.</p>
+
+<p>Donc ça va se faire. Petit à petit et ça demandera du temps mais rien de difficile non plus.</p> 
+
+<p>À noter aussi quelques corrections assez majeures (genre gros wtf) à propos de certaines tablatures. Je pense notamment à <i>Herman Düne - Pure heart</i> qui était un copié-raté d'une autre chanson ou d'autres choses dans le même style. J'ose espérer qu'aucune erreur aussi grossière ne s'est glissée dans cette version, auquel cas je m'en remets à vos yeux de lynx.</p>
+
+<p>Comme d'habitude, faites remonter toutes les fautes/erreurs que vous pourriez rencontrer. Le forum, les commentaires, les mails ou les dépôts git sont là pour ça.</p>
+
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Matteo</strong>
+<ul>
+  <li>Jean Leloup - Promeneur</li>
+  <li>Maxime Le Forestier - Parachutiste</li>
+  <li>Yves Simon - Les bateaux du métro</li>
+  <li>Soldat Louis - Du rhum des femmes</li>
+  <li>Soldat Louis - Tirer des caisses</li>
+  <li>Soldat Louis - Savannah</li>
+  <li>Thiéfaine - Sentiments numériques revisités</li>
+  <li>Leonard Cohen - Winter Lady</li>
+  <li>Leonard Cohen - A Bunch of Lonesome Heroes</li>
+  <li>Leonard Cohen - The Old Revolution</li>
+  <li>Jacques Higelin - Je ne peux plus dire je t'aime</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Ben E.King - Stand by me</li>
+  <li>Coldplay - Paradise</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

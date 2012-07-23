@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook Naheulbeuk v0.4]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Release aussi tardive que rapide pour annoncer la v0.4 de l'<a href="../data/documents/naheulbeuk.pdf">édition Naheulbeuk</a>.
+Au menu:</p>
+
+<table>
+<tr>
+
+<td><img src="../data/images/special.jpg" alt="" /></td>
+
+<td><ul>
+<li> 2 nouvelles chansons pour un total de 22 dédiées à cette édition</li>
+<li> Nouveau template "ancient.tmpl" introduisant une police old school et quelques ajustements sympathiques</li>
+<li> Nouvelle page de garde et <a href="http://katurajdr.fr/forum/">illustrations</a> moins "découpées à l'arrache"</li>
+<li> Multiples petites corrections dans les paroles en se basant sur le <a href="http://www.penofchaos.com/warham/donjon-groupe.htm#partoches">songbook officiel</a></li>
+<li> Correction d'une jolie boulette dans deux partoches lilypond qui avaient été écrasées (depuis 1 an et personne avait remarqué !)</li>
+</ul></td>
+</tr>
+</table>
+
+<h3>Site web</h3>
+
+<p>
+J'ai un peu réorganisé la section <a href="http://www.patacrep.com/static1/downloads">Downloads</a>.
+C'est d'ailleurs le grand retour 
+en force des pdfs parce que les .sb ne servaient vraiment à rien (sur le site j'entends).
+En revanche, histoire de limiter un peu le temps de compilation d'une release,
+seules les versions complètes sont proposées (paroles+accords+partitions).
+Si vous voulez des versions plus épurées, il vous faudra les générer vous-même ou
+passer par le <a href="http://github.com/crep4ever/songbook-client">songbook client</a>.
+</p>
+
+<h3>Songbook</h3>
+
+<p>Quelques efforts de traduction pour la <a href="../data/documents/english.pdf">version anglaise</a>, mise à jour des licences etc.</p>
+
+<p>Gros ménage à signaler au niveau des illustrations. J'ai supprimé tous les petits
+Tux ! Désolé pour ceux qui les aimaient bien :p mais :</p>
+
+<ul>
+<li>ils servaient surtout à égayer un peu le document quand tout était gris. 
+Cela fait longtemps que le songbook est tout vert (c'est la mode le vert) et qu'il
+y a les pochettes des albums pour mettre de la couleur dans votre dure vie de guitariste acharné</li>
+<li>ça alourdit pas mal les pdfs, demande plus d'encre et rallonge le temps de compilation</li>
+<li>toujours des problèmes de copyright en moins ...</li>
+<li>et pis c'est comme ça</li>
+</ul>
+
+<h3>Songbook-client</h3>
+
+<p>Si ce n'est pas déjà fait, je vous conseille de récupérer les derniers jolis 
+commits de Lohrun sur la gestion des paramètres des templates. De mon côté, une
+ou deux bricoles à signaler qui font que l'appli devrait se lancer 30% plus vite
+et quelques bugs en moins.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Crep:</strong>
+<ul>
+  <li>Karpatt - Le fil</li>
+  <li>Le Donjon de Naheulbeuk - Marche barbare</li>
+  <li>Le Donjon de Naheulbeuk - Massacrons-nous dans la taverne</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook, naheulbeuk, songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

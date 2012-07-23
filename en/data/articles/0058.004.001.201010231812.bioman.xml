@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Bioman]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+V'la le craquage du samedi avec la dénonciation d'un complot maléfique.
+</p>
+
+<audio controls preload>
+  <source src="data/audio/bioman.ogg">
+  <source src="data/audio/bioman.mp3">
+  audio not supported
+</audio>
+
+<p>
+<a href="data/audio/bioman.pdf">paroles et tablature</a>.
+</p>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">Bioman</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/article58/bioman" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

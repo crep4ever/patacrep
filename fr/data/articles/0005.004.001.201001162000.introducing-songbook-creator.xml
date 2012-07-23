@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Introducing songbook-creator]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bien l'bonjour à tous,</p>
+
+
+<p>Du nouveau sur patacrep. Concernant le site tout d'abord, il a été indisponible pendant une bonne quinzaine de jours pendant les vacances de Noël à cause d'une mauvaise manip de base de données. Heureusement que j'avais les sauvegardes pour remettre ça en place. J'en ai profité pour changer le template et faire un petit nouveau logo (ok, 2mn montre en main) mais dans l'ensemble, le site reste le même.</p>
+
+
+<p>Sinon, pas mal de nouvelles chansons et pas mal de corrections à droite à gauche avec de nouvelles règles automatiques (dans ./utils). La liste est dispo en fin d'article, comme d'hab. Si, le code est basé sur la dernière version en date du package songs (2.10) qui corrige plusieurs bugs et optimise la place au final.</p>
+
+
+<p>Et puis, je résiste pas à la tentation: avec l'aide de <a href="http://git.lohrun.net/">Lohrun</a>, on a commencé un petit projet de programme (graphique :p) pour une création simplifiée de carnets de chants personnalisés. Pour ceux qui veulent s'y essayer, contribuer au code (sous licence gpl2) ou remonter des bugs (mail ou forum patacrep), voici comment ça se passe (uniquement sous linux):</p>
+
+<div class="unix">
+<code>//dépendances du songbook
+$ sudo apt-get install texlive texlive-lang-french texlive-latex-extra python
+
+// dépendances propres à l'ihm
+$ sudo apt-get install build-essential cmake 
+$ sudo apt-get install qt4-qmake qt4-dev-tools libqt4-sql-sqlite
+
+//dépendances optionnelles
+$ sudo apt-get install lilypond git-core
+
+//récupérer les sources
+$ git clone http://github.com/crep4ever/songbook-client.git
+
+//compilation
+$ cd songbook-client
+$ make &amp;&amp; sudo make install
+
+//exécution
+$ ./songbook-client</code>
+</div>
+
+<p>
+PS: Dans les préférences de l'appli, il ne faut pas oublier de préciser le "working directory" qui est le répertoire contenant le dossier songs/ soit ~/songbook par défaut.
+</p>
+
+
+<h3>Nouvelles chansons</h3>
+<p>
+(roh, j'avais même pas vu qu'on avait maintenant un super script pour ça, mais c'est génial !!)
+</p>
+
+<strong>Alexandre Dupas:</strong>
+<ul>
+<li>Alexis HK - Gaspard</li>
+<li>The White Stripes - Well It's True That We Love One Another</li>
+</ul>
+
+<strong>Jeanne Dupas:</strong>
+<ul>
+<li>AaRON - U-Turn</li>
+<li>Ben Harper - Waiting on an angel</li>
+</ul>
+
+<strong>Crep:</strong>
+<ul>
+<li>The Beatles - Octopus Garden</li>
+<li>Bob Dylan - Mr Tambourine Man</li>
+<li>Çat Stevens - Here comes my baby</li>
+<li>Çat Stevens - Father and Son</li>
+<li>Karpatt - Des gnons pour des pelles</li>
+<li>Karpatt - Les canards en plastique</li>
+<li>Les Cowboys Fringants - 1994</li>
+<li>Les Ogres de Barback - Jojo</li>
+<li>Simon &amp; Garfunkel - April come she will</li>
+<li>Simon &amp; Garfunkel - Kathy's song</li>
+<li>The Çarpenters - Breaking up is hard to do</li>
+<li>The Dubliners - Whiskey in the jar</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

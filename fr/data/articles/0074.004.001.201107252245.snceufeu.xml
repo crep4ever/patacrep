@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[snceufeu]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Et c'est du vécu. J'uploaderai la tab plus tard et peut-être une version moins brouillon qui sait ^^</p>
+
+<audio controls>
+  <source src="../data/audio/snceufeu.ogg">
+  <source src="../data/audio/snceufeu.mp3">
+  Audio not supported. Please use an HTML5 capable browser.
+</audio>
+
+<p>Edit: les paroles/tablature sont dans la section <a href="static5/audio">audio</a>.</p>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">SNCeuFeu</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/static5/audio" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

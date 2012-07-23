@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<statique number="002" active="1" menu="oui" url="news" template="static.php"><group><![CDATA[]]></group><name><![CDATA[News]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[patacrep, news]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></statique>
+	<statique number="001" active="1" menu="oui" url="downloads" template="static.php"><group><![CDATA[]]></group><name><![CDATA[Downloads]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></statique>
+	<statique number="003" active="1" menu="oui" url="audio" template="static.php"><group><![CDATA[]]></group><name><![CDATA[Audio]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[patacrep, crep, jamendo, audio]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></statique>
+	<statique number="004" active="1" menu="oui" url="forum" template="static.php"><group><![CDATA[]]></group><name><![CDATA[Forum]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[patacrep, forum]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></statique>
+</document>

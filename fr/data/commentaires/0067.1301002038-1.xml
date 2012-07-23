@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[Juju]]></author>
+	<type>normal</type>
+	<ip>93.16.56.24</ip>
+	<mail><![CDATA[]]></mail>
+	<site><![CDATA[]]></site>
+	<content><![CDATA[Salut les SONGBOOKEURS bravo pour votre excellent travail
+Je tiens juste à vous signaler que lorsque je lance le songbook client depuis l&#039;image dmg présente sur le site cela plante. Je vous joint l&#039;erreur :
+Process:         Songbook-Client [1064]
+Path:            /Volumes/Songbook-Client/Songbook-Client.app/Contents/MacOS/Songbook-Client
+Identifier:      com.patacrep.songbook-client
+Version:         ??? (???)
+Code Type:       X86-64 (Native)
+Parent Process:  launchd [109]
+
+Interval Since Last Report:          288 sec
+Crashes Since Last Report:           1
+Per-App Interval Since Last Report:  0 sec
+Per-App Crashes Since Last Report:   1
+
+Date/Time:       2011-03-24 22:26:51.763 +0100
+OS Version:      Mac OS X 10.5.8 (9L31a)
+Report Version:  6
+Anonymous UUID:  5D22ED1E-3795-49D3-8691-2ED497B304DB
+
+Exception Type:  EXC_BREAKPOINT (SIGTRAP)
+Exception Codes: 0x0000000000000002, 0x0000000000000000
+Crashed Thread:  0
+
+Dyld Error Message:
+  unknown required load command 0x80000022]]></content>
+</comment>

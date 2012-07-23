@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Fichu doctorat]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Désolé mais de temps en temps, c'est dur de tenir le coup sans s'évader un peu en musique :)
+</p>
+
+<audio controls preload>
+ <source src="../data/audio/fichu_doctorat.ogg">
+ <source src="../data/audio/fichu_doctorat.mp3">
+ audio not supported
+</audio>
+
+<p>
+EDIT: pour ceux que ça intéresse, la tablature et les paroles sont <a href="../data/audio/fichu_doctorat.pdf">là</a>. Et juste pour préciser, les paroles sont de moi mais sont chantées sur l'air de <i>La jument de Michao</i> (air traditionnel surtout connu dans sa version chantée par <i>Tri Yann</i>).
+</p>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">Fichu doctorat</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/article55/fichu-doctorat" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

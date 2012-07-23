@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.2]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>'lo</p>
+
+<p>Voici la version 3.6.2 du <a href="../data/documents/songbook.pdf">songbook</a>.</p>
+<p>À vos grattes ;)</p>
+
+<h3>Nouvelles chansons</h3>
+<strong>Lohrun</strong>
+<ul>
+<li>Gotye - Somebody that I used to know</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+<li>The Kingston Trio - Greenback dollar</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Debout sur le zinc - Aller simple</li>
+<li>Debout sur le zinc - Je cherche encore</li>
+<li>HK & Les Saltimbanks - Indignez-vous</li>
+<li>HK & Les Saltimbanks - Niquons la planète</li>
+<li>Yves Jamait - Etc</li>
+<li>Yves Jamait - Jean-Louis</li>
+<li>The Beach Boys - Surfin' USA</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

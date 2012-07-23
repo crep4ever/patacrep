@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Humble Song Bundle]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Et hop. 3 chansons pour le prix ... ah non, c'est gratuit (pardon, c'est libre).</p>
+
+<h3>Mélancolie</h3>
+<p><audio controls preload>
+  <source src="../data/audio/melancolie.ogg">
+  audio not supported
+</audio></p>
+
+<h3>Les ptits chemins</h3>
+<p><audio controls preload>
+  <source src="../data/audio/les_ptits_chemins.ogg">
+  audio not supported
+</audio></p>
+
+<h3>Kartopo</h3>
+<p><audio controls preload>
+  <source src="../data/audio/kartopo.ogg">
+  audio not supported
+</audio></p>
+
+<p>
+Chansons un peu tristounettes il est vrai mais pas d'soucis de mon côté :p
+Simplement épuisé ^^
+</p>
+
+</p>Et désolé pour la dernière qui est complètement liée à mon boulot de thèse.<br/>Juste pour reprendre une citation d'un collègue: <i>là c'est même plus geek, c'est cnrs !</i></p>
+
+<p>Paroles et tablatures :</p>
+<ul>
+<li><a href="../data/audio/melancolie.pdf">mélancolie</a></li>
+<li><a href="../data/audio/les_ptits_chemins.pdf">les ptits chemins</a></li>
+<li><a href="../data/audio/kartopo.pdf">kartopo</a></li>
+</ul>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+</p>
+
+<p>PS: et pour ceux qui affectionnent le jeu video indépendant (et/ou sous linux!), n'oubliez pas d'filer un coup de pouce au <a href="http://www.humblebundle.com/">Humble Indie Bundle #2</a> qui vous propose gratuitement (à vous de fixer le montant du don) 5 jeux de très bonne qualité !</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

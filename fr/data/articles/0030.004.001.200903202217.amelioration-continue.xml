@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Amélioration continue]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Pas mal de nouveautés pour ce mois ci, 
+en plus des corrections mineures habituelles de typographie, présentation, 
+fautes d'accords ... vous trouverez : </p>
+
+<h3>Songbook</h3>
+
+<ul>
+<li>upgrade du paquet songs.sty (disponible sur <a href="http://sourceforge.songs.net" >http://sourceforge.songs.net</a>)</li>
+<li>amélioration de la présentation des indexes</li>
+<li>correction du bookmark pour l'index des titres</li>
+<li>Ajustement des paramètres type marges pour une meilleure optimisation des pages&nbsp;</li>
+<li>Intégration du site web ikiwiki comme documentation du projet (<a href="http://songbook.lohrun.net" >http://songbook.lohrun.net</a>)</li>
+</ul>
+
+<h3>Nouvelles tabs</h3>
+
+<ul>
+<li>Eels - I like birds, Packing Blankets, Hey man</li>
+<li>Moriarty - Jimmy</li>
+<li>Bob Dylan - Blowin in the wind </li>
+<li>Les Cowboys fringants - La manifestation</li>
+<li>Terra Naomi - Say it's possible (Lohrun)</li>
+<li>Garfunkel &amp; Oates - F*** you (Lohrun)</li>
+</ul>
+
+<h3>Site web</h3>
+<ul>
+<li>Section Documentation pour référencer les tutos, la liste des chansons etc </li>
+<li>Ajout d'un bonus dans la section <a href="http://www.patacrep.com/static1/downloads">download</a>: version spéciale dédiée au Donjon de Naheulbeuk (<a href="http://www.penofchaos.com/donjon" >http://www.penofchaos.com/donjon</a>)</li>
+</ul>
+
+<p>Et certainement d'autres choses que j'ai inévitablement oubliées et que je vous laisse découvrir par vous-même.</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Un mode pour emacs]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Après les chanceux utilisateurs de gedit qui avaient droit à la coloration syntaxique pour les chansons du songbook (voir news d'hier), ce sont maintenant ceux d'emacs qui vont pouvoir sauter de joie et en plus, y'a même de l'indentation automatique ;)</p>
+
+
+<p>Petite capture :</p>
+
+<a href="../data/images/mode-emacs.png">
+<img src="../data/images/mode-emacs.png.tb" alt="" />
+</a>
+
+<p>Pour l'installation:</p>
+<ul>
+    <li> downloadez le fichier songbook.el et mettez-le dans ~/.config/emacs/ (créez le dossier s'il n'existe pas) </li>
+   <li> copiez-collez les lignes suivantes à la fin de votre fichier ~/.emacs (honte à vous s'il n'existe pas encore) </li>
+</ul>
+
+<div class="unix">
+<code>(setq load-path (cons "~/.config/emacs" load-path))
+(setq auto-mode-alist
+(append '(("\\.sg$" . songbook-mode)
+) auto-mode-alist))
+(autoload 'songbook-mode "songbook" "Major-mode for <a href="http://www.patacrep.com">Patacrep</a> songbook's songs" t)
+</code>
+</div>
+
+<p>
+Et puis les sources sont hébergées sur github au cas où certains seraient intéressés:
+</p>
+
+<div class="unix"><code>http://github.com/crep4ever/songbook-emacs-mode.git</code></div>]]></content>
+	<tags><![CDATA[patacrep, emacs]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

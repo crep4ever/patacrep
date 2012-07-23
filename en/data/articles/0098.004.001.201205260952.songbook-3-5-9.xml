@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.9]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Voici également la version 3.5.9 du <a href="data/documents/songbook.pdf">songbook</a>.</p>
+<p>Cette version corrige un petit bug sous Windows qui permet maintenant d'utiliser l'option "songs":"all" dans les fichiers .sb.</p>
+<p>On y trouve le lot habituel de petites corrections à droite à gauche (à noter que la chanson <i>Poil aux yeux</i> a bien été réattribuée aux Ogres</i>) ainsi que les nouvelles chansons suivantes :</p>
+<p>Oh, j'allais oublier mais cette release est particulièrement démoniaque ... 666 pages pour le songbook ^^</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>broph</strong>
+<ul>
+  <li>Patrick Coutin - J'aime regarder les filles</li>
+  <li>Noir Désir - Où veux-tu que je regarde ?</li>
+  <li>Calvin RUssell - 5m2</li>
+  <li>Dire Straits - Brothers in arms</li>
+  <li>Noir Désir - Toujours être ailleurs</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>As de Trèfle - Pauvre planète</li>
+  <li>As de Trèfle -  La révolution</li>
+  <li>Les Cowboys Fringants - Hannah</li>
+  <li>Les Ogres de Barback - Rue Mazarine</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

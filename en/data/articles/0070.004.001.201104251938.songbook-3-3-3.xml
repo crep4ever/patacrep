@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.3.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Release de Pâques ^^</p>
+
+<p>En ce moment, même si c'est surtout le songbook-client qui reçoit pas mal d'attention, ça ne veut pas dire que le songbook est oublié pour autant ;)</p>
+<p>Ceci dit, pas grand chose à signaler à part peut-être une jolie chasse aux "tirets". J'ai essayé d'utiliser à bon escient les tirets, traits d'union et autres quadratins là où il fallait.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Lohrun</strong>
+<ul>
+<li>The Rolling Stones - You can't always get what you want</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Renaud - Salut manouche</li>
+<li>Pierre Perret - Les jolies colonies de vacances</li>
+<li>The Connells - '74-'75</li>
+<li>Noir Désir - L'homme pressé</li>
+<li>Noir Désir - Le vent nous portera</li>
+<li>La Tête à Toto - Petit bonhomme</li>
+<li>La Tête à Toto - Les projets</li>
+<li>Renaud - C'est quand qu'on va où ?</li>
+<li>Bruce Springsteen - Mrs McGrath</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

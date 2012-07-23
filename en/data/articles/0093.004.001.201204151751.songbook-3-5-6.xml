@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.6]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir à tous,</p>
+
+<p>La version 3.5.6 du <a href="data/documents/songbook.pdf">songbook</a> pointe le bout de son nez ce soir avec quelques trucs sympatoches :)</p>
+
+<ul>
+  <li>Primo, ça compile beaucoup plus vite. On passe de 5mn à 15s pour
+  générer le songbook.pdf ! Le problème venait des images pour les
+  jaquettes d'album. Avant, on créait une liste avec tous les chemins
+  du type "songs/artist/" pouvant contenir les images. Et pdflatex
+  passait un temps fou à évaluer tous ces chemins avant de trouver
+  l'image adéquate. En faisant une copie temporaire de toutes les
+  jaquettes dans un même répertoire pendant la compilation, on obtient
+  ce très joli gain de performances !</li>
+  <li>Il y a maintenant une option pour n'avoir qu'une seule chanson
+  par page. Ça devrait faire plaisir à certains ;) Cherchez la case à
+  cocher "onesongperpage" dans les préférences du
+  songbook-client.</li>
+  <li>J'ai bataillé un peu avec certaines histoires de contractions
+  des "il y a" et "peut-être" qui sont maintenant standardisées sur
+  l'ensemble des chansons à "y a" (sans apostrophe) et "p't'être"</li>
+  <li>Et toujours plus de tabs ainsi que de nouveaux contributeurs !
+  C'est qu'on vient tout de même de dépasser la barre des 700 ! Cool
+  !</li>
+</ul>
+
+<p>Et si, j'en profite pour m'excuser, j'avais oublié d'inclure les partitions lilypond dans la release précédente. Ce coup-ci c'est bon ^^</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Hanarka</strong>
+<ul>
+  <li>Belyscendre - Hélas madame</li>
+  <li>Francis Cabrel - La corrida</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>The Bloody Irish Boys - Drunk tonight</li>
+  <li>Jacques Dutronc - La fille du Père Noël</li>
+</ul>
+
+<strong>broph</strong>
+<ul>
+  <li>Calvin Russel - Down down down</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>Debout sur le zinc - J'ai déjà donné</li>
+  <li>Debout sur le zinc - Comme un frisson</li>
+  <li>Debout sur le Zinc - Sur le fil</li>
+  <li>Debout sur le zinc - Elle m'ennuie</li>
+  <li>Debout sur le zinc - Les angles</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

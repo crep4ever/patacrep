@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Patacrep !]]></title>
+	<allow_com>0</allow_com>
+	<template><![CDATA[article-2.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<div class="slide" style="background-color:#CCCCCC">
+  <div class="slide-odd">
+    <a class="lightBox" href="#" tabindex="1">
+      <img src="../data/images/books.png" alt="books" />
+    </a>
+    <div class="cssBox">  	
+      <div class="back"></div>
+      <div class="holder">
+	<div class="frame">
+	  <img class="large" src="../data/images/books-full.png" alt="books-full" />
+	  <img class="close" src="../data/images/close.png" alt="close" />
+	</div>
+      </div>
+    </div>
+    <h1>Guitar songbooks</h1>
+    <ul>
+      <li>All your tabs in a single document</li>
+      <li>Hundreds of tabs available</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" style="background-color:#E7D6A0">
+  <div class="slide-even">
+    <a class="lightBox" href="#" tabindex="1">
+      <img src="../data/images/typo.png"  style="margin-left:-100px;" alt="typo" />
+    </a>
+    <div class="cssBox">  	
+      <div class="back"></div>
+      <div class="holder">
+	<div class="frame">
+	  <img class="large" src="../data/images/typo-full.png" alt="typo-full" />
+	  <img class="close" src="../data/images/close.png" alt="close" />
+	</div>
+      </div>
+    </div>
+    <h1>High quality layout</h1>
+    <ul>
+      <li>LaTeX rendering for typography</li>
+      <li>Music sheets integration with Lilypond</li>
+      <li>Coherent notation for chords</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" style="background-color:#CDBFD9">
+  <div class="slide-odd">
+    <a class="lightBox" href="#" tabindex="1">
+      <img src="../data/images/client.png" alt="songbook-client"/>
+    </a>
+    <div class="cssBox">  	
+      <div class="back"></div>
+      <div class="holder">
+	<div class="frame">
+	  <img class="large" src="../data/images/client-full.png" alt="songbook-client-full" />
+	  <img class="close" src="../data/images/close.png" alt="close" />
+	</div>
+      </div>
+    </div>
+    <h1>Build your own songbook</h1>
+    <ul>
+      <li>Select your songs with a single click</li>
+      <li>Songs can be improved by the community</li>
+      <li>Runs on Linux, Mac and Windows</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" style="background-color:#CBD7AD">
+  <div class="slide-even">
+    <a class="lightBox" href="#" tabindex="1">
+      <img src="../data/images/foss.png" style="margin-left:-180px;" alt="foss"/>
+    </a>
+    <div class="cssBox">  	
+      <div class="back"></div>
+      <div class="holder">
+	<div class="frame">
+	  <img class="large" src="../data/images/foss-full.png" alt="foss-full"/>
+	  <img class="close" src="../data/images/close.png" alt="close" />
+	</div>
+      </div>
+    </div>    
+    <h1>Free and Open Source</h1>
+    <ul>
+      <li>Software and documents of this website are free and open source</li>
+      <li>Your contributions are very welcome !</li>
+    </ul>
+  </div>
+</div>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

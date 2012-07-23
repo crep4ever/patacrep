@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.3.5]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Yop</p>
+
+<p>Enfin un peu de temps libre mis à profit qui voit arriver une nouvelle flopée de chansons pour la release 3.3.5 du <a href="../data/documents/songbook.pdf">songbook</a>.
+</p>
+
+<p>Prochaine étape, mise à jour de la <a href="../data/documents/doc.pdf">doc</a> et release de la v0.5 du <a href=http://github.com/crep4ever/songbook-client>songbook-client</a> !</p>
+
+<h3>Nouvelles chansons</h3>
+<strong>Lohrun</strong>
+<ul>
+<li>Outkast - Hey Ya</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Henri Salvador - Une chanson douce</li>
+<li>Nirvana - Come as you are</li>
+<li>Michel Fugain - Je n'aurai pas le temps</li>
+<li>Michel Fugain - Les Acadiens</li>
+<li>Bob Dylan - One more cup of coffee</li>
+<li>Johnny Cash - It ain't me, babe</li>
+<li>Johnny Cash - I walk the line</li>
+<li>Le Donjon de Naheulbeuk - Le laridé du poulet</li>
+<li>Le Donjon de Naheulbeuk - Nanana de l'elfe</li>
+<li>Cat Stevens - Wild world</li>
+<li>Maxime Le Forestier - Mon frère</li>
+<li>Loic Lantoine - Côté punk</li>
+<li>Mon côté punk - Inch-Allah</li>
+<li>Pierre Perret - Au café du canal</li>
+<li>Pierre Perret - Mon p'tit loup</li>
+<li>La Rue Kétanou - Almarita</li>
+<li>Hugues Aufray - Céline</li>
+<li>Hugues Aufray - Le jour où le bateau viendra</li>
+<li>Hugues Aufray - Les couleurs</li>
+<li>Hugues Aufray - Stewball</li>
+<li>Les Ogres de Barback - Little gentleman</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

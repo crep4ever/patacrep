@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.1]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hi there</p>
+
+<p>V'la la petite 3.6.1 de
+  votre <a href="data/documents/songbook.pdf">songbook</a> préféré qui
+  apporte pas mal de changements visuels, une fois n'est pas coutume.
+</p>
+
+<ul>
+  <li>Interligne réduit : et hop, 100 pages de moins. Les castors seront
+    contents. De mon point de vue, ça améliore la lisibilité en mettant
+    mieux en avant les blocs des différents couplets. En plus de ça, il y
+    a plus de chansons qui tiennent sur une seule page donc bien plus
+    pratique :)</li>
+  <li>Affichage du nom des albums : le nom de l'album apparaît en toutes
+    lettres sous le nom de l'artiste</li>
+  <li>Nouveaux champs 'original' et 'url' qui permettent d'indiquer la
+    chanson originale dans le cas des reprises ainsi qu'un lien vers le
+    site de l'artiste. Voir par exemple les chansons de <i>JCFrog</i></li>
+  <li>Nouvel apparence pour l'environnement 'bridge' : les ponts sont
+    plus facilement identifiables avec une petite barre verticale en
+    pointillés sur leurs côtés.</li>
+  <li>Nouvelle macro \Adlib</li>
+  <li>Nouvelle macro \transposition{n} indiquant un décalage ou
+    effectuant la transposition des accords en mode accords répétés (voir
+    par exemple <i>Barbara - L'aigle noir</i>)</li>
+  <li>Suppression du titre 'Liste des chansons' qui avait peu d'intérêt
+    en soi.</li>
+  <li>Réécriture de la liste des accords de guitare/ukulélé en début de
+    recueil. C'est un peu mieux aligné et plus joliment présenté. Merci à
+    Kaosun pour la liste des accords de ukulélé !</li>
+</ul>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>Thomas Fersen - Au café de la paix</li>
+  <li>Thomas Fersen - Saint-Jean-du-Doigt</li>
+  <li>Renan Luce - Le Lacrymal Circus</li>
+  <li>Les Wriggles - Petit bonhomme</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Le Donjon de Naheulbeuk - Chicken quest</li>
+  <li>Le Donjon de Naheulbeuk - Crom</li>
+  <li>Le Donjon de Naheulbeuk - Hé, la petite dame</li>
+  <li>Le Donjon de Naheulbeuk - La hache Durandil</li>
+  <li>Le Donjon de Naheulbeuk - Le petit gobelin</li>
+  <li>Le Donjon de Naheulbeuk - Tralala du nain</li>
+  <li>Les Amis d'ta femme - Le tango du viagra</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

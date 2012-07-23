@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Rapido]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello web. Le <a href="../data/documents/songbook.pdf">songbook</a> passe en version 3.2.7. Release difficile s'il en est. Beaucoup de bugs de dernière minutes, de correctifs de correctifs et de prises de tête avec les branches de git. Bref. Au menu : 
+</p>
+
+<ul>
+ <li> passage à la dernière version du Songs LaTeX Package (2.12b) qui par là-même permet de corriger un petit bug de caractères accentués dans le titre des scriptures (les genres de notes en fin de chanson)</li>
+ <li> nouvelle option pour afficher/masquer toutes les illustrations</li>
+ <li> épuration du template minimal</li>
+ <li> ajout de fichiers commentés d'exemples de chanson (./examples) en français et en anglais qui peuvent servir de base pour ceux qui voudraient nous en écrire</li>
+ <li> incrément automatique de la version des pdf</li>
+ <li> beaucoup de petites corrections à droite à gauche</li> 
+ <li> guillemets à la française dans les chansons écrites en français</li>
+ <li> homogénéisation des "text/musicnotes" du genre intro/outro</li>
+ </ul>
+
+
+<h3>Nouvelles chansons</h3>
+
+
+<strong>Benoît Gauzère</strong>
+<ul>
+  <li>The Beautiful Girls - La Mar</li>
+</ul>
+
+<strong>Matthias Bussonnier</strong>
+<ul>
+  <li>Alex Beaupain - Les yeux au ciel</li>
+  <li>Alex Beaupain - De bonnes raisons</li>
+  <li>Alex Beaupain - Ma mémoire sale</li>
+  <li>Alex Beaupain - As-tu déjà aimé ?</li>
+</ul>
+
+<strong>Dominique Goffe</strong>
+<ul>
+  <li>Boby Lapointe - Méli-Mélodie</li>
+  <li>Boby Lapointe - Framboise</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Karpatt - Fan de maman</li>
+  <li>Karpatt - Soulève ta jupe</li>
+  <li>Gipsy Kings - Baila me</li>
+  <li>Gipsy Kings - Bamboleo</li>
+  <li>Debout sur le zinc - Le tanticide</li>
+  <li>Gogol Bordello - Alcohol</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

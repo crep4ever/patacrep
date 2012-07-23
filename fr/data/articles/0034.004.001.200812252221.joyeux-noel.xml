@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Joyeux Noël !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Joyeux Noël à tous !</p>
+<p>Hélas, pas de nouveauté à signaler du carnet de bord, juste un petit message en espérant que vous passez tous de bonnes fêtes ! </p>]]></content>
+	<tags><![CDATA[patacrep]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

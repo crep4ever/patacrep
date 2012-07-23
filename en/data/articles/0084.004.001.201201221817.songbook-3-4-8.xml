@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.8]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir,</p>
+
+<p>La version 3.4.8 du <a href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a> est dispo avec quelques nouvelles chansons, partitions Lilypond et autres corrections. Quelques scripts ont également été peaufinés. Enjoy.</p>
+
+<h3>Nouvelles tablatures</h3>
+<strong>Crep</strong>
+<ul>
+<li>Gérald De Palmas - Sur la route</li>
+<li>Tonton David - Chacun sa route</li>
+<li>Les Hurlements d'Léo - La malle en mai</li>
+<li>Philippe Chatel & Robert Charlebois - La compagnie des lapins bleus</li>
+<li>Oldelaf - Les mains froides</li>
+<li>Soggy Bottom Boys - I am a man of constant sorrow</li>
+<li>Pierre Perret - Bernard Pivot</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

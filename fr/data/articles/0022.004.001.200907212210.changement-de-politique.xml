@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Changement de politique]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Pas de panique, pas de panique. Le carnet de chant est et restera gratuit (et libre !), malgré ce que pourrait laisser entendre ce titre (en même temps, la crise toussa).</p>
+
+<p>Bon, tout ceci pour dire qu'après avoir suivi les conseils avisés de Lohrun, le tome 2 se voit déjà condamné après une durée de vie relativement courte, vous en conviendrez. La raison à cela est fort simple: il reviendra (parmi les siens, hum) lorsqu'il aura suffisamment de contenu. Entendez par là que le chordbook reprend ses droits en tant que version officielle proposant toutes les chansons et que le tome 1 est maintenu en tant que version stable remplissant un classeur de 160 pages.</p>
+
+<p>À ce propos, j'en profite pour parler de la mise à jour de ce soir. ... voilà c'est fait (plus sérieusement, il n'y a que des modifs mineures, enfin je crois, j'ai un peu la flemme de parser les logs du git, honte sur moi, mais il est tard). Sur ce bonne nuit à tous les non-insomniaques ! </p>]]></content>
+	<tags><![CDATA[songbook, patacrep]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

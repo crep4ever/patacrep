@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[Alexandre]]></author>
+	<type>normal</type>
+	<ip>82.247.200.53</ip>
+	<mail><![CDATA[alexandre.dupas@gmail.com]]></mail>
+	<site><![CDATA[http://adupas.org]]></site>
+	<content><![CDATA[Et pendant ce temps, petite modification du songbook-client et du songbook pour autoriser les changements de la couleur et de la police par défaut. Il n&#039;est pour le moment possible que de passer d&#039;une police en 10pt (defaut), 11pt ou 12pt. Ce n&#039;est pas encore assez mais c&#039;est un début (et du coup, il est maintenant possible de définir des valeurs possible pour des champs dans les paramètres d&#039;un template (voir patacrep.tmpl).]]></content>
+</comment>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[On reprend les bonnes habitudes]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Le <a href="../data/documents/songbook.pdf">songbook</a> accueille 
+une flopée de nouvelles chansons ce soir !
+En dehors de ça, quelques corrections sur <i>Alexis HK - Gaspard</i>
+et <i>Garfunkel &amp; Oates - F*** you</i>. Plus deux ou trois petites partitions Lilypond en bonus.
+</p>
+<p>
+Et puis n'oubliez que demain nous serons le 10/10/10 et que ça, en binaire, ça donne <a href="http://en.wikipedia.org/wiki/42_%28number%29#In_The_Hitchhiker.27s_Guide_to_the_Galaxy">42</a> ! À ce propos, n'oubliez pas de mettre votre <a href="http://www.ubuntu.com">Ubuntu</a> à jour ;)
+</p>
+<p>
+Enjoy ;)
+</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Crep:</strong>
+<ul>
+  <li>Leonard Cohen - If it be your will</li>
+  <li>Bob Dylan - The times they are a-changin</li>
+  <li>Joan Baez - Here's to you</li>
+  <li>Joe Dassin - Les petits pains au chocolat</li>
+  <li>Renaud - Chanson pour Pierrot</li>
+  <li>Renaud - En cloque</li>
+  <li>The Doors - Light my fire</li>
+  <li>The Rolling Stones - Paint it black</li>
+  <li>The Rolling Stones - Angie</li>
+  <li>The Rolling Stones - Ruby Tuesday</li>
+  <li>Simon &amp; Garfunkel - Me and Julio down by the schoolyard</li>
+  <li>Georges Brassens - À l'ombre du cœur de ma mie</li>
+  <li>Georges Brassens - Je me suis fait tout petit</li>
+  <li>Maxime Le Forestier - Comme un arbre</li>
+  <li>Maxime Le Forestier - Le steak</li>
+  <li>Georges Brassens - Ballade des dames du temps jadis</li>
+  <li>Maxime Le Forestier - Éducation sentimentale</li>
+  <li>The mamas and the papas - California dream</li>
+</ul>
+
+
+<p>
+EDIT: j'avais laissé passer un gros paquets de coquilles dans ces nouvelles tabs, y'en a normalement beaucoup moins. Pensez à signaler celles que je n'aurais toujours pas repérées ;)
+</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

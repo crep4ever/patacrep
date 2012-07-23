@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Question de préférences]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Que de news, que  de news. Les premiers retours du songbook-client ayant été stimulateurs, y'a plein de petites nouveautés :)</p>
+
+
+<p>Vous pouvez tester si vous êtes synchro sur le git du songbook-client ( http://github.com/crep4ever/songbook-client.git )
+Attention cependant, ça a de grandes chances de planter pour l'instant car il faut faire des modifications dans crepbook.cls .
+Donc soit vous patientez un peu que <a href="http://git.lohrun.net/">Lohrun</a> merge mes modifs, soit vous rajoutez à la main "\renewcommand{\lyricfont}{\normalfont\normalsize}" avant le definecolor dans crepbook.cls.</p>
+
+
+<p>Maintenant que j'ai fait fuir tout le monde un ptit aperçu :)</p>
+
+<a href="../data/images/sbc-preferences.png">
+<img src="../data/images/sbc-preferences.png.tb" alt="" />
+</a>
+
+<p>Donc une jolie réorganisation du menu préférences avec de nouvelles options de personnalisation.</p>
+
+
+<p>Et puis, pour essayer d'être un peu moins vague sur cette histoire de chemin à renseigner, la petite phrase verte vire au orange ou au rouge en vous indiquant ce qu'il manque :whistle:
+Si vous sélectionnez l'option "lilypond" une petite phrase viendra vous avertir si lilypond n'est pas installé (dans ce cas, ça plante pas mais y'aura pas de partitions) ou vous assurer que oui oui, lilypond est bien installé :erf:</p>
+
+Pour le reste:
+
+    
+<ul>
+<li>les paquets debian ont été mis à jour hier pour inclure les dépendances du songbook lui-même (latex inclu). <a href="http://lilypond.org/">Lilypond</a> et git-core sont en recommandées.</li>
+    <li>je crois avoir enfin saisi comment marchait le processus de traduction (un peu galère quand même) donc la version fr sera dans la prochaine version du paquet.</li>
+    <li>quelques petites améliorations sur l'affichage des pochettes</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

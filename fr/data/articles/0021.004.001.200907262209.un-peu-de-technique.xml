@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Un peu de technique]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Pas mal de choses à raconter sur le songbook ce coup ci. Alors, en vrac, Lohrun a fait pas mal de refactorisation en déportant la personnalisation du paquet (page de garde, paramètres etc ..) songs.sty dans la classe crepbook.cls. Ensuite, il y a le script python pour gérer les volumes. Cela permet de faire facilement sa propre compilation: il suffit de renseigner la liste des chansons qu'on veut dans un fichier .sgl . C'est d'ailleurs comme ça que sont maintenant gérés le tome 1 et la version naheulbeuk. Ensuite, intégration propre de lilypond ! Enfin ! En gros, le code n'est plus écrit directement dans les chansons mais dans des fichiers séparés dans ./lilypond/ et les chansons font les&nbsp; include qui vont bien. Un script est dispo dans utils pour générer les partitions à partir des sources (.ly). Du moment que les fichiers ont été générés, ils seront inclus dans le chordbook.
+</p>
+
+<p>Lohrun travaille également sur l'intégration de tablatures (les trucs avec les 6 cordes de la guitare et des chiffres pour les doigts ... j'ai jamais réussi à les lire :( ) et le résultat est plutôt très très classe donc ça viendra peut être un jour en option :)
+</p>
+
+<p>Un peu d'esthétique aussi: les box grises (numéro de chanson, capo, indexes, ...) sont maintenant vertes !!! </p>
+
+<p>Oublions un peu la technique et parlons musique. Quelques nouvelles tabs du livre pour "enfants" Bête et Méchant d'Oldelaf (un grand merci pour les pistes de "KaraMokés"!)&nbsp; et des tabs de Lohrun:</p>
+
+<ul>
+<li>Oldelaf - J'veux être musclé</li>
+<li>Oldelaf - Mon Ange</li>
+<li>U2 - Sunday Bloody Sunday</li>
+<li>Rise Against - Hero of War (Lohrun)</li>
+<li>Cranberries - Animal Instinct (Lohrun)</li>
+</ul>
+
+<p>Voili, plus la mise à jour des sources et de toutes les versions !</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

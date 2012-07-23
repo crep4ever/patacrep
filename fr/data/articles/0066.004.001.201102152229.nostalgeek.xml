@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Nostalgeek]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Un ptit air à la guitare pour la route (et pour les amoureux de jeux video surtout).</p>
+
+<audio controls preload>
+  <source src="../data/audio/nostalgeek.ogg">
+  <source src="../data/audio/nostalgeek.mp3">
+  Audio not supported. Please use an HTML5 capable browser.
+</audio>
+
+<p>Et puis vous pouvez la retrouver avec les paroles/tablature dans la section <a href="static5/audio">audio</a>.</p>
+
+<p>Merci à Ludo pour ses remarques constructives et ses idées pour terminer la chanson !!</p> 
+
+<p>Bonne soirée.</p>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">Nostalgeek</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/static5/audio" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

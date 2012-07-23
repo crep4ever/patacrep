@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.7]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir,</p>
+
+<p>Si elle s'est un peu faite attendre, la version 3.5.7
+du <a href="../data/documents/songbook.pdf">songbook</a> est désormais
+dispo !</p>
+
+<p>On y trouve de nouvelles chansons, les habituelles corrections et
+quelques modifs sur certains scripts. À noter une petite mise à jour
+de l'édition <a href="../data/documents/naheulbeuk.pdf">naheulbeuk</a>,
+ayant enfin reçu
+leur <a href="http://www.penofchaos.com/warham/donjon-disque.htm#04">dernier
+album</a>.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Hanarka</strong>
+<ul>
+  <li>Alain Souchon - La ballade de Jim</li>
+  <li>Francis Cabrel - Octobre</li>
+  <li>Maxime Le Forestier - Passer ma route</li>
+  <li>Alain Souchon - Sous les jupes des filles</li>
+  <li>Phil Barney - Un enfant de toi</li>
+  <li>Roch Voisine - Hélène</li>
+  <li>Téléphone - Le jour s'est levé</li>
+</ul>
+
+<strong>broph</strong>
+<ul>
+  <li>Jean-Jacques Goldman - On ira</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Gerry Rafferty - To each and everyone</li>
+<li>Le Donjon de Naheulbeuk - Maître du donjon</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[Simon]]></author>
+	<type>normal</type>
+	<ip>193.52.107.22</ip>
+	<mail><![CDATA[]]></mail>
+	<site><![CDATA[]]></site>
+	<content><![CDATA[Bonjour à l&#039;équipe ! Bravo pour votre travail ! Je suis absolument fan de votre songbook !
+
+J&#039;ai esssayé de télécharger le client pour Mac OS je suis sous 10.5.8 et l&#039;application plante systématiquement... je suppose le même genre d&#039;erreurs que précédemment :
+
+Process:         Songbook-Client [2389]
+Path:            /Applications/Songbook-Client.app/Contents/MacOS/Songbook-Client
+Identifier:      com.patacrep.songbook-client
+Version:         ??? (???)
+Code Type:       X86-64 (Native)
+Parent Process:  launchd [118]
+
+Interval Since Last Report:          427 sec
+Crashes Since Last Report:           6
+Per-App Interval Since Last Report:  0 sec
+Per-App Crashes Since Last Report:   6
+
+Date/Time:       2011-06-16 12:13:49.287 +0200
+OS Version:      Mac OS X 10.5.8 (9L31a)
+Report Version:  6
+Anonymous UUID:  61DE17D5-B35A-4E03-89F3-6A36D2EEE29F
+
+Exception Type:  EXC_BREAKPOINT (SIGTRAP)
+Exception Codes: 0x0000000000000002, 0x0000000000000000
+Crashed Thread:  0
+
+Dyld Error Message:
+  unknown required load command 0x80000022
+
+À l&#039;heure d&#039;aujourd&#039;hui, y&#039;a t&#039;il des avancées à ce problème ? j&#039;ai essayé de mettre à jour la librairie qt sans succès !
+
+En vous remerciant pour vos suggestions, réponses, conseils !]]></content>
+</comment>

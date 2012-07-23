@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Les vidéos débarquent sur Patacrep !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Et voili, ça c'est fait. Le site accueille maintenant quelques enregistrements <a href="http://www.patacrep.com/static4/videos">video</a> des chansons du <a href="data/documents/songbook.pdf">songbook</a>.
+</p>
+
+<p>
+Bon, soyez indulgents, les vidéos ont été enregistrées à l'arrache par-ci par-là, souvent en une seule prise (d'où les couacs et autres erreurs de texte) et dans une période où j'étais pas forcément au top de ma forme :D
+</p>
+
+<p>
+En espérant que ça pourra en aider quelques uns ou que cela vous donnera envie d'écouter de nouvelles chansons !
+</p>]]></content>
+	<tags><![CDATA[video]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

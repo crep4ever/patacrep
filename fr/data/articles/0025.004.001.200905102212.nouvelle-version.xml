@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Nouvelle version !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Importante mise à jour du songbook qui pour l'occasion, passe en version 3.1. Au menu:</p>
+
+<ul>
+<li>ajout des covers de l'album dans l'en-tête des chansons</li>
+<li>nouvelle page de garde</li>
+<li>le lyricbook ne contient plus d'images car il se veut une version aussi compacte que possible du songbook</li>
+<li>réorganisation de toutes les illustrations</li>
+<li>nouvelle version du makefile pour prendre en compte les covers</li><li>plusieurs corrections assez importantes dans les chansons (optimisation des colonnes, compactage des motifs d'accords répétés, oublis divers ....) </li>
+</ul>
+
+<p>Encore merci à Lohrun pour son boulot ! C'est en bonne partie grâce à lui et ses commandes sed de 800 caractères de long que ça compile !</p>
+
+<h3>Nouvelles chansons:</h3>
+
+<ul>
+<li>The Eagles - Hotel California</li>
+<li>The Beatles - Yellow submarine</li>
+<li>Carter Family - In the highways (O'Brother soundtrack)</li>
+<li>Carter Family - Keep on the sunny side (O'Brother soundtrack)</li>
+<li>Alain Bashung - Gaby, oh Gaby (Lohrun)</li>
+<li>Radiohead - Creep (Lohrun)</li>
+</ul>
+
+
+<p>L'intégration des covers a entrainé un surcout non négligeable dans le temps de compilation du songbook. Aussi, comme je n'ai pas réussi à trouver de porte-vues de plus de 160 pages et qu'on en est à 150 environ, le carnet de chants sera figé dès que le chordbook atteindra 160 pages. La suite se passera donc dans le tome 2 ! Ça permettra d'avoir une version imprimée relativement stable pour très bientôt.</p>
+
+<p>Ainsi donc, dernier appel à contribution ! Si vous voulez voir vos chansons préférées dans le tome 1, dépêchez-vous avant que le quota des 160 pages se termine ;) </p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

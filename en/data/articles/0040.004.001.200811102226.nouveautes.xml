@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Nouveautés]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Quelques nouveautés du côté du carnet de chansons !</p>
+
+<h3>Nouvelles chansons</h3>
+
+<ul>
+<li>Hugues Aufray - Tu sens bon la terre</li>
+<li>Cat Stevens - My lady d'Arbanville</li>
+<li>Graeme Allwright - Il faut que je m'en aille</li>
+<li>Graeme Allwright - Petites boîtes</li>
+<li>Simon &amp; Garfunkel - Scarborough Fair ~ Canticle</li>
+<li>Donjon de Naheulbeuk - Bugger off (par Lohrun)</li>
+<li>Moldy Peaches - Anyone else but you (par Lohrun) </li>
+</ul>
+
+<h3>Corrections</h3>
+<p>Beaucoup de petites corrections d'orthographe, de mise en page etc ...</p>
+
+<h3>Code</h3>
+
+<p>
+Utilisation de la dernière version des makefile proposés par 
+<a href="http://www.lohrun.net">Lohrun</a>
+</p>
+
+<ul>
+<li>correction des signets dans le panneau de navigation du pdf</li><li>meilleure intégration des images avec la commande \image</li>
+<li>et plein d'autres petits détails rendant l'ensemble toujours plus agréable !</li>
+</ul>
+
+<p>
+PS: le lyricbook n'est pas à jour ... contrairement au chordbook et à l'archive de sources ;)
+</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

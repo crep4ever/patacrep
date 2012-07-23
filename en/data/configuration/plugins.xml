@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<plugin name="audio_player" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxtoolbar" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxmobile" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxcapchaimage" activate="0"><![CDATA[]]></plugin>
+</document>

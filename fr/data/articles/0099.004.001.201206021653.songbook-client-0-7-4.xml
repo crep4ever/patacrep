@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-Client 0.7.4]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello</p>
+
+<p>Voici la version 0.7.4 du Songbook-Client avec encore et toujours plus de bugs en moins qu'en plus.</p>
+<p>Normalement, sont corrigés :</p>
+<ul>
+<li>le problème avec le dernier diagramme gtab/utab qui n'était pas pris en compte lors de la création d'une nouvelle chanson</li>
+<li>un crash lorsqu'on essayait d'activer la correction orthographique  sans en avoir le dictionnaire</li>
+<li>un crash lors de l'interruption du téléchargement d'une nouvelle bibliothèque</li>
+<li>l'apparition de nouveaux fichiers pour les pochettes alors qu'on avait rien demandé</li>
+<li>certains caractères spéciaux LaTeX qui disparaissaient lors de la sauvegarde</li>
+</ul>
+
+<p>Maintenant, à vous de tester :)</p>
+
+<p>La mise à jour vers la 0.7.4 est disponible pour Ubuntu et Windows. Les paquets Debian (thx Lohrun) et MacOS (thx Olivier) sont maintenant disponibles pour la version 0.7.3 (et bientôt pour la 0.7.4)</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

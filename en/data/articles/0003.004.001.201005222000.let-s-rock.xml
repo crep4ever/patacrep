@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Let's rock !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hé hé, pour une fois, y'a des nouvelles presque intéressantes.
+Je vais essayer de faire un effort pour ne rien oublier mais c'est pas gagné-gagné ;)
+</p>
+
+<h3>Songbook-client</h3>
+
+
+<p>Commençons avec les nouveautés de l'interface Qt:</p>
+
+
+<ul>
+
+    <li> l'application dispose de sa petite entrée de menu pour une meilleure intégration aux bureaux Linux. En gros, une fois installé, on peut accéder au songbook-client depuis le menu Applications/Accessoires. Bon, c'est peut-être pas l'emplacement le plus approprié mais j'étais pas vraiment inspiré. Et puis j'ai uniquement testé sous <a href="http://www.gnome.org/">Gnome</a>. Si un utilisateur KDE constate que ça ne marche pas chez lui, qu'il le fasse savoir ;)
+</li>
+
+<li>     une nouvelle entrée de menu "Database" permet de gérer les actions liées ... à la base de données de chansons. L'action Fichier/Synchroniser se retrouve donc dans Database/Synchroniser. Incroyable. Plus intéressant, il y a une nouvelle entrée Database/Download qui elle permet de récupérer directement toutes les chansons du moment que vous avez une connexion internet et git d'installé. J'espère que certains apprécieront l'effort   pour minimiser les lignes de commandes nécessaires :p
+<br/>
+<a href="data/images/sbc-download.png">
+<img src="data/images/sbc-download.png.tb" alt="" />
+</a>
+</li>
+
+
+<li>    il y a maintenant un super paquet <a href="http://www.debian.org">Debian</a> tout beau tout neuf ! J'ai pas encore fait de lien dans la section Downloads du site mais ça ne saurait tarder. En attendant, vous pouvez quand même le récupérer directement ici. Il y a aussi une version x86 mais elle est un peu plus ancienne. Un grand merci à <a href="http://git.lohrun.net/">Lohrun</a> pour avoir débroussaillé mes tentatives infructueuses et fini par obtenir un paquet fonctionnel !
+</li>
+
+    <li> Pour le coup, plus besoin de compiler le songbook-client, un double clic et go gdebi (ou un ptit dpkg -i pour les moins fainéants).
+</li>
+
+    <li> dans une moindre mesure, il y a aussi un readme.md (markdown) pour que ça  fasse plus joli sur github ;)
+</li>
+
+</ul>
+
+<h3>Documentation</h3>
+
+
+<p>Grosse mise à jour de la doc. Ça devrait être plus agréable à lire avec quelques bouts de code repris d'un bouquin framabook que je ne peux que conseiller à tous ceux qui veulent se pencher un peu plus sérieusement sur LaTeX.
+Par contre elle n'est pas forcément à jour pour le menu Database. Bientôt promis.</p>
+
+
+<h3>Songbook</h3>
+
+<ul>
+
+<li> Une petite modif pour les hyperliens dans le pdf. Ils étaient auparavant encerclé d'un rougekipiklesyeux. Ils sont maintenant vert tango foncé. Beaucoup mieux.
+</li>
+
+<li> Une petite réécriture en python du script (shell) latex-preprocessing permettant d'appliquer automatiquement certaines règles de typos/accords etc ... sur toutes les chansons. Les chiffres parlent d'eux même:
+<br/>
+<a href="data/images/sh-python.png">
+<img src="data/images/sh-python.png.tb" alt="" />
+</a>
+</li>
+
+
+<li>
+Côté nouvelles chansons, y'en a pas des masses (pas le temps de tout faire non plus). Un ptit solo lilypond du violon de Sad Lisa (Çat Stevens) et une nouvelle comptine (avec lilypond svp): la sorcière Grabouilla (Francine Pohl).
+</li>
+
+</ul>
+
+<h3>Bonus</h3>
+
+<p>Juste pour le fun (rien à voir avec des songbooks pour une fois),  voici quelques strips de mes (més)aventures de geek:p </p>
+
+<ul>
+<li><a href="data/documents/strips/strip-01.png">strip 01</a></li>
+<li><a href="data/documents/strips/strip-02.png">strip 02</a></li>
+<li><a href="data/documents/strips/strip-03.png">strip 03</a></li>
+</ul>
+
+<h3>Todo list ?</h3>
+
+<p>Dépatouiller cette histoire d'accords de ukulélé qui n'a pas l'air si évidente que ça ... le reste on verra bien :p </p>
+
+Bonne nuitée.]]></content>
+	<tags><![CDATA[songbook, songbook-client, documentation, strip]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

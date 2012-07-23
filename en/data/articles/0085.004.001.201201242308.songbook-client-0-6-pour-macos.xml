@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-client 0.6 pour MacOS]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir à tous,</p>
+
+<p>Olivier et Alex vous ont préparé une petite surprise ce soir avec un <a href="data/documents/Songbook-Client-0.6.0.dmg">dmg</a> tout frais, tout beau du songbook-client 0.6 pour Mac.</p>
+<p>Merci également à Ludo avec qui on avait commencé à débroussailler le terrain :)</p>
+<p>Happy songbook les iSongbookeurs !</p>
+
+  <div class="left">  	
+    <a class="lightBox" href="#" tabindex="1">
+      <img src="data/images/sbc-0.6-mac.tb.png" alt="songbook-client-macos"/>
+    </a>
+    <div class="cssBox">  	
+      <div class="back"></div>
+      <div class="holder">
+	<div class="frame">
+	  <img class="large" src="data/images/sbc-0.6-mac.png" alt="songbook-client-macos-full"/>
+	  <div class="caption">
+	    <h4>Songbook-Client 0.6</h4>
+	    <p>Version MacOS.</p>
+	  </div>
+	  <img class="close" src="data/images/close.png" alt="close" />
+	</div>
+      </div>
+    </div>
+  </div>
+
+<p>PS: entre-temps, moi je corrige des copies en attendant fébrilement la sortie (imminente) de SoulCalibur 5 ;)</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

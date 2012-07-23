@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.2.9 'n co]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<h3>Encore</h3>
+<p>Et hop, une nouvelle p'tite chanson à la gratte.</p>
+
+<p>
+<audio controls>
+  <source src="data/audio/encore.ogg">
+  Audio is not supported. Please use a HTML5 capable browser such as 
+  <a href="http://www.firefox.com">Firefox</a> or 
+  <a href="http://www.google.fr/chrome">Chrome</a>.
+</audio>
+</p>
+
+<h3>Songbook</h3> 
+
+<p>Nouvelle version 3.2.9 du <a
+href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a>.</p> <p>Entre le
+concert de Mes souliers sont rouges qui était vraiment chouette et la
+toute récente sortie du <a
+href="http://cd1d.com/fr/album/comment-je-suis-devenu-voyageur">dernier
+album</a> des Ogres, ça m'a motivé à rajouter quelques tabs hier soir
+:)... et v'la qu'on atteint la 400ème chanson ! Bigre, ça commence à
+en faire.</p>
+
+<h3>Songbook-client</h3>
+<p>Carreau a mis à jour le <a href="data/documents/Songbook-Client-v0.4.dmg">dmg</a> pour la version MacOS.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Dominique Goffe</strong>
+<ul>
+<li>Graeme Allwright - Le jour de clarté</li>
+<li>Hugues Aufray - Alouette</li>
+<li>Hugues Aufray - Hasta Luego</li>
+<li>Hugues Aufray - L'épervier</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Crep - Nostalgeek</li>
+<li>Les Booze Brothers - I want sex</li>
+<li>Dropkick Murphys - Dirty glass</li>
+<li>The Pogues - The Irish Rover</li>
+<li>Crep - Encore</li>
+<li>La Rue Kétanou - Les tontons</li>
+<li>Les VRP - Ramon Perez</li>
+<li>Mes souliers sont rouges - Cahin-Caha</li>
+<li>Mes souliers sont rouges - L'arbre est dans ses feuilles</li>
+<li>Mes souliers sont rouges - Sortis du bois</li>
+<li>Les Ogres de Barback - L'ennui et le jour</li>
+</ul>]]></content>
+	<tags><![CDATA[audio, songbook, songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

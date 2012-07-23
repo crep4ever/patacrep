@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Mise à jour du songbook pour ces soirées enneigées]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<h3>Songbook</h3>
+
+<p>Petite mise à jour à signaler comportant corrections, nouvelles chansons et tout le tintouin. Un nouveau champ <i>album</i> fait son apparition (thx Lohrun) dans l'en-tête des chansons .sg permettant de spécifier clairement à quel album appartient la chanson et de ne plus baser ce champ sur le nom de la cover. Le ptit bug pour les diagrammes des accords avec un chiffre de barré > 9 est également corrigé. Enfin, mes scripts pour les releases commencent à être rodés, ça devrait beaucoup simplifier les choses (et éviter plein de coquilles au passage !)
+</p>
+
+<h3>Songbook-client</h3> 
+
+<p>
+Une version 0.4 se rapproche :) Plusieurs bugs ont été corrigés et
+quelques petites modifs mineures mais sympas viennent enrichir cette appli
+qui devient de plus en plus indispensable (du moins pour moi :D). J'ai un peu la flemme de détailler plus en détail. Consultez les logs git en attendant ou attendez la news de la v 0.4 ;)
+</p>
+
+<h3>Documentation</h3>
+
+<p>
+En contrepartie, la doc n'est plus vraiment à jour et il y a plein de petits détails qui demandent à être corrigés ... plus tard. Juste quelques petits changements sur le style latex du document avec une re-écriture de la page de garde (ça devrait beaucoup moins ramer) et un passage (peut-être provisoire) à xelatex histoire de tester l'intégration de la font ubuntu ( pour l'fun ;) ).
+</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Benoît Gauzère</strong>
+<ul>
+<li>Eddie Vedder - Guaranteed</li>
+</ul>
+
+<strong>Lohrun</strong>
+<ul>
+<li>La Maison Tellier - La chambre rose</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Karpatt - Histoires de famille</li>
+<li>Crep - Kartopo</li>
+<li>Crep - Mélancolie</li>
+<li>Crep - Les ptits chemins</li>
+<li>Bobby McFerrin - Don't worry, be happy</li>
+<li>Karpatt - Lino</li>
+<li>Les Amis d'ta femme - Laisse tomber, gros</li>
+<li>Mon côté punk - Youssef</li>
+<li>The Nightwatchman - California's dark</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook, songbook-client, documentation]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

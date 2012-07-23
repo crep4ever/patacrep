@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.1]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bien l'bonjour à tous</p>
+
+<p>Le songbook est sorti en version 3.4.1 et ... <i>that's one hell of
+    a release!</i>. Il faut dire qu'il s'est passé un peu de temps
+    depuis la dernière mise à jour en raison de pas mal de changements
+    "personnels" pour tout le monde. De mon côté, j'ai enfin soutenu
+    ma thèse, déménagé et commencé les cours à l'autre bout de la
+    France (bye-bye la Normandie). Et comme je viens tout juste de
+    récupérer ma ligne internet, et bien, voici une jolie release !
+</p>
+
+<p>Alors, quoi d'neuf ?</p>
+
+<h3>Nouvel algo de tri des index</h3>
+<p>
+  Dans le songbook, les chansons sont triées par nom d'artiste puis
+  par titre.  Ce tri prend maintenant en compte les caractères
+  spéciaux comme les chiffres ou les lettres accentuées en se basant
+  sur la locale de l'utilisateur. Par exemple, "À l'aventure
+  compagnons" du "Donjon de Naheulbeuk" se retrouve ainsi correctement
+  positionné entre "A las barricadas" et "À l’ombre du cœur de ma mie"
+  au lieu d'être à la fin des chansons commençant par la lettre A. Un
+  grand merci à Guibou pour son expertise Python !
+</p>
+
+
+<h3>Traduction des "notes"</h3>
+<p>
+  Un nouveau paramètre "lang" a été ajouté aux templates qui permet de
+  traduire automatiquement les macros "textnote" et "musicnote".  Par
+  exemple: <br/>
+
+  <div class="unix">
+    <code> \musicnote[english]{transpose by a third}
+ \musicnote[french]{transposer d'une tierce}</code>
+  </div>
+  Ce nouveau paramètre permet également de traduire les champs de la
+  page de garde. La
+  version <a href="../data/documents/lyricbook.pdf">english</a> affiche
+  donc le champs "authors" au lieu de "auteurs", ça fait moins tache,
+  vous en conviendrez.
+</p>
+
+<h3>Nouvel environnement "bridge"</h3>
+<p>
+  Cela avait
+  été <a href="http://www.patacrep.com/forum/viewtopic.php?id=23">demandé</a>
+  sur le forum, c'est maintenant chose faite.  Il est maintenant
+  possible de spécifier un bloc "bridge" en plus des blocs verse
+  (couplet) et chorus (refrain) : <br/>
+    <div class="unix"><code> \begin{bridge} Blabla \end{bridge}</code></div>
+</p>
+
+<h3>Ponctuation</h3>
+<p>
+  <ul>
+    <li>les notes en fin de chanson (insérées via l'environnement
+      "scripture" du
+      package <a href="http://songs.sourceforge.net/">Songs</a>) sont
+      correctement ponctuées</li>
+    <li>suppression de la ponctuation en fin de ligne pour les vers
+      qui se terminaient par un guillemet</li>
+  </ul>
+</p>
+
+<h3>Nettoyages et réorganisations</h3>
+<p>
+  <ul>
+    <li>suppression d'une petite dizaine d'images inutilisées</li>
+    <li>tous les fichiers "songbook" (.sb) ont été déplacés dans le
+    sous-répertoire "books/"</li>
+    <li>tous les fichiers "LaTeX" (.sty, .tex) ont été déplacés dans
+    le sous-répertoire "tex/"</li>
+    <li>attention, la version 0.5
+      du <a href="http://github.com/crep4ever/songbook-client">songbook-client</a>
+      n'est plus compatible avec la version 3.4.1 du
+      <a href="http://git.lohrun.net/?p=songbook.git">songbook</a>. Il
+      faut se baser sur la version git ou attendre la v0.6 qui ne
+      devrait plus tarder ;)</li>
+  </ul>
+</p>
+
+<h3>En vrac</h3>
+<p>
+  <ul>
+    <li>compatibilité avec Lilypond 2.14 (merci à Gildas Prévot)</li>
+    <li>le retour
+      du <a href="../data/documents/lyricbook.pdf">lyricbook</a> dans la
+      section downloads. Pour rappel, il s'agit d'une version compacte
+      contenant uniquement les paroles des chansons.</li>
+    <li>support des chansons écrites en portugais</li>
+    <li>ajustement des espaces avant et après les "musicnotes" et
+      "textnotes"</li>
+    <li>ajout des scripts shell qui me facilitent la vie pour faire
+      les release</li>
+    <li>transposition de la partition Lilypond de la <i>Geste
+      héroïque</i> du <i>Donjon de Naheulbeuk</i></li>
+    <li>plusieurs centaines de petites corrections par-ci par-là
+    !</li>
+  </ul>
+</p>
+
+<h3>Nouvelles chansons</h3>
+
+<p>
+  La liste dépasse les 500 chansons dans la joie et l'allégresse ;)
+  Par ailleurs, le tome 3 atteignant les 154 pages, il est temps de
+  passer au tome 4 !
+</p>
+
+<strong>BeXa</strong>
+<ul>
+  <li>Alanis Morissette - Ironic</li>
+</ul>
+
+<strong>Benoit Gaüzère</strong>
+<ul>
+  <li>The Rolling Stones - Route 66</li>
+  <li>Elvis Presley - Don't be cruel</li>
+</ul>
+
+<strong>Dominique Goffe</strong>
+<ul>
+  <li>Jeanette - Porque te vas</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Les hurlements d'Léo - Ici, d'ailleurs</li>
+  <li>François Corbier - Les vieux copains de la télé</li>
+  <li>Bob Dylan - Ballad of Hollis Brown</li>
+  <li>Bob Dylan - Don't think twice, it's all right</li>
+  <li>Emiliana Torrini - Jungle drum</li>
+  <li>Herman Düne - My friends kill my folks</li>
+  <li>Herman Düne - Be a doll and take my heart</li>
+  <li>Bob Dylan - Hurricane</li>
+  <li>Karpatt - Les vieilles</li>
+  <li>Cesaria Evora - Petit pays</li>
+  <li>Hugues Aufray - Le joueur de pipeau</li>
+  <li>Jean-Jacques Goldman - Il changeait la vie</li>
+  <li>Johnny Cash - Jackson</li>
+  <li>Johnny Cash - The ring of fire</li>
+  <li>Joe Dassin - Les Champs-Élysées</li>
+  <li>JCFrog - Je t'emmène dedans</li>
+  <li>JCFrog - La mauvaise eréputation</li>
+  <li>JCFrog - Russians</li>
+  <li>Sting - Russians</li>
+  <li>Elvis Presley - Love me tender</li>
+  <li>Traditionnel - L'homme de cromagnon</li>
+  <li>Jean-Jacques Goldman - Encore un matin</li>
+  <li>Georges Brassens - Chanson pour l'Auvergnat</li>
+  <li>La compagnie créole - Ça fait rire les oiseaux</li>
+  <li>La compagnie créole - La machine à danser</li>
+  <li>La compagnie créole - Le bal masqué</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

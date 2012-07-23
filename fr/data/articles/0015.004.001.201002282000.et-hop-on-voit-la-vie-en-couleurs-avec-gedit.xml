@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Et hop, on voit la vie en couleurs avec gedit]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Salut à tous,</p>
+
+
+<p>Petite news pour signaler que j'ai écrit un petit mode pour gedit, l'éditeur de texte de gnome, lui-même environnement de bureau pour pas mal de distributions linux.</p>
+
+
+<p>Le petit mode en question sert à avoir quelques couleurs lorsqu'on écrit ou modifie une chanson .sg du carnet de chants (et de mieux repérer les fautes de frappe accessoirement).</p>
+
+
+<p>Quelques petites images pour illustrer tout ça :</p>
+
+<table>
+<tr>
+<td>
+<a href="../data/images/mode-gedit-01.png">
+<img src="../data/images/mode-gedit-01.png.tb" alt="" />
+</a>
+</td>
+<td>
+<a href="../data/images/mode-gedit-02.png">
+<img src="../data/images/mode-gedit-02.png.tb" alt="" />
+</a>
+</td>
+</tr>
+</table>
+
+
+<p>Pour l'installation, rien de plus facile.</p>
+
+
+<p>Deux petits fichiers à télécharger et à mettre dans le bon dossier:</p>
+<ul>
+    <li> <a href="../data/documents/songbook.lang">songbook.lang</a> à mettre dans ~/.local/share/gtksourceview-2.0/language-specs </li>
+    <li> <a href="../data/documents/songbook.xml">songbook.xml</a> à mettre dans ~/.local/share/mime/packages </li>
+</ul>
+
+<p>Pensez à créer les dossiers s'ils n'existent pas déjà ;) </p>
+
+<p>
+Le 2ème fichier sert à associer l'extension .sg avec le mode de coloration songbook automatiquement. Le mode de coloration est dispo dans Affichage/Mode de coloration/Sources/Songbook.
+</p>
+
+<p>
+Bon, ben me reste plus qu'à comprendre comment ça marche avec emacs pour faire la même chose ... mais je dois avoir un blocage psychologique avec le lisp :(
+</p>
+
+<p>
+Ah si, vu que j'ai écrit ça un peu rapidement, j'ai potentiellement oublié des choses donc vous pouvez modifier/contribuer au code sur github:
+</p>
+
+<div class="unix">
+<code>http://github.com/crep4ever/songbook-gedit-mode.git</code>
+</div>]]></content>
+	<tags><![CDATA[patacrep, gedit]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

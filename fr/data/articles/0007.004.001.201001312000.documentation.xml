@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Documentation]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Décidément, beaucoup de news ces derniers temps. Juste pour vous informer de la mise à jour de la documentation.</p>
+
+
+<p>Tout se trouve dorénavant dans un fichier pdf disponible dans la section downloads. Il y a à peu près tout ce qu'il faut savoir sur l'installation, la mise en page et même une partie "conseils" pour ceux qui débutent la guitare.</p>
+
+
+<p>Les sources sont sur le dépôt suivant donc n'hésitez pas à apporter vos précisions:</p>
+
+<div class="unix">
+<code>http://github.com/crep4ever/songbook-documentation.git</code>
+</div>
+
+<p>Dernier point, pas mal de changements sont à attendre au niveau du Songbook-Creator so, stay tuned ;)</p>]]></content>
+	<tags><![CDATA[documentation]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.4]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hop, vlà quelques nouvelles chansons pour la version 3.4.4 du <a href="data/documents/songbook.pdf">songbook</a>.</p>
+<p>À noter que je me suis fait détrôner sur le nombre de tabs ce coup-ci ^^</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Pipiou</strong>
+<ul>
+<li>Christophe - Les mots bleus</li>
+<li>Pep's - Liberta</li>
+<li>Alain Souchon - Bidon</li>
+<li>Maxime Le Forestier - L'auto-stop</li>
+<li>Édith Piaf - Padam-Padam</li>
+<li>Maxime Le Forestier - Entre 14 et 40 ans</li>
+<li>Maxime Le Forestier - Fontenay-aux-Roses</li>
+<li>Catherine Le Forestier - La petite fugue</li>
+<li>Tracy Chapman - Talkin' about the revolution</li>
+<li>Jeanne Moreau - Le tourbillon de la vie</li>
+<li>Charles Aznavour - Mes emmerdes</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Christophe - Aline</li>
+<li>Nino Ferrer - Mirza</li>
+<li>Laura Veirs - Icebound stream</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

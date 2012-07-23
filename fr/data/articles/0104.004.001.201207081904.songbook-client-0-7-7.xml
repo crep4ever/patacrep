@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-Client 0.7.7]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Par la même occasion, voici aussi la version 0.7.7 du <a href="static1/downloads#Songbook-Client">Songbook-Client</a> dont les changements sont les suivants :</p>
+
+<ul>
+<li>support des options entre accolades</li>
+<li>support des champs "chanson originale" et "site internet"</li>
+<li>il est possible de supprimer la pochette d'une chanson</li>
+<li>correction d'un bug qui rendait impossible de modifier la chanson après rechercher/remplacer tout (thx Lohrun!)</li>
+<li>les traces de compilation LaTeX sont remises à zéro à chaque nouvelle compilation</li>
+<li>ouvrir une chanson qui était déjà ouverte ne crée plus un nouvel onlet</li>
+<li>le menu d'auto-complétion a été réécrit et devrait enfin fonctionner !</li>
+<li>activer la correction orthographique ne marque plus la chanson comme modifiée</li>
+<li>les onglets peuvent dorénavant être ouverts/fermés avec le "clic-molette"</li>
+<li>la gestion des templates dans les préférences devrait être moins bugguée</li>
+</ul>
+
+<p>Remarquez la version 0.7.6 n'aura pas fait long feu à cause d'un bug de dernière minute ;)</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

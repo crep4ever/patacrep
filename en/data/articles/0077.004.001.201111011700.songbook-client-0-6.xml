@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-client 0.6]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello</p>
+
+<p>
+Le songbook-client est maintenant disponible dans sa version 0.6 !
+La liste des changements est grande :) 
+Merci à Lohrun et Carreau pour leur participation plus que conséquente !
+</p>
+
+<h3>Nouvelle interface</h3>
+<p>
+  On commence en douceur avec une nouvelle interface qui a été entièrement repensée.
+  Plus épurée, plus intuitive mais tout aussi fonctionnelle ! Voici deux ptits screenshots
+  comparant l'ancienne et la nouvelle version :
+</p>
+
+<table>
+<tr>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.5-main.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.5-main.tb.png" alt="Highslide JS"
+        title="Interface songbook-client 0.5" />
+
+</a>
+</td>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-main.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-main.tb.png" alt="Highslide JS"
+        title="Interface songbook-client 0.6" />
+
+</a>
+</td>
+</tr>
+<tr>
+<td>
+songbook-client 0.5
+</td>
+<td>
+songbook-client 0.6
+</td>
+</tr>
+</table>
+
+<h3>Recherche, filtres et sélection</h3>
+<p>
+Tout le mécanisme a été revu et devrait être beaucoup plus intuitif et pratique. La première grosse différence, c'est que la sélection des chansons s'effectue via une checkbox au lieu de prendre en compte les chansons en surbrillance. Ensuite, le filtre propose les résultats à partir des champs artiste/titre/album. En cliquant sur la petite loupe, on peut filtrer les chansons suivant la langue dans laquelle elles sont écrites. Enfin, les actions "sélectionner/déselectionner/inverser" s'appliquent sur la liste des chansons visibles (et non plus sur la bibliothèque).
+</p>
+
+<h3>Préférences</h3>
+<ul>
+<li>une nouvelle rubrique permet de personnaliser l'apparence de l'éditeur de chansons</li>
+<li>tout le panneau permettant de personnaliser un recueil se retrouve dans les préférences</li>
+</ul>
+
+<table>
+<tr>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-preferences-01.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-preferences-01.tb.png" alt="Highslide JS"
+        title="songbook-client preferences 01" />
+
+</a>
+</td>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-preferences-02.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-preferences-02.tb.png" alt="Highslide JS"
+        title="songbook-client preferences 02" />
+
+</a>
+</td>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-preferences-03.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-preferences-03.tb.png" alt="Highslide JS"
+        title="songbook-client preferences 03" />
+
+</a>
+</td>
+</tr>
+</table>
+
+<h3>Performances</h3>
+<ul>
+<li>suppression de la surveillance des fichiers modifiés (mécanisme déprécié par qt) qui permet d'améliorer sensiblement les performances et la stabilité</li>
+<li>suppression de la base sqlite pour stocker la bibliothèque des chansons</li>
+<li>la bibliothèque est actualisée après le démarrage de l'application</li>
+</ul>
+
+<h3>Divers</h3>
+<ul>
+<li>toute la chaîne de compilation a été retravaillée</li>
+<li>le packaging debian a été repensé pour utiliser <a href="http://lpenz.github.com/articles/debgit/index.html">git-buildpackage</a></li>
+<li>les dialogues d'ouverture de fichiers se positionnent par défaut sur le dernier répertoire ouvert</li>
+<li>les titres des dialogues correspondent aux labels des actions qui les déclenchent</li>
+<li>une police monospace est utilisée par défaut pour l'éditeur de chansons</li>
+<li>un nouveau jeu d'icones pour macos</li>
+<li>les commandes pour compiler/nettoyer les pdf peuvent être personnalisées depuis l'interface</li>
+<li>un nouveau dialogue pour nettoyer les fichiers LaTeX temporaires (make clean/make cleanall)</li>
+</ul>
+
+<table>
+<tr>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-code-editor.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-code-editor.tb.png" alt="Highslide JS"
+        title="songbook-client song editor" />
+
+</a>
+</td>
+<td>
+<a href="http://www.patacrep.com/data/images/sbc-0.6-clean-dialog.png" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/sbc-0.6-clean-dialog.tb.png" alt="Highslide JS"
+        title="songbook-client clean dialog" />
+
+</a>
+</td>
+</tr>
+</table>
+
+<p>
+La version 0.6 est disponible au <a href="http://www.patacrep.com/static1/">téléchargement</a> pour Windows/Linux. Malheureusement, Carreau ayant été victime d'un cambriolage, cette nouvelle version n'est pas (encore) disponible pour MacOS.
+</p>
+
+<p>Dernière chose, n'oubliez pas que le songbook-client est une interface au songbook ! Cela signifie que vous ne pourrez pas générer un pdf sans avoir installé une distribution LaTeX ainsi que Python au préalable. Je vous renvoie à la <a href="http://www.patacrep.com/data/documents/doc_fr.pdf">documentation</a> pour plus d'explications à ce sujet ;)
+</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

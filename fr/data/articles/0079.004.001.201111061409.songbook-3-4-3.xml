@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Ptite mise à jour du songbook en ce gris dimanche bien pluvieux.</p>
+<p>On y trouve les premières contributions de Pipiou :), diverses corrections, un réajustement de la hauteur de toutes les partitions lilypond ainsi que plusieurs nouvelles chansons dont voici la liste exhaustive.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Pipiou</strong>
+<ul>
+<li>Matticus - Le p'tit gars</li>
+<li>Bob Marley - Redemption song</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Julien Clerc - Travailler, c'est trop dur</li>
+<li>Julien Clerc - Mélissa</li>
+<li>Julien Clerc - Ce n'est rien</li>
+<li>Laura Veirs - Ballad of John Vogelin</li>
+<li>Laura Veirs - Jailhouse fire</li>
+<li>Bob Marley - No woman, no cry</li>
+<li>Laura Veirs - Black-eyed Susan</li>
+<li>Téléphone - Cendrillon</li>
+<li>Négresses vertes - Sous le soleil de Bodega</li>
+<li>Yves Duteil - Le petit pont de bois</li>
+<li>Oldelaf - Mamy blue</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.2]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Nouvelle version du <a href="data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.2.</p>
+<p>L'occasion de vous présenter en grande pompe les débuts du tout nouveau <a href="data/documents/volume-4.pdf">volume 4</a> qui pour l'instant contient les quelques nouvelles chansons suivantes :</p>
+
+<div class="left">
+<br />
+<a href="http://www.patacrep.com/data/images/music_by_lauratheartist.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+    <img src="http://www.patacrep.com/data/images/music_by_lauratheartist.tb.jpg" alt="Highslide JS"
+        title="Music by LauraTheArtist @ deviantart.com" />
+</a>
+</div>
+
+<div class="left">
+<ul>
+<li>Karpatt - En pleine mer</li>
+<li>Karpatt - Le déménagement</li>
+<li>Les Fatals Picards - L'amour à la française</li>
+<li>Les Fatals Picards - La sécurité de l'emploi</li>
+<li>Joe Dassin - Ma bonne étoile</li>
+</ul>
+</div>
+
+<p>Vous y trouverez également quelques corrections et surtout, les scripts nécessaires à la compilation windows depuis le songbook-client 0.6 ;)</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

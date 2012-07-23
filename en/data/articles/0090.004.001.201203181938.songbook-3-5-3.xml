@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir, bonsoir</p>
+
+<p>La version 3.5.3 du <a
+href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a>
+est dispo. Un immense merci à tous les contributeurs ! Cette
+version est assez conséquente et contient pas mal de nouveautés sympatoches.</p>
+
+<ul>
+<li>Le songbook est maintenant basé sur la <a href="http://songs.sourceforge.net/history.html">nouvelle version 2.14</a> du <a href="http://songs.sourceforge.net/">Songs LaTeX Package</a>.</li>
+<li>Un récapitulatif des différents accords de guitare est inclus au début du PDF. C'est clairement un premier jet et il n'est pas impossible que des erreurs s'y soient glissées. Le fichier correspondant est dans tex/chords.tex pour ceux qui voudraient y jeter un oeil : vos suggestions sont les bienvenues !</li>
+<li>La <a href="http://www.patacrep.com/data/documents/doc_fr.pdf">doc</a> a été mise à jour par Matteo (et non, moi j'ai rien fait :p)</li>
+<li>Beaucoup de corrections et de nouvelles chansons ! Je crois qu'il s'agit d'un record sur une aussi courte période :)</li>
+</ul>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>BeXa</strong>
+<ul>
+  <li>Vincent Delerm - La natation synchronisée</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>Renaud - Ma gonzesse</li>
+  <li>Renaud - It is not because you are</li>
+  <li>Renaud - Je suis une bande de jeunes</li>
+  <li>Renaud - La chanson du loubard</li>
+  <li>Renaud - Mort les enfants</li>
+  <li>Thomas Fersen - Chocolat</li>
+  <li>Thomas Fersen - J'ai pas la gale</li>
+  <li>Thomas Fersen - La malle</li>
+  <li>Thomas Fersen - Le balafré</li>
+  <li>Thomas Fersen - Mon iguanodon</li>
+  <li>Thomas Fersen - Mon macabre</li>
+  <li>Thomas Fersen - Je suis au paradis</li>
+  <li>Thomas Fersen - Pégase</li>
+  <li>Thomas Fersen - Zaza</li>
+  <li>Thomas Fersen - Punaise</li>
+</ul>
+
+<strong>Matteo Cypriani</strong>
+<ul>
+  <li>Fleetwood Mac - Temporary One</li>
+  <li>Jean Leloup - Sang d'encre</li>
+  <li>Nirvana - Dumb</li>
+</ul>
+
+<strong>broph</strong>
+<ul>
+  <li>Jean-Pierre Mader - Macumba</li>
+  <li>Noir Désir - Les écorchés</li>
+  <li>Louis Bertignac - Ces idées là</li>
+  <li>Rita Mitsouko - C'est comme ça</li>
+  <li>Calvin Russel - Baby I love you</li>
+  <li>Calvin Russel - Crossroad</li>
+  <li>Calvin Russel - One meat ball</li>
+  <li>Eddy Mitchell - Il ne rentre pas ce soir</li>
+  <li>Jean-Jacques Goldman - Comme toi</li>
+  <li>Roger Glover - Love is all</li>
+  <li>Calvin Russel - Midnite man</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Les Cowboys Fringants - Paris-Montréal</li>
+  <li>Les Cowboys Fringants - L'horloge</li>
+  <li>HK & Les Saltimbanks - On lâche rien</li>
+  <li>HK & Les Saltimbanks - Passer ma vie</li>
+  <li>HK & Les Saltimbanks - Citoyen du monde</li>
+  <li>Astérix et Cléopâtre - Le pudding à l'arsenic</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook, documentation]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

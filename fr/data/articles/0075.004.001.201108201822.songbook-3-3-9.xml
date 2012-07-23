@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.3.9]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello</p>
+
+<p>
+Et hop, une nouvelle release après les vacances. Pour une fois y'a
+quelques ptits trucs à raconter ;)
+</p>
+
+<p>
+Alors primo, le <a href="../data/documents/songbook.pdf">songbook</a>
+se base désormais sur la version 2.13
+du <a href="http://songs.sourceforge.net">songs latex package</a> et
+y'a du nouveau !  En fait, cela fait quelques temps qu'on se dit que
+ce serait pas mal d'avoir la possibilité de switcher entre les
+notations d'accords anglo-saxonnes A, B, C, D, E, F, G et les
+notations latines La, Si, Do, Ré, Mi, Fa, Sol. C'est maintenant
+possible :) Il reste encore à peaufiner tout ça et à mieux gérer le
+switch au niveau des templates mais le plus gros est fait. En
+contrepartie, cela a demandé à ce que toutes les chansons .sg soient
+écrites avec la notation anglo-saxonne. Du coup, ça a été un joli
+chantier de tout convertir à coups de scripts à moitié
+foireux. Bref. Donc voilà le gros morceau. Pour ceux que les accords
+La Si Do Ré rebutaient, vous n'avez maintenant plus aucune excuse ;)
+</p>
+
+<p>Au passage, vu l'ampleur des changements effectués (486 files changed, 6888 insertions(+), 6833 deletions(-)) il se peut qu'il reste quelques couacs mais je compte sur vous pour me les signaler :p</p>
+
+<p>
+Segundo, la documentation est maintenant disponible
+en <a href="../data/documents/doc_fr.pdf">français</a> et
+en <a href="../data/documents/doc_en.pdf">anglais</a>. Vous m'excuserez,
+tout n'est pas traduit et ça a été fait un peu à la va-vite mais j'ose
+espérer que ce sera compréhensible. Si y'a des gens motivés pour mieux
+reformuler certaines choses, je suis preneur :)
+</p>
+
+<p>Et puis pour finir, voici quelques nouvelles chansons.</p>
+
+<p>Enjoy !</p>
+
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Crep</strong>
+
+<ul>
+<li>Crep - SNCeuFeu</li>
+<li>Gérard Lenorman - La ballade des gens heureux</li>
+<li>Gérard Lenorman - Si j'étais président</li>
+<li>Les hurlements d'Léo - Fabulous and luxury holidays for todos in Barbados</li>
+<li>Les hurlements d'Léo - Ici, d'ailleurs</li>
+<li>Les blérots de R.A.V.E.L - Dans les gares</li>
+<li>Les blérots de R.A.V.E.L - Le retour de Petrouchka</li>
+<li>Les blérots de R.A.V.E.L - Les ptits plaisirs</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

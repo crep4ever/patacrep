@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.4]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Et hop, la version 3.5.4 du <a href="../data/documents/songbook.pdf">songbook</a> is out.</p>
+
+<p>Quelques trucs funs à signaler :</p>
+<ul>
+<li>Le support des diagrammes pour ukulélé est enfin en place. Ça fonctionne sur le même principe que les gtab. Indiquez simplement <code>\utab{C}{0003}</code> dans les .sg et le diagramme apparaîtra dans le songbook si l'option instruments:ukulélé est activée.</li>
+<li>J'ai commencé un petit peu à jouer avec scheme pour manipuler lilypond. Cela permet entre autres de proposer une transcription automatique entre Staff et TabStaff (partitions de solfège "classiques" et tablatures). Il reste pas mal de choses à faire et ça reste assez expérimental. Si vous voulez tester, y'a une ligne à commenter/décommenter dans le makefile.</li>
+<li>Et un joli tas de nouvelles chansons par BeXa et Kaosun. Keep it up !</li>
+</ul>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>BeXa</strong>
+<ul>
+  <li>Jeanne Moreau - Les mots de rien</li>
+  <li>Israel Kamakawiwo - Over the rainbow</li>
+  <li>Francis Cabrel - Les vidanges du diable</li>
+  <li>Crash Test Dummies - mmmm</li>
+  <li>Compay Segundo - Chan Chan</li>
+  <li>Bill Withers - Just two of us</li>
+  <li>Louis Chedid - Tout le monde se presse</li>
+  <li>Ridan - Ulysse</li>
+  <li>Rose - La liste</li>
+  <li>Sixpence None the richer - Kiss me</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>La Rue Kétanou - Bonhomme de chien</li>
+  <li>Soldat Louis - C'est un pays</li>
+  <li>Thomas Fersen - Deux pieds</li>
+  <li>Thomas Fersen - Diane de Poitiers</li>
+  <li>Thomas Fersen - Dugenou</li>
+  <li>Thomas Fersen - Le chat botté</li>
+  <li>Thomas Fersen - Les malheurs du lion</li>
+  <li>Thomas Fersen - Monsieur</li>
+  <li>Thomas Fersen - Que l'on est bete</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

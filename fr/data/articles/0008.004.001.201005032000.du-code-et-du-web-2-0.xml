@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Du code et du web 2.0]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>News pêle-mêle.</p>
+
+
+<h3>Songbook client</h3>
+
+
+<p>Plusieurs petites choses à raconter. Ceux qui auront fait un git pull (ou juste checké les logs rss du projet) auront certainement remarqué les quelques nouvelles fonctionnalités/améliorations suivantes:</p>
+
+<ul>
+    <li> la connexion à la base de données de chansons est bien plus propre dans le sens ou elle ne détruit/reconstruit pas la base à chaque nouveau lancement du programme (arf) </li>
+    <li> un menu tools (encore un peu expérimental) permet de lancer les scripts utilitaires dans songbook/utils permettant par exemple de redimensionner automatiquement les pochettes des albums liées aux chansons, ou encore d'appliquer certaines règles automatique (orthographe, latex, accords ..) Par exemple, "nœud" sera automatiquement converti en "nœud", \gtab{Lam}{002210} en \gtab{X02210} etc ... </li>
+    <li> lors de la génération des partitions <a href="http://lilypond.org/">Lilypond</a>, la status bar indique clairement quel est le fichier en cours de traitement </li>
+    <li> l'application dispose maintenant d'une interface traduite en français (si la locale de votre système est en fr bien sûr, sinon, english ftw) </li>
+    <li> des prémices de paquet debian en cours </li>
+</ul>
+
+
+<h3>Web 2.0</h3>
+
+Je suis récemment tombé sur quelques sites/applis web forts sympathiques:
+<ul>
+    <li> <p><a href="http://www.ohloh.net/">Ohloh</a>h: réseau social pour les projets open source. Vous trouverez le projet du songbook client ici. Et voici quelques screens/stats sympas:</p>
+
+<script type="text/javascript" src="http://www.ohloh.net/p/482690/widgets/project_languages.js"></script>
+<script type="text/javascript" src="http://www.ohloh.net/p/482690/widgets/project_cocomo.js"></script>
+
+<p>
+... stats prouvant à elles seules que primo, ok on n'est pas des masses à travailler dans ce monde de feignants, deuxio, qu'on est pas des rigolos pour autant :p </p>
+</li>
+
+  <li>  <p><a href="http://www.balsamiq.com/">Balsamiq mockups</a>: pour faire du design d'application avec style en 3 clics de souris. Voici d'ailleurs à quoi ressemble plus ou moins le songbook client:</p>
+
+<a href="../data/images/mockup.png">
+<img src="../data/images/mockup.png.tb" alt="" />
+</a>
+
+<p>
+N'hésitez pas à vous amuser avec cet outil (payant mais web demo gratuite) et à proposer de superbes idées d'interface dans les commentaires ou sur le forum. Si certaines me plaisent, ça me motivera peut-être à les coder qui-sait :)
+</p>
+</li>
+
+    <li> Google search stories: ou comment faire une video sympatoche en 2/2.
+<object height="340" width="560">
+<param name="movie" value="http://www.youtube.com/v/vuPwqzx9vY8&amp;hl=fr_FR&amp;fs=1&amp;rel=0" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+
+<embed src="http://www.youtube.com/v/vuPwqzx9vY8&amp;hl=fr_FR&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="340" width="560" /></object>
+
+</li>
+</ul>
+
+<p>
+Merci à David pour <a href="http://www.ohloh.net/">Ohloh</a>h, au <a href="http://www.markshuttleworth.com/archives/383">post</a> de Mark Shuttleworth pour les Balsamiq Mockups et à <a href="http://www.korben.info/">Korben</a> pour les google search stories !
+</p>
+
+<p>
+And that's all folks !
+</p>]]></content>
+	<tags><![CDATA[songbook-client, patacrep]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

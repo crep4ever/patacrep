@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Mise en place du site web]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonjour à toutes et à tous,</p>
+
+
+<p>Voici la toute première version du site web dédié au carnet de bord, un petit recueil de chansons avec (ou sans) les accords de guitare qui les accompagnent.</p>
+
+
+<p>Pour l'instant le site est très sommaire et ne propose pas une grande interactivité mais cela viendra surement avec le temps. L'essentiel est que vous disposez de toutes les informations nécessaires pour récupérer et compiler le carnet. En attendant la mise en place d'un forum, vous pouvez me contacter  à l'adresse suivante: crep@team-on-fire.com</p>
+
+
+<p>Bonne gratte à tous !</p>
+
+
+
+<p>Crep. </p>]]></content>
+	<tags><![CDATA[patacrep]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

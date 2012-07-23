@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[The cake is a lie]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>En essayant d'être productif malgré le manque de sommeil, une angine et le froid, voici une petite release du carnet de chants.</p>
+
+
+<p>P'tit clin d'œil aux deux lyonnais venus jusqu'à Poitiers pour nous faire découvrir la chanson la plus longue de l'histoire du carnet de chant (et sur laquelle j'ai cru perdre tous mes cheveux). Clin d'œil aussi à tous les geeks qui savent qu'il n'y aura pas de gâteau en fin de comptes. Et clin d'œil multiple à celle pour qui j'ai transcrit toutes ces chansons pour enfants. C'est que le songbook pourrait presque devenir un support pédagogique (si quelqu'un le mentionne dans une fiche de prep', je *veux* être mis au courant :D ).</p>
+
+<p>
+Merci à <a href="http://git.lohrun.net/">Lohrun</a> de continuer à envoyer des chansons (sinon je crois que je me sentirais un peu seul :p ).</p>
+
+<h3>Changement de licence:</h3>
+
+Outre les nouvelles chansons et autres corrections diverses et variées, le carnet de chants change de licence et passe de nc-by-sa à cc-by-sa. Ce qui veut dire que les utilisations commerciales en sont autorisées (toujours sous les clauses by-sa bien sûr). Le pourquoi, c'est juste que je n'avais pas réalisé que la clause nc était contraire à la philosophie du libre. C'est maintenant réglé.
+
+<h3><a href="http://lilypond.org/">Lilypond</a>:</h3>
+
+
+<p>Également pas mal de refactorisation de code pour les partitions lilypond. Toutes les options sont inclues dans le fichier "./lilypond/header" et non plus copiées/collées au début de chaque fichier .ly.</p>
+
+
+<p>Et puis comme d'hab, s'il y a des chansons que vous voulez voir, indiquez-les sur le forum, les patchs sont toujours les bienvenus et avant toute question, pensez à jeter un coup d'œil à la doc.</p>
+
+<h3>Nouvelles chansons:</h3>
+
+<strong>Alexandre Dupas:</strong>
+<ul>
+    <li> The Nightwatchman - Let Freedom Ring </li>
+    <li> MC Solaar - Çaroline </li>
+</ul>
+
+<strong>Crep:</strong>
+<ul>
+    <li> Beau Dommage - La complainte du phoque en Alaska </li>
+    <li> Anny et Jean-Marc Versini - La danse des esquimaux </li>
+    <li> Debout sur le Zinc - Poil aux yeux </li>
+    <li> Georges Brassens - Le petit cheval </li>
+    <li> Les Ogres de Barback - Le temps </li>
+    <li> Vincent Malone - L'escargot malheureux </li>
+    <li> Boby Lapointe - La maman des poissons </li>
+    <li> La Famille Maestro - Le rat de l'opéra </li>
+    <li> Jonathan Coulton - Still alive </li>
+    <li> Los Lobos - Çancion del Mariachi </li>
+</ul>
+
+<p>
+Edit: désolé, j'avais oublié la dernière news donc y'avait quelques chansons dupliquées :)
+</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Corrections d'accords]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir,</p>
+<p>
+Nouvelle version du <a href="http://www.patacrep.com">songbook</a> avec un joli travail d'homogénéisation des notations d'accords et quelques nouvelles chansons/corrections.
+</p>
+<h3> Nouvelles chansons:</h3>
+<ul>
+    <li>  Yuki Kajiura - Fake Wings </li>
+    <li>  Ben Harper - Widow of a Living Man (lohrun) </li>
+    <li>  The Beatles - Let it be (Jeanne Dupas) </li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

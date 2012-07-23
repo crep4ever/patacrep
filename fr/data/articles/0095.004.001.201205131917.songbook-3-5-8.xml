@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.8]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello hello</p>
+
+
+<p>Une petite mise à jour du <a href="../data/documents/songbook.pdf">songbook</a> qui passe en version 3.5.8.</p>
+<p>Quelques petites choses à noter:</p>
+<ul>
+<li>Finalement, après discussion, je suis revenu à la notation "y'a" pour la contraction de "il y a".</li>
+<li>Évitez d'utiliser la macro \shrp pour le symbole dièse lorsque
+c'est possible (un simple # suffit). A priori, cette macro est
+uniquement nécessaire dans les \nolyrics et elle posera problème si
+utilisée dans les \gtab (et \utab) avec la prochaine version du
+songbook-client.</li>
+<li>Attention à ne pas sauter de ligne entre les macros \cover, \gtab
+et \utab pour éviter des retours à la ligne non élégants dans les
+pdf.</li>
+</ul>
+ 
+<p>Les choses peuvent paraître calmes en ce moment mais il n'en est
+rien ;) La version 0.7 du <a href="http://github.com/crep4ever/songbook-client">songbook-client</a> est imminente (il reste
+juste à générer les paquets et autres exécutables mac/windows), il y a quelques efforts de faits sur
+la <a href="../data/documents/doc_fr.pdf">documentation</a>, le <a href="http://github.com/crep4ever/songbook-emacs-mode">mode emacs</a> a été réécrit ... Bref, que de bonnes
+choses sur lesquelles je reviendrai un peu plus tard.</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>As de Trèfle - À l'oreille de ta femme</li>
+  <li>As de Trèfle - Pauvre planète</li>
+  <li>As de Trèfle -  La révolution</li>
+  <li>Les Cowboys Fringants - Hannah</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Tournée Générale - Avancer mes grolles</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Big release !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<h3>Documentation</h3>
+<p>Tiens, ça faisait longtemps que je n'en avais pas parlé. La <a href="data/documents/doc.pdf">documentation</a> a été profondément remaniée. 
+  Il reste encore un peu de boulot par-ci par-là mais elle devrait être bien plus complète, à jour et agréable à lire ;)</p>
+
+<h3>Songbook-client 0.5</h3>
+<p>La version 0.5 est là et on peut dire qu'elle amène un joli lots de nouveautés :)</p>
+
+<strong>Multiplateforme</strong>
+<ul>
+  <li> Windows: un des changements majeurs est qu'il est maintenant possible d'utiliser le songbook-client sous Windows. Attention cependant, il est nécessaire d'avoir installé une distribution LaTeX fonctionnelle et Python pour générer les pdf. Voir la <a href="data/documents/doc.pdf">doc</a> pour plus d'informations.</li>
+  <li>Mac: pas mal de petits couacs réglés mais la version 0.5 est encore en attente de packaging.</li>
+  <li>Debian: suppression des dépendances relatives au songbook lui-même, elles sont maintenant "recommandées"</li>
+  <li>Gentoo: mise à jour de l'ebuild</li>
+</ul>
+
+<strong>Apparence</strong>
+<ul>
+  <li> plusieurs icônes rajoutées à droite à gauche</li>
+  <li> un thème d'icônes tango pour MacOS et Windows</li>
+  <li> meilleure intégration des toolbars</li>
+  <li> boites de dialogues type "formulaires" améliorées</li>
+  <li> effort global d'intégration suivant la plateforme utilisée pour les menus</li>
+  <li> beaucoup moins de "message box" : moins d'interactivité requise avec l'utilisateur</li>
+  <li> aperçu des colonnes améliorées</li>
+  <li> la colonne album affiche désormais la pochette de l'album sous forme d'icône</li>
+</ul>
+
+<strong>Fonctionnalités</strong>
+<ul>
+  <li>le système de téléchargement d'une bibliothèque a été réécrit et n'utilise plus git dans un processus externe. Cela enlève une dépendance (mais en rajoute une autre :p cf <a href="http://code.google.com/p/libarchive/">libarchive</a>) et assure une meilleure portabilité</li>
+  <li> il est désormais possible de configurer un proxy pour le téléchargement</li>
+  <li> complétion automatique dans le filtre de recherche</li>
+  <li> raccourcis clavier corrigés</li>
+  <li> indentation automatique "à la emacs" dans l'éditeur de chansons : appuyer sur "Tab" indente correctement la ligne courante plutôt que d'insérer une tabulation</li>
+  <li> le menu "Outils" disparait. Ces actions n'avaient pas trop leur place à cet endroit dans l'interface. Le redimmensionnement automatique des couvertures d'album est par contre directement appliqué lors de l'ajout d'un nouvelle chanson</li>
+</ul>
+
+<strong>Performances</strong>
+<ul>
+  <li> reconstruction de la bibliothèque grandement améliorée (30 fois plus rapide !)</li>
+  <li> temps de démarrage réduit, surtout lors de la première utilisation</li>
+  <li> requetes sql améliorées (pas grâce à moi :D)</li>
+</ul>
+
+<strong>Bugs</strong>
+<ul>
+  <li> de nombreux petits (ou pas) bugs ont été corrigés depuis l'utilisation du tracker de github</li>
+</ul>
+
+<strong>Sous le capot</strong>
+<ul>
+  <li> travail de séparation entre la logique et l'apparence du logiciel</li>
+  <li> belle évolution du modèle représentant la bibliothèque des chansons</li>
+</ul>
+
+<p>Merci à Carreau et à Lohrun pour leur boulot, cette release leur doit beaucoup
+  et ça devient fun de développer à plusieurs comme ça :)</p>
+
+<h3>Songbook 3.3.6</h3>
+
+<p>Rien d'extraordinaire à signaler en dehors de quelques corrections et d'une dizaine de nouvelles chansons.
+</p>
+
+<strong>Grégoire Goffe</strong>
+<ul>
+  <li>Paco Ibanez - A galopar</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Les hurlements d'Léo - Une danseuse</li>
+  <li>Les hurlements d'Léo - À bout d'souffle</li>
+  <li>Jacques Brel - Amsterdam</li>
+  <li>Jacques Brel - Ces gens-là</li>
+  <li>Jacques Brel - La valse à mille temps</li>
+  <li>Cookie Dingler - Femme libérée</li>
+  <li>Jacques Higelin - Poil dans la main</li>
+  <li>Jacques Higelin - Tombé du ciel</li>
+  <li>La Rue Kétanou - Personne n'a l'prénom d'ma femme</li>
+  <li>Les Innocents - L'autre finistère</li>
+</ul>]]></content>
+	<tags><![CDATA[documentation, songbook-client, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

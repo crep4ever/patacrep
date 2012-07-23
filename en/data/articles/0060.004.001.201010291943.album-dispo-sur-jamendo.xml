@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Album dispo sur Jamendo]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Les cinq chansons sont maintenant disponibles sous la forme d'un <a href="http://www.jamendo.com/album/79986">mini-album Jamendo</a> :)
+Et j'ai relicencié toutes les chansons en cc-by-sa donc c'est vraiment de la chanson libre (et il n'y en a pas tant que ça, même sur jamendo :p).
+</p>
+
+<p>
+<div style="text-align:center;"><object width="200" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" align="middle"><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="movie" value="http://widgets.jamendo.com/fr/album/?album_id=79986&playertype=2008&refuid=70520" /><param name="quality" value="high" /><param name="bgcolor" value="#FFFFFF" /><embed src="http://widgets.jamendo.com/fr/album/?album_id=79986&playertype=2008&refuid=70520" quality="high" wmode="transparent" bgcolor="#FFFFFF" width="200" height="300" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">&nbsp;</embed>&nbsp;</object><a href="http://pro.jamendo.com/" style="display:block;font-size:8px !important;">Catalogue professionnel de musique libre</a></div>
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Arrivage de tabs]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Au programme :</p>
+
+<ul>
+<li>Eels - Dirty girl</li>
+<li>The Beatles - Ob-la-di, ob-la-da</li>
+<li>The Beatles - Yesterday</li>
+<li>Cat Stevens - Sad Lisa</li>
+<li>Cat Stevens - The Wind</li>
+<li>Kana - Plantation</li>
+<li>Pow Wow - Le lion est mort ce soir</li>
+<li>Renaud - Petite fille des sombres rues</li>
+<li>Avril Lavigne - Things I'll never say (Lohrun)</li>
+</ul>
+
+<p>Ce qui nous amène au total de 146 chansons !</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

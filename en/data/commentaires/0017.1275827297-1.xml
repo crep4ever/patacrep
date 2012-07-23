@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[jm]]></author>
+	<type>normal</type>
+	<ip>93.37.36.204</ip>
+	<mail><![CDATA[jm.trivial@gmail.com]]></mail>
+	<site><![CDATA[http://jmtrivial.info]]></site>
+	<content><![CDATA[Mince alors, j&#039;ai failli manquer cette mise à jour, l&#039;ancien flux n&#039;est plus servi par le nouveau... Quand j&#039;avais migré mon blog, j&#039;avais utilisé une rewrite rule pour récupérer le nouveau flux à partir de l&#039;ancienne adresse :
+http://jmtrivial.info/blog/2007/05/13/passage-a-wordpress/#comment-722
+
+Ça continue à bien avancer, c&#039;est cool :)]]></content>
+</comment>

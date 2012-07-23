@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Goodbye Joomla, hello Pluxml]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Si vous lisez ce billet, vous êtes maintenant sur la nouvelle version de <a href="http://www.patacrep.com">Patacrep!</a> Le pourquoi du comment, c'est juste que le site <a href="http://www.joomla.org/">Joomla</a> était devenu trop lent et trop "usine à gaz" pour l'utilisation souhaitée. Techniquement, la navigation devrait être bien plus fluide donc ! Revers de la médaille, les commentaires et les posts du forum ont été sacrifiés au passage ce qui implique que vous devrez vous inscrire à nouveau si vous souhaitez participer à l'aventure. Pour le moment, seuls les news de 2010 ont été remises, les autres suivront (peut-être) plus tard.</p>
+
+<h3>Songbook-client</h3>
+<p>Votre logiciel préféré pour l'édition de tablatures a évolué et est maintenant arrivé au level 0.2. Si vous trouviez la première version pratique, la seconde vous transcendera. Au rayon des nouveautés, on notera particulièrement la possibilité d'éditer les chansons depuis l'interface.</p>
+
+<a href="data/images/sbc-v0-2-01.png">
+<img src="data/images/sbc-v0-2-01.png.tb" alt="" />
+</a>
+
+<a href="data/images/sbc-v0-2-04.png">
+<img src="data/images/sbc-v0-2-04.png.tb" alt="" />
+</a>
+
+<p>On peut également noter le joli remaniement de <a href="http://git.lohrun.net/">Lohrun</a> pour optimiser l'agencement de l'interface (les possesseurs de netbooks apprécieront)</p>
+
+<p>Le menu préférences a été revu (d'autres changements internes majeurs sont à venir) comme précédemment évoqué.</p>
+
+<a href="data/images/sbc-v0-2-02.png">
+<img src="data/images/sbc-v0-2-02.png.tb" alt="" />
+</a>
+
+<p>Le troisième élément important concerne la possibilité de créer une nouvelle chanson directement depuis l'interface. Par le menu Fichier/Nouvelle chanson, vous obtiendrez une petite boîte de dialogue vous demandant quelques infos avant de générer le squelette de base de la chanson.</p>
+
+<a href="data/images/sbc-v0-2-03.png">
+<img src="data/images/sbc-v0-2-03.png.tb" alt="" />
+</a>
+
+<p>Les paquets <a href="http://www.debian.org">debian</a> sont dispos sur la page Downloads donc ruez-vous dessus, il n'y en aura pas pour tout le monde ! (ah, on me fait signe que si) </p>
+
+
+<h3>Nouvelles chansons pour la route:</h3>
+
+<strong>Pierre Çaserta:</strong>
+<ul>
+<li>Alicia Keys - If I ain't got you</li>
+<li>Jason Marz - I'm yours </li>
+</ul>
+
+<strong>Crep:</strong>
+<ul>
+<li>Debout sur le Zinc - La déclaration </li>
+<li>Debout sur le Zinc - Les mots d'amour </li>
+<li>La Rue Kétanou - La fiancée de l'eau</li>
+</ul>
+
+<p>Life sucks, shit happens</p>]]></content>
+	<tags><![CDATA[patacrep, songbook-client, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

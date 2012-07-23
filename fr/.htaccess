@@ -1,0 +1,21 @@
+AddType video/ogg  .ogv
+AddType video/mp4  .mp4
+AddType video/webm .webm
+
+
+# BEGIN -- Pluxml
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /fr/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+# Réécriture des urls
+RewriteRule ^(?!feed)(.*)$ index.php?$1 [L]
+RewriteRule ^feed\/(.*)$ feed.php?$1 [L]
+</IfModule>
+<Files "version">
+    Order allow,deny
+    Deny from all
+</Files>
+# END -- Pluxml

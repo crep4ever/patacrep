@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Inkscape et Patacrep!]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Je me suis amusé à faire un peu de dessin avec Inkscape. Comme le résultat m'a
+bien plu, j'ai décidé d'en faire la page de garde de la doc.
+En gros je me suis beaucoup inspiré du design du "ubuntu manual" en lisant le
+post de Thorwil's.</p>
+
+<p>Au final, il m'a juste fallu reprendre les couleurs pour un rendu vert tango
+à la <a href="http://www.patacrep.com">Patacrep</a> ;)
+</p>
+
+<p>Si, j'ai quand même dessiné la guitare en partant du premier modèle convenable
+trouvé sur openclipart et le modifiant pour un aspect plus cartoon:</p>
+<table>
+<tr>
+<td>
+<a href="../data/images/narrowhouse_dreadnought.png">
+<img src="../data/images/narrowhouse_dreadnought.png.tb" alt="" />
+</a>
+</td>
+<td>
+<a href="../data/images/guitar.png">
+<img src="../data/images/guitar.png.tb" alt="" />
+</a>
+</td>
+</tr>
+</table>
+
+<p>Voili, au final ça donne ça:</p>
+
+<a href="../data/images/doc.png">
+<img src="../data/images/doc.png.tb" alt="" />
+</a>
+
+<p>
+Et puis, j'ai mis la doc à jour pour que vous puissiez en profiter directement !
+</p>
+
+<p>
+Quant aux sources svg, elles sont sur github avec le reste:
+</p>
+
+<div class="unix"><code>http://github.com/crep4ever/songbook-documentation.git</code></div>
+
+<p>Bon dimanche.</p>]]></content>
+	<tags><![CDATA[documentation]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Lilypond power !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello web,</p>
+
+<p>
+Mise à jour relativement conséquente en ce jeudi soir.
+Alors, y'a plein de trucs à dire et je ne sais pas trop par où commencer.
+</p>
+
+<p>
+D'abord la mise à jour du paquet <a href="http://songs.sourceforge.net/">songs</a> qui a été publié en version 2.9.
+Des choses cool et d'autres moins cool puisque la compatibilité s'arrêtera là :( En effet, la gestion des colonnes a entièrement changé et n'est plus compatible avec les chansons. Ça, c'est fait. Maintenant, Lohrun s'est quand même débrouillé pour rapatrier quelques nouveautés intéressantes comme le \nolyrics qui permet d'afficher des accords sur la ligne principale quand il n'y a pas de paroles.
+</p>
+
+<p>On a maintenant une zolie illustration pour les capo (thanks Lohrun). 
+Et puis le plus important pour la fin, beaucoup de nouvelles tabs et encore plus de petites partitions lilypond 
+(ça y est, j'ai pris le coup de main).
+</p>
+
+<h3>Nouvelles tabs:</h3>
+
+<ul>
+<li>Les Naufragés - L'harmonica</li>
+<li>Pornophonique - Sad robot</li>
+<li>Ritchie Valens - La bamba</li>
+<li>Steve Waring - La baleine bleue</li>
+<li>Britney Spears - Baby one more time (Lohrun)</li>
+<li>Green Day - American Idiot (Lohrun)</li>
+<li>Cranberries - Zombie (Lohrun)</li>
+<li>Oldelaf et Monsieur D. - Davy Crockett</li>
+</ul>
+
+<h3>Partitions Lilypond:</h3>
+
+<p> (enfin, les ptits solos retrouvés d'oreille quoi)</p>
+<ul>
+<li>Les Naufragés - L'harmonica</li>
+<li>Pornophonique - Sad robot</li>
+<li>Mes souliers sont rouges - Sainte Cécile</li>
+<li>Mes souliers sont rouges - Les souliers rouges</li>
+<li>Carter Family - Keep on the sunny side</li>
+<li>Simon &amp; Garfunkel - The boxer</li>
+<li>Georges Brassens - Cupidon s'en fout</li>
+<li>Tom Sawyer</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Index par auteur]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p><a href="http://www.lohrun.net/code/songbook/">Lohrun</a> a développé un joli script en perl pour générer un index par auteur. Son script court-circuite le petit programme c d'origine qui venait avec le paquet songs. Maintenant, la compilation du document prend environ 10 fois moins de temps et le résultat est bien meilleur ! Merci encore !</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

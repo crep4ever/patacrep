@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Une interface (presque) utilisable]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Le songbook-creator laisse la place au songbook-client.
+Pour les 3 du fond de la classe qui n'auraient pas suivi,
+le songbook-client est donc une interface pour le songbook.
+Le programme lui-même est écrit en qt4/c++ sous gpl.</p>
+
+<p>
+Après lui avoir consacré un petit samedi, que peut-on retenir de cette nouvelle
+version:</p>
+
+<ul>
+    <li> on peut appliquer des filtres de recherche sur les chansons </li>
+    <li> un petit dock permet de modifier quelques options de la page de garde </li>
+    <li> un bouton synchroniser permet d'actualiser la liste des chansons sans avoir besoin de relancer l'application </li>
+    <li> plein de zolies petites icônes </li>
+</ul>
+
+<p>
+Des screenshots étant toujours plus parlant, voili le résultat (clic droit/afficher l'image pour voir en grand):
+</p>
+
+<p>
+Le projet est hébergé sur github et n'attends que des contributions de joyeux lurons:
+</p>
+<a href="http://github.com/crep4ever/songbook-client.git">
+http://github.com/crep4ever/songbook-client.git
+</a>
+<p>
+D'ailleurs coup de pub pour tous les autres dépôts liés au songbook:
+</p>
+<a href = "http://github.com/crep4ever">
+http://github.com/crep4ever
+</a>
+
+<p>
+Pour installer/compiler, inspirez-vous du readme. Bon, étant de bonne humeur,
+voilà une rapide marche à suivre (dans un terminal):
+</p>
+
+<div class="unix">
+<code>$ sudo apt-get install cmake build-essential
+$ sudo apt-get install libqt4-sql-sqlite qt4-qmake qt4-dev-tools
+$ git clone git://github.com/crep4ever/songbook-client.git
+$ cd songbook-client
+$ make &amp;&amp; sudo make install</code>
+</div>
+
+
+<p>
+Après, n'oubliez pas d'indiquer dans les préférences le répertoire contenant
+le songbook lui-même. En gros si vous avez fait:
+</p>
+
+<div class="unix">
+<code>$ cd
+$ git clone git://git.lohrun.net/songbook.git</code>
+</div>
+
+
+<p>
+Il vous faudra mettre ~/songbook dans les préférences ;)
+</p>
+
+<hr />
+
+<p>
+Et puis deux nouvelles chansons pour célébrer ça:
+</p>
+
+<ul>
+<li><a href="http://git.lohrun.net/">Lohrun</a>: John Lennon - Working Class Hero</li>
+<li>Crep: Les Ogres de Barback - Bumbaïa</li>
+</ul>
+
+Plop.]]></content>
+	<tags><![CDATA[songbook-client, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Enfin du changement]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Maintenant que j'ai enfin récupéré ma connexion internet, 
+il est l'heure de remonter tous les changements effectués depuis Noël.</p>
+
+<p>Donc, quoi de neuf ? Pas mal de nouvelles chansons, de nombreuses petites corrections, 
+des partitions (intégrées avec lilypond) rajoutées, ajout des tabs de Lohrun, nouvel export de l'index en html etc.</p>
+
+<p>Lohrun a proposé un petit tutorial sur le forum pour expliquer rapidement 
+comment rédiger des chansons au format LaTeX. 
+N'hésitez pas à en proposer sur le forum et/ou par mail !</p>
+
+
+<p>Vous trouverez la liste complète de toutes les chansons dans la section "Index" du site web.</p>
+
+<p>Voici les changements un peu plus dans le détail.</p>
+
+<h3>Nouvelles chansons</h3>
+<ul>
+<li>Tri Yann - Si mort à mors</li>
+<li>Bob Dylan - Knocking on Heavens Door (Lohrun)</li>
+<li>Le Donjon de Naheulbeuk - La vie d'aventurier</li>
+<li>Charles Aznavour - Emmenez-moi</li>
+<li>Dessins Animés - Tom Sawyer (début)</li>
+<li>Dessins Animés - Tom Sawyer (fin)</li>
+<li>Les Ogres de Barback (avec Tryo) - La première fois</li>
+<li>Les Wriggles - Monolithe</li>
+<li>Noir Désir - Aux sombres héros de l'amer</li>
+<li>Yves Jamait - Et je bois </li>
+<li>Les Cowboys Fringants - Toune d'Automne</li>
+<li>Mano Negra - Out of time man (Lohrun)</li>
+</ul>
+
+<h3>Partitions ajoutées:</h3>
+<ul>
+<li><b>Le Donjon de Naheulbeuk</b> - A l'aventure compagnons ! </li>
+</ul>
+
+<h3>Site web:</h3>
+<ul>
+<li>Ajout d'un filtre anti-spam pour l'inscription sur le site (si vous avez des problèmes, envoyez moi un email)</li>
+<li>La shoutbox est maintenant réservée aux membres (à cause du spam) </li>
+<li>Les membres peuvent maintenant uploader leur avatar </li>
+<li>Les membres peuvent dorénavant déposer des commentaires par rapport aux articles</li>
+</ul>
+
+<p>J'ai peut être oublié quelques trucs mais l'essentiel est là ;)</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

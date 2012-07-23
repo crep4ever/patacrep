@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-Client 0.7.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Et hop, la version 0.7.3 du Songbook-Client vient corriger les défauts de jeunesse de la série 7.</p>
+
+<h3>Éditeur de diagrammes</h3>
+
+<h4>Bugs éradiqués</h4>
+<ul>
+<li>indication de l'instrument non restaurée</li>
+<li>possibilité d'indiquer si les diagrammes sont importants</li>
+<li>tooltip des diagrammes incorrect après une modification</li>
+<li>erreurs d'affichage avec le symbole bémol</li>
+<li>la transposition ne marchait pas avec des valeurs négatives</li>
+<li>erreurs lors de la suppression des diagrammes de ukulélé (qui les faisaient réapparaître en double/triple lors de la réouverture de la chanson)</li>
+</ul>
+
+<h4>Nouveautés</h4>
+<ul>
+<li>contrôle à la saisie des strings : seuls les chiffres et la lettre X peuvent être renseignés. Ça évitera notamment de mettre des O à la place des zéros ou des x minuscules.</li>
+<li>les tooltips pour les widgets capo/nombre de colonnes/transposition sont étendus aux icônes qui les précèdent</li>
+<li>la dimension des diagrammes a été légèrement réduite</li>
+<li>les diagrammes utilisent une couleur de fond différente suivant leur type</li>
+<li>possibilité de supprimer un diagramme en appuyant sur la touche delete</li>
+</ul>
+
+
+<h3>Éditeur de chanson</h3>
+
+<h4>Bugs éradiqués</h4>
+<ul>
+<li>indentation globale à l'enregistrement désactivée : c'était une mauvaise idée qui entraînait pas mal de bugs (cpu à fond, suppressions potentielles de caractères etc)</li>
+<li>l'identation des lignes longues entraînait la suppression de certains caractères</li>
+<li>la sélection d'une chanson dans la bibliothèque était perdue lors de l'enregistrement</li>
+<li>le menu d'autocomplétion n'insérait pas le bon texte dans certains cas</li>
+<li>le correcteur orthographique propose les suggestions d'orthographe depuis le menu contextuel</li>
+</ul>
+
+<h4>Nouveautés</h4>
+<ul>
+<li>l'indentation de la sélection est maintenant une seule et même action qui peut-être annulée par un seul CTRL-Z (au lieu d'un CTRL-Z par ligne modifiée)</li>
+<li>ajout de l'environnement <i>repeatedchords</i> au menu d'auto-complétion</li>
+<li>possibilité de commenter/décommenter la sélection depuis le menu contextuel</li>
+</ul>
+
+<h3>Divers</h3>
+<ul>
+<li>Windows: la fenêtre principale n'est plus redimensionnée après la fermeture du dialogue des préférences</li>
+<li>Windows: la création des dialogues Préférences et Bibliothèque/Télécharger est beaucoup plus rapide</li>
+<li>Windows: le drag'n drop des pochettes d'album est corrigé</li>
+<li>les fichiers images des pochettes ne sont plus écrasés automatiquement</li>
+<li>nouveaux raccourcis clavier pour la bibliothèque : 
+  <ul>
+    <li>CTRL+SHIFT+N pour une nouvelle chanson</li>
+    <li>CTRL+B pour générer le pdf</li>
+    <li>CTRL+C pour nettoyer les fichiers temporaires</li>
+  </ul>
+</li>
+<li>ajout d'un lien vers github dans le menu Aide pour signaler un bug</li>
+<li>suppression de l'action Affichage/Redimensionner les colonnes qui était assez inutile</li>
+<li>si l'application est en français, le lien vers la documentation pointe vers le pdf écrit en français aussi</li>
+<li>ajout des mots-clés ifchorded, iflyrics et fi pour la coloration syntaxique</li>
+</ul>
+
+<p>Pour ceux qui sont passés par le PPA d'ubuntu, la mise à jour devrait être disponible. Pour les utilisateurs Windows, téléchargez le nouveau .exe dans la partie downloads, pour les paquets debian et MacOS il faudra encore attendre quelques temps.</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

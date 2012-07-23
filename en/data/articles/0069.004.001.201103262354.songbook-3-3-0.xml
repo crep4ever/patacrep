@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.3.0]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<h3>Songbook</h3>
+
+<ul>
+<li>Première version du <a href="data/documents/volume-3.pdf">tome 3</a>. Banzai! 
+Comme d'habitude, il s'agit des chansons qui ne sont ni dans le <a href="data/documents/volume-1.pdf">tome 1</a>, 
+ni dans le <a href="data/documents/volume-2.pdf">tome 2</a>
+mais qui sont dans le <a href="data/documents/songbook.pdf">songbook complet</a>. 
+Le coup des volumes permet de ne pas réimprimer l'intégralité du songbook à chaque nouvelle chanson ;)</li>
+<li> suppression des caractères de ponctuation "," et "." en fin
+de ligne.  Apparemment, ça ne se fait pas trop en poésie (les
+alexandrins sont presque toujours terminés par un signe de
+ponctuation) mais personnellement je trouve que ça allège le texte
+(<i>less is more</i>) et que ça permet d'uniformiser l'aspect des
+chansons. Si certains trouvent ça purement scandaleux, qu'ils se
+manifestent, il y a toujours moyen d'en discuter ;) 
+</li>
+</ul>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Lohrun</strong>
+<ul>
+<li>  Lylloo - Ma soirée MSN </li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>  Gogol Bordello - Supertheory of supereverything </li>
+<li>  Tri Yann - Les filles de Redon </li>
+<li>  Tri Yann - Kiss the children for me Mary </li>
+<li>  Les Fatals Picards - Goldorak est mort </li>
+<li>  Charles Aznavour - Les comédiens </li>
+<li>  Matmatah - L'apologie </li>
+<li>  Philippe Lavil - Il tape sur des bambous </li>
+<li>  Les Ogres de Barback - Comment je suis devenu voyageur </li>
+<li>  Jean-Jacques Goldman - Le coureur </li>
+<li>  Bruce Springsteen - Old Dan Tucker </li>
+<li>  Renaud - La blanche </li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

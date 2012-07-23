@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<article number="0045" date="201006112345" active="1"><![CDATA[patacrep, songbook]]></article>
+	<article number="0043" date="200809262231" active="1"><![CDATA[songbook]]></article>
+	<article number="0041" date="200810052229" active="1"><![CDATA[songbook]]></article>
+	<article number="0040" date="200811102226" active="1"><![CDATA[songbook]]></article>
+	<article number="0039" date="200811112225" active="1"><![CDATA[songbook]]></article>
+	<article number="0038" date="200811252224" active="1"><![CDATA[songbook]]></article>
+	<article number="0037" date="200812022223" active="1"><![CDATA[songbook]]></article>
+	<article number="0036" date="200812112223" active="1"><![CDATA[songbook]]></article>
+	<article number="0035" date="200812212222" active="1"><![CDATA[patacrep, songbook]]></article>
+	<article number="0034" date="200812252221" active="1"><![CDATA[patacrep]]></article>
+	<article number="0033" date="200901072220" active="1"><![CDATA[songbook]]></article>
+	<article number="0032" date="200902132219" active="1"><![CDATA[songbook]]></article>
+	<article number="0031" date="200903302218" active="1"><![CDATA[songbook]]></article>
+	<article number="0030" date="200903202217" active="1"><![CDATA[songbook]]></article>
+	<article number="0029" date="200904142217" active="1"><![CDATA[songbook]]></article>
+	<article number="0028" date="200904272216" active="1"><![CDATA[songbook]]></article>
+	<article number="0027" date="200905022215" active="1"><![CDATA[songbook]]></article>
+	<article number="0026" date="200905082214" active="1"><![CDATA[songbook]]></article>
+	<article number="0025" date="200905102212" active="1"><![CDATA[songbook]]></article>
+	<article number="0024" date="200907022212" active="1"><![CDATA[songbook]]></article>
+	<article number="0023" date="200907052211" active="1"><![CDATA[songbook, naheulbeuk]]></article>
+	<article number="0022" date="200907212210" active="1"><![CDATA[songbook, patacrep]]></article>
+	<article number="0021" date="200907262209" active="1"><![CDATA[songbook]]></article>
+	<article number="0020" date="200909032209" active="1"><![CDATA[songbook]]></article>
+	<article number="0019" date="200909112207" active="1"><![CDATA[songbook]]></article>
+	<article number="0018" date="200912132204" active="1"><![CDATA[songbook]]></article>
+	<article number="0017" date="201006052303" active="1"><![CDATA[patacrep, songbook-client, songbook]]></article>
+	<article number="0016" date="201002202000" active="1"><![CDATA[songbook]]></article>
+	<article number="0015" date="201002282000" active="1"><![CDATA[patacrep, gedit]]></article>
+	<article number="0014" date="201002282100" active="1"><![CDATA[patacrep, emacs]]></article>
+	<article number="0013" date="201003122000" active="1"><![CDATA[songbook, patacrep]]></article>
+	<article number="0012" date="201003212000" active="1"><![CDATA[documentation]]></article>
+	<article number="0011" date="201004010211" active="1"><![CDATA[patacrep, songbook, naheulbeuk]]></article>
+	<article number="0010" date="201004182000" active="1"><![CDATA[songbook]]></article>
+	<article number="0009" date="201004252000" active="1"><![CDATA[songbook-client, songbook]]></article>
+	<article number="0008" date="201005032000" active="1"><![CDATA[songbook-client, patacrep]]></article>
+	<article number="0007" date="201001312000" active="1"><![CDATA[documentation]]></article>
+	<article number="0006" date="201001302000" active="1"><![CDATA[songbook]]></article>
+	<article number="0005" date="201001162000" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0004" date="200809162000" active="1"><![CDATA[patacrep]]></article>
+	<article number="0003" date="201005222000" active="1"><![CDATA[songbook, songbook-client, documentation, strip]]></article>
+	<article number="0002" date="201005242000" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0046" date="201007142056" active="1"><![CDATA[songbook, songbook-client]]></article>
+	<article number="0047" date="201007170027" active="1"><![CDATA[songbook]]></article>
+	<article number="0048" date="201007182033" active="1"><![CDATA[]]></article>
+	<article number="0049" date="201007292353" active="1"><![CDATA[songbook-client, songbook]]></article>
+	<article number="0050" date="201008142150" active="1"><![CDATA[songbook, strip]]></article>
+	<article number="0051" date="201008240107" active="1"><![CDATA[songbook, naheulbeuk, songbook-client]]></article>
+	<article number="0052" date="201010031534" active="1"><![CDATA[video]]></article>
+	<article number="0053" date="201010092302" active="1"><![CDATA[songbook]]></article>
+	<article number="0054" date="201010171653" active="1"><![CDATA[songbook]]></article>
+	<article number="0055" date="201010182330" active="1"><![CDATA[audio]]></article>
+	<article number="0056" date="201010192332" active="1"><![CDATA[audio]]></article>
+	<article number="0057" date="201010202111" active="1"><![CDATA[audio]]></article>
+	<article number="0058" date="201010231812" active="1"><![CDATA[audio]]></article>
+	<article number="0059" date="201010252334" active="1"><![CDATA[audio]]></article>
+	<article number="0060" date="201010291943" active="1"><![CDATA[audio]]></article>
+	<article number="0061" date="201011032046" active="1"><![CDATA[songbook, songbook-client]]></article>
+	<article number="0062" date="201011261831" active="1"><![CDATA[audio]]></article>
+	<article number="0063" date="201012152206" active="1"><![CDATA[audio]]></article>
+	<article number="0064" date="201012180008" active="1"><![CDATA[songbook, songbook-client, documentation]]></article>
+	<article number="0065" date="201101120100" active="1"><![CDATA[songbook]]></article>
+	<article number="0066" date="201102152229" active="1"><![CDATA[audio]]></article>
+	<article number="0067" date="201103022337" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0068" date="201103191159" active="1"><![CDATA[audio, songbook, songbook-client]]></article>
+	<article number="0069" date="201103262354" active="1"><![CDATA[songbook]]></article>
+	<article number="0070" date="201104251938" active="1"><![CDATA[songbook]]></article>
+	<article number="0071" date="201106122145" active="1"><![CDATA[songbook]]></article>
+	<article number="0072" date="201106251410" active="1"><![CDATA[documentation, songbook-client, songbook]]></article>
+	<article number="0073" date="201107192317" active="1"><![CDATA[songbook]]></article>
+	<article number="0074" date="201107252245" active="1"><![CDATA[audio]]></article>
+	<article number="0075" date="201108201822" active="1"><![CDATA[songbook]]></article>
+	<article number="0076" date="201110221348" active="1"><![CDATA[songbook]]></article>
+	<article number="0077" date="201111011700" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0078" date="201111011650" active="1"><![CDATA[songbook]]></article>
+	<article number="0079" date="201111061409" active="1"><![CDATA[songbook]]></article>
+	<article number="0080" date="201111172142" active="1"><![CDATA[songbook]]></article>
+	<article number="0081" date="201112300034" active="1"><![CDATA[songbook]]></article>
+	<article number="0082" date="201201011732" active="1"><![CDATA[songbook]]></article>
+	<article number="0083" date="201201140251" active="1"><![CDATA[songbook]]></article>
+	<article number="0084" date="201201221817" active="1"><![CDATA[songbook]]></article>
+	<article number="0085" date="201201242308" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0086" date="201202222232" active="1"><![CDATA[songbook]]></article>
+	<article number="0087" date="201202261617" active="1"><![CDATA[songbook]]></article>
+	<article number="0088" date="201203011944" active="1"><![CDATA[]]></article>
+	<article number="0089" date="201203020017" active="1"><![CDATA[songbook, patacrep]]></article>
+	<article number="0090" date="201203181938" active="1"><![CDATA[songbook, documentation]]></article>
+	<article number="0091" date="201203251806" active="1"><![CDATA[songbook]]></article>
+	<article number="0092" date="201204022355" active="1"><![CDATA[songbook]]></article>
+	<article number="0093" date="201204151751" active="1"><![CDATA[songbook]]></article>
+	<article number="0094" date="201204302239" active="1"><![CDATA[songbook]]></article>
+	<article number="0095" date="201205131917" active="1"><![CDATA[songbook]]></article>
+	<article number="0096" date="201205150142" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0097" date="201205260859" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0098" date="201205260952" active="1"><![CDATA[songbook]]></article>
+	<article number="0099" date="201206021653" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0100" date="201206111909" active="1"><![CDATA[songbook]]></article>
+	<article number="0101" date="201206171317" active="1"><![CDATA[songbook]]></article>
+	<article number="0102" date="201206171331" active="1"><![CDATA[songbook-client]]></article>
+	<article number="0103" date="201207081809" active="1"><![CDATA[songbook]]></article>
+	<article number="0104" date="201207081904" active="1"><![CDATA[songbook-client]]></article>
+</document>

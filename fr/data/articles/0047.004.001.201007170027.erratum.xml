@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Erratum]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Quelques mots rapidement. Des petites erreurs s'étaient glissées dans la dernière release ... mais lesquelles ? À vous de les trouver :p En attendant, elles sont maintenant corrigées ! </p>
+
+<p>Au passage, j'ai également corrigé des petits soucis avec le site web et ô miracle, les pages se chargent environ 10 fois plus vite (ce n'était pas spécialement lent mais c'est maintenant ultra-rapide !). Je ne sais pas exactement d'où venait le problème. Mais la compression gzip, la suppression du flux rss du songbook.git qui ne marchait pas (d'ailleurs c'est légèrement pénible cette histoire, me faudra regarder ça plus tard) et pas mal d'erreurs xhtml en moins plus tard, ça dépote :D
+</p>
+
+<p>Juste en bonus, quelques chansons en plus faites dans la soirée que vous aurez du mal à trouver ailleurs sur le web, surtout qu'elles arrivent avec lilypond à l'appui ;)</p>
+
+<p>Et au passage, le cap des 300 (non, non, pas les champions de bodybuilding tout huilés) a été franchi dans la joie et l'allégresse !</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Pierre Caserta</strong>
+<ul>
+<li>Jack Johnson - Taylor</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Lila Downs - La cumbia del mole</li>
+<li>Les Petites Bourrettes - Notre monde</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

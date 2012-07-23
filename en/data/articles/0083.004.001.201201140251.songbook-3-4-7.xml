@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.4.7]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonsoir à tous,</p>
+
+<p>Nouvelle version du <a href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.7 avec la 577ème tablature !</p>
+
+<p>Peu de nouvelles chansons depuis la dernière version mais pas mal de corrections. </p>
+<p>J'ai également pas mal bataillé avec les scripts utilitaires. Vous serez donc ravis d'apprendre que cette croisade contre le coquillage s'est soldée par une victoire triomphale du serpent... Bon en fait, ce sont les scripts shell <i>resize-covers.sh</i> et <i>typo.sh</i> qui ont été réécrits en python, et ça va juste 10x plus vite :) À noter que <i>typo.sh</i> a carrément été fusionné (sans boucles d'oreilles) avec <i>rules.py</i>. En bref, après avoir rédigé vos superbes nouvelles tablatures, n'oubliez pas la commande magique :
+
+<div class="unix">
+<code>$./utils/rules.py && ./utils/resize-covers.py</code>
+</div>
+
+qui vous proposera une garantie de 3 ans sur la conformité de votre retranscription. Pour pas cher.
+</p> 
+
+<p>À part ça rien de transcendant, une mise à jour vers lilypond 2.14.2 qui s'est (presque) déroulée sans accros, le fichier NEWS devrait maintenant se mettre à jour tout seul comme un grand à chaque nouvelle version.</p>
+<p>J'ai découvert avec émoi que les citations inline s'introduisaient par une virgule in english (et non pas par un deux-points comme en français). Toutes mes excuses pour ceux que ça pertubait, vous dormirez mieux ce soir.</p>
+
+<p>Même si y'a aucun rapport, ça me fait penser qu'il y a un bug mineur avec les noms des covers. Si on a plusieurs fichiers cover.jpg avec le même nom dans différents sous-répertoires d'artistes, la même image est utilisée par tout le monde dans les pdf. Ça arrive notament avec les albums best-of donc il faut faire attention à les nommer artiste-best-of.jpg. Rien de très grave ceci étant.</p>
+
+
+<h3>Nouvelles chansons</h3>
+<strong>Pipiou</strong>
+<ul>
+  <li>Lucienne Delyle - Mon amant de Saint-Jean</li>
+  <li>Francis Cabrel - L'encre de tes yeux</li>
+  <li>Daniel Guichard - Mon vieux</li>
+  <li>Soan - Émilie</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Marie Cherrier - Les baleines</li>
+  <li>Marie Cherrier - Manouche</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

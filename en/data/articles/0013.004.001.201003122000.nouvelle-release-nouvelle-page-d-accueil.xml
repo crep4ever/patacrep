@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Nouvelle release, nouvelle page d'accueil]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Les releases s'enchaînent à un rythme effréné ces temps-ci. Pas certain que ça dure donc profitez-en :p</p>
+
+
+<p>Au programme, une grosse passe de corrections générales sur quasiment toutes les chansons en français pour corriger des fautes d'orthographe et de style. Plusieurs transpositions, des accords ou positions d'accords rectifiés, des nouvelles chansons et quelques partitions de plus. Rien que ça.</p>
+
+
+<p>Sinon, le songbook-creator est un peu au point mort mais la liste des trucs à implémenter se précise un peu donc tout n'est pas encore perdu. Y'a aussi un petit remaniement de la page d'accueil du site qui est mieux présenté comme ça (enfin je trouve). J'espère que <a href="http://git.lohrun.net/">Lohrun</a> appréciera à sa juste valeur le superbe rss de son serveur git en première page ^^</p>
+
+<p>
+Ah si, j'allais oublier ! À force de lavage de cerveau persuasion, quelques nouveaux contributeurs sont à remercier pour cette release. Merci à Thomas et à la famille ;)
+</p>
+
+<p>++</p>
+
+<h3>Nouvelles chansons:</h3>
+
+<strong>Alexandre Dupas:</strong>
+<ul>
+    <li> MC Solaar - Çaroline </li>
+    <li> System of a Down - Roulette </li>
+</ul>
+
+<strong>Dominique Goffe:</strong>
+<ul>
+    <li> Mes souliers sont rouges - Le cycle du vin </li>
+</ul>
+
+<strong>Thomas Bellet:</strong>
+<ul>
+    <li> Sheepbox - Devil's way </li>
+</ul>
+
+<strong>Crep:</strong>
+<ul>
+    <li> Renaud - Société tu m'auras pas </li>
+    <li> Renaud - Amoureux de Paname </li>
+    <li> Henri Dès - Mon cheval gris </li> 
+    <li> Henri Dès - Les bêtises à l'école </li>
+    <li> Le Donjon de <a href="http://www.penofchaos.com/warham/donjon.htm">Naheulbeuk</a> - Noël en Mordor </li>
+</ul>]]></content>
+	<tags><![CDATA[songbook, patacrep]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

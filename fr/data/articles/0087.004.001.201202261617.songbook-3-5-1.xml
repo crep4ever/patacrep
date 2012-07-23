@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.5.1]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Salut les songbookeurs !</p>
+
+<p>Nouvelle release du <a href="../data/documents/songbook.pdf">songbook</a> grâce aux contributions de broph qui a pris le temps d'ajouter plus d'une vingtaine de tabs ! Great ! Du coup, le nombre de tablatures disponibles dépasse allègrement la barre des 600 (620 tablatures pour cette version 3.5.1).</p>
+
+<p>J'en profite d'ailleurs pour revenir sur 2 petits points. Je vous ai parlé du nouvel environnement <i>repeatedchords</i> la dernière fois. En pratique, comment ça marche ?
+Avant on écrivait deux couplets dont les accords étaient les mêmes sous la forme suivante :</p>
+
+<code>
+  \beginverse
+    Ils sont \[G]p'tits, rouges ou bien \[D]verts
+    Et ont ten\[Em]dance à squatter l'bac à \[C]bière \[D]
+    \[G]Soit-disant à conso\[D]mmer cinq fois par jour
+    Moi je compte \[Em]ne plus les \[C]fois où \[D]{j'ai} passé mon \[G]tour
+  \endverse
+
+  \beginverse
+    Ils ont l'appui des médias, des scientifiques
+    Mais ne vous laissez pas avoir par ces pratiques
+    Corrélation saugrenue avec un effet de mode
+    Vous ne serez pas plus belles en mangeant des pommes
+  \endverse
+</code>
+
+<p>Maintenant, on peut écrire :</p>
+
+<code>
+  \beginverse
+    Ils sont \[G]p'tits, rouges ou bien \[D]verts
+    Et ont ten\[Em]dance à squatter l'bac à \[C]bière \[D]
+    \[G]Soit-disant à conso\[D]mmer cinq fois par jour
+    Moi je compte \[Em]ne plus les \[C]fois où \[D]{j'ai} passé mon \[G]tour
+  \endverse
+
+  \begin{repeatedchords}
+    \beginverse
+      Ils ont \[G]{l'appui} des mé\[D]dias, des scientifiques
+      \[Em]Mais ne vous laissez \[C]pas a\[D]voir par ces pra\[G]tiques
+      Corrélation saugre\[D]nue avec un effet de \[Em]mode
+      Vous ne serez pas plus \[C]belles \[D]en mangeant des \[G]pommes
+    \endverse
+  \end{repeatedchords}
+</code>
+
+<p>Ce qui offre l'avantage de pouvoir indiquer précisément les accords dans les autres couplets ou de les masquer pour gagner en place (comme jusqu'à présent).</p>
+
+<p>J'avais également oublié de parler d'une autre option : <i>importantdiagramsonly</i> que l'on doit ici encore à Lohrun. Cette option vient du constat qu'il est assez redondant d'afficher toujours les mêmes accords de base sous forme de diagramme au début des chansons. En revanche, ces diagrammes sont importants pour des accords qui sortent un peu de l'ordinaire. Du coup, on peut maintenant faire la différence entre les deux :</p>
+
+<code>
+  \gtab*{D4}{X5403X} % important chord
+  \gtab{C}{X32010}   % usual chord
+</code>
+
+<p>Notez que ces deux options sont à renseigner dans votre fichier votre_songbook.sb. Vous pouvez également passer par le songbook-client bien entendu, auquel cas, il s'agit d'une simple case à cocher dans les préférences de votre recueil.</p>
+
+<p>Bonne fin de week-end à tous !</p>
+
+<h3>Nouvelles chansons</h3>
+<strong>broph</strong>
+  <ul>
+  <li>M - La Seine</li>
+  <li>Noir Désir - Charlie</li>
+  <li>Noir Désir - Elle va où elle veut</li>
+  <li>Noir Désir - Joey I</li>
+  <li>Noir Désir - La chaleur</li>
+  <li>Noir Désir - La rage</li>
+  <li>Noir Désir - Le fleuve</li>
+  <li>Noir Désir - Si rien ne bouge</li>
+  <li>Noir Désir - Tu m'donnes le mal</li>
+  <li>Pigalle - Le chaland</li>
+  <li>Eddy Mitchell - Pas de boogie woogie</li>
+  <li>Eddy Mitchell - Tu peux préparer le café noir</li>
+  <li>Georges Brassens - À l'ombre des maris</li>
+  <li>Georges Brassens - Supplique pour être enterré sur la plage de Sète</li>
+  <li>Jimi Hendrix - The wind cries Mary</li>
+  <li>Johnny Hallyday - Le pénitencier</li>
+  <li>Julien Doré - Kiss me forever</li>
+  <li>R.E.M. - Everybody hurts</li>
+  <li>Renaud - La ballade nord-irlandaise</li>
+  <li>Soan - Pas pour lui</li>
+  <li>Soan - Putain de ballerine</li>
+  <li>Stealers Wheel - Stuck in the middle with you</li>
+  <li>Téléphone - New York avec toi</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

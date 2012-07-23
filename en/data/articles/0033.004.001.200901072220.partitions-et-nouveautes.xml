@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Partitions et nouveautés]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>En cette froide période, voici les nouveautés du carnet de chansons:</p>
+
+<ul>
+<li>intégration de partitions aux morceaux. Elles sont écrites avec <a href="http://lilypond.org/web/">lilypond</a>, programme qui est un peu à Finale ce que LaTeX est à Word. En bref, le rendu est excellent et l'intégration avec LaTeX se fait très bien. Comme les partitions sont retranscrites d'oreille, soyez indulgents avec les erreurs et prenez-les comme une indication de certaines lignes mélodiques.</li>
+<li>corrections d'orthographe diverses dans quelques tabs et certains paramètres de mise en page ajustés pour un pdf irréprochable ;)</li>
+<li>un script, largement inspiré du script perl de <a href="http://www.lohrun.net/code/songbook/">Lohrun</a>, pour générer la liste html des chansons du songbook. Comme ça, l'article de la section Index sera automatiquement à jour.</li>
+</ul>
+
+<h3>Nouvelles tabs</h3>
+<ul>
+<li>Bruce Springsteen - Buffalo Gals</li>
+<li>Bruce Springsteen - O Mary Don't You Weep</li>
+<li>Bruce Springsteen - Bring 'Em Home</li>
+<li>Le Donjon de Naheulbeuk - Les souliers de Lady Fae</li>
+<li>Le Donjon de Naheulbeuk - Troll Farceur et Elfe Farci (par Lohrun)</li>
+</ul>
+
+<h3>Partitions ajoutées</h3>
+<ul>
+<li>Le Donjon de Naheulbeuk - J'ai 10 sous dans ma poche</li>
+<li>Le Donjon de Naheulbeuk - La bière du donjon</li>
+<li>Le Donjon de Naheulbeuk - Les souliers de Lady Fae</li>
+<li>Les Cowboys Fringants - Droit devant</li>
+<li>Les Cowboys Fringants - Étoiles filantes</li>
+<li>Les Ogres de Barback - Rue de Panam</li>
+</ul>
+
+<p>
+PS: Comme l'intégration des partitions lilypond a demandé pas mal de modifications, la publication des sources se fera un peu plus tard quand ce sera un peu moins "sale" (oui, j'ai honte, j'ai tout cassé).
+</p>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Quelques pas de fourmi vers la v0.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Parce que jamais deux sans trois, voici la troisième news patacrep du week-end.</p>
+<p>Dans l'ensemble, c'est assez curieux, rien de révolutionnaire (en même temps, en une journée, dur de faire des miracles) mais du touche-à-tout.</p>
+
+<h3>Documentation</h3>
+<ul>
+<li>correction d'un bug d'affichage du caractère > dans la section patch (merci à Matthias Bussonnier)</li>
+<li>correction d'un bug qui empêchait la compilation parce que le répertoire fig/pdf n'existait pas (merci à Matthias Bussonnier)</li>
+<li>épuration des fichiers de style</li>
+</ul>
+
+<p>En revanche, la documentation n'est plus du tout à jour concernant la future version ... ça viendra mais un peu plus tard.</p>
+
+<h3>Modes pour gedit/emacs</h3>
+<ul>
+<li>ajout de quelques mots clés pour la coloration syntaxique</li>
+<li>chargement du mode "songbook" pour les fichiers ".sbd"</li>
+</ul>
+
+<h3>Songbook</h3>
+<ul>
+<li>nouveau template minimal qui permet de produire un pdf ne contenant que les chansons
+(pas de page de garde, de licence et d'index)</li>
+<li>ajout d'un champ web sur la page de garde</li>
+<li>incrément du numéro de version vers 3.2 (le plus dur)</li>
+</ul>
+
+<h3>Utilitaires</h3>
+<ul>
+<li>quelques nouvelles règles dans le latex-preprocessing.ly</li>
+</ul>
+
+<h3>Site web</h3>
+<ul>
+<li>ajout d'un lien retour au site web sur le forum</li>
+<li>quelques images et liens étaient cassés</li>
+<li>encore quelques corrections xhtml</li>
+</ul>
+
+<h3>Songbook-client</h3>
+<ul>
+<li>boites de dialogue pour les tools</li>
+<li>correction du readme sur github</li>
+<li>plusieurs petits bugs de corrigés</li>
+</ul>
+
+<p>Et quelques petites captures d'écrans parce que ça faisait longtemps.</p>
+<ul>
+<li>le nouveau système de songbooks/templates en action:<br/>
+<a href="../data/images/v0.3-01.png">
+<img src="../data/images/v0.3-01.png.tb" alt="" />
+</a>
+</li>
+<li>
+les deux petites boîtes de dialogues pour les scripts externes:<br/>
+<a href="../data/images/v0.3-02.png">
+<img src="../data/images/v0.3-02.png.tb" alt="" />
+</a>
+<a href="../data/images/v0.3-03.png">
+<img src="../data/images/v0.3-03.png.tb" alt="" />
+</a>
+</li>
+</ul>
+
+
+
+<p>En gros, ça commence à ressembler à la future v0.3. Le développement est encore trop
+chaotique pour que cela veuille dire grand chose mais personnellement, je considère
+le git actuel comme une v0.3beta.</p>
+
+
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Matthias Bussonnier</strong>
+<ul>
+<li>Alex Beaupain - Je n'aime que toi</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+<li>Neil Young - Heart of gold</li>
+</ul>]]></content>
+	<tags><![CDATA[]]></tags>
+</document>

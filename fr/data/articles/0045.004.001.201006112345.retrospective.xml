@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Rétrospective]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>
+Parcourant mes archives à la recherche de fichiers perdus, je suis récemment tombé sur 
+des sauvegardes des anciennes versions du songbook. Ça m'a fait sourire alors je 
+ne résiste pas à l'envie de les partager. Voici donc mes premiers essais. Je vous laisse
+apprécier vous-même :) 
+</p>
+
+<ul>
+<li><a href="../data/documents/old/patacrep-2006.pdf">version1</a></li>
+<li><a href="../data/documents/old/patacrep-2007.pdf">version2</a></li>
+<li><a href="../data/documents/old/patacrep-2009.pdf">version3</a></li>
+</ul>
+
+<p>
+Pour la petite histoire, la première version remonte à l'été 2006, un an tout 
+rond après avoir emprunté pour la première fois la guitare de mon père pour m'arracher les doigts
+dessus. Je décide alors d'organiser proprement les quelques chansons que je
+connaissais à l'époque, chansons apprises entre deux apéros/soirées étudiantes,
+transcrites tant bien que mal en version électronique. Oui, à l'époque, pas de
+ligne internet perso et 56k (limité) l'été, je venais d'installer ma première ubuntu
+mais je travaillais encore essentiellement sous windows et word.
+</p>
+
+<p>
+La seconde version date de début 2007. Première connexion internet, évolution vers
+publisher, un peu plus de chansons. Pas grand chose à dire. La version word était 
+vraiment trop galère à maintenir, celle-ci était quand même un peu mieux fichue.
+</p>
+
+<p>
+Et puis arrive la thèse, Linux, Lohrun qui me signale que les carnets de chants,
+et bien ça peut se faire en LaTeX, mes premiers arrachages de cheveux sur l'écriture des
+index, les commandes sed à
+rallonge, le makefile, les week-end passés à 
+réécrire proprement toutes les chansons, les scripts perl pour les index, 
+le passage à Git, le site web, LaTeX qui commence à
+rentrer, les scripts shell, les bouts de code en Python, l'interface en Qt ... j'en passe
+et des meilleures.
+</p>
+<p>
+Je ne compte plus les soirées/week-end pour faire tout ça. 
+Mais au final, et bien on en est <a href="../data/documents/songbook.pdf">là</a> et c'est pas encore fini :)
+Spéciale dédicace à Lohrun quand même parce que bon, 
+je ne pense pas me tromper en disant qu'il ne compte plus les heures non plus :D
+</p>
+
+<p>
+Merci à tous ceux
+qui m'ont encouragé jusque là, qui ont participé, donné des idées, partagé, relu, corrigé,
+qui ont donné des bouts de code et corrigé mes bugs, qui m'ont accompagné de guitare et de chansons, 
+et passé de bons moments avec moi. Bon j'arrête avant de vous
+arracher une larmichette avec cette tirade mélo-dramatique mais sincère.
+</p>
+<p>
+Merci à tous, tout simplement ;)
+Voilà pour la petite histoire.
+</p>
+
+<h3>Nouvelles chansons:</h3>
+<strong>Crep</strong>
+<ul>
+<li>  Les Ogres de Barback - Rue du temps </li>
+<li>  Les Amis d'ta femme - A las barricadas </li>
+<li>  Mes souliers sont rouges - Bassin d'Irlande </li>
+<li>  Debout sur le Zinc - Rester debout </li>
+<li>  Simon &amp; Garfunkel - The only living boy in New-York </li>
+<li>  Les Cowboys Fringants - Plus rien </li>
+</ul>]]></content>
+	<tags><![CDATA[patacrep, songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

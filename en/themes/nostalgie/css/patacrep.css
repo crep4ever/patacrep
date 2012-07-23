@@ -1,0 +1,277 @@
+body
+{
+    font: 80%/1.7em "Lucida sans unicode", Lucida, Tahoma, Arial, sans-serif;
+    background: #eeeeec;
+}
+
+#section
+{
+    width: 90%;
+}
+
+h1 { color: #4e9a06; font-size: 2.4em; }
+h2 { color: #4e9a06; font-size: 1.3em; }
+h3 { color: #4e9a06; font-size: 1.2em; margin: 0; padding: 0; }
+p { margin: 0; padding: 0; clear:both; }
+a { color: #204a87; text-decoration: none; outline: none; }
+a:hover { color: #333; }
+
+fieldset
+{
+    width: 95%;
+}
+
+#header
+{
+    max-width: 90%;
+}
+
+#nav li a
+{
+    font-size: 1em;
+}
+
+#content
+{
+    width: 80%;
+}
+
+.left
+{
+    float: left;
+    width: auto;
+    margin-left:4px;
+}
+
+/* --------------------- 
+   Articles
+   --------------------- */
+
+.article
+{
+    float: left;
+    width: 95%;
+    background-color:#CBD7AD;
+    border-radius: 6px;
+    padding:10px;
+}
+
+.art-title
+{
+    font-size: 1.8em;
+}
+
+.art-chapo, .art-content, .static-content, .art-static
+{
+    background: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    clear: both;
+    padding: 2px 3px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 95%;
+}
+
+.art-chapo, .art-static
+{
+    margin-bottom: 2em;
+}
+
+.art-chapo p, .art-content p, .static-content p, .art-static p 
+{
+    text-align: justify;
+    margin-bottom: 4px;
+    text-indent: 0;
+}
+
+/* --------------------- 
+   Sidebar
+   --------------------- */
+
+#aside
+{
+    width: 20%;
+}
+
+#aside h3
+{
+    height: auto;
+    min-height: 1.5em;
+    max-height: 3.5em;
+}
+
+
+/* --------------------- 
+   Comments form
+   --------------------- */
+
+.form_right
+{
+    width: 60%;
+}
+
+#form textarea
+{
+    width: 100%;
+}
+
+/* --------------------- 
+   Footer
+   --------------------- */
+
+footer
+{
+    font-size: 90%;
+}
+
+#footer
+{
+    max-width: 90%;
+    margin-top: 2em;
+}
+
+#footer p
+{
+    padding: 2px;
+}
+
+/* --------------------- 
+   Code environment in articles
+   --------------------- */
+
+.unix
+{
+    border-left: 5px solid #2e3436;
+    font-size: 120%;
+    background: #555753;
+    color: #eeeeec;
+}
+
+code
+{
+    white-space: pre;
+    font-size: 120%;
+}
+
+.note
+{
+    padding: 4px;
+    background-color: #ffffcc;
+}
+
+/* --------------------- 
+   Audio static page
+   --------------------- */
+
+audio
+{
+    margin-top: 12px;
+    background-color: #deffce;
+}
+
+.jamendo
+{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.song
+{
+    float:left;
+    padding:7px;
+}
+
+.song .note
+{
+    width: 340px;
+    height: 70px;
+}
+
+/* --------------------- 
+   Home page
+   --------------------- */
+
+.slide
+{
+    background-color:#eeeeec;
+    max-width: 800px;
+    width:100%;
+    height:100%;
+    min-height:210px;
+    border-radius:20px;
+    margin:0.5em auto;
+    clear:both;
+}
+
+.slide ul
+{
+    list-style-type: none;
+    background-color:rgba(255,255,255,0.4);
+    border-radius:20px;
+}
+
+.slide h1
+{
+    padding:10px;
+    color:#2e3436;
+    font-size:16px;
+}
+
+.slide li
+{
+    padding:10px;
+    color:#2e3436;
+    font-weight:bold;
+    font-size:12px;
+    font-family:arial, sans serif;
+    margin-left:-20px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.slide a
+{
+    padding:20px;
+}
+
+.slide-odd h1
+{
+    margin-left: 40%;
+}
+
+.slide-even h1
+{
+    margin-right: 30%;
+}
+
+.slide-odd ul
+{
+    margin-left: 40%;
+    margin-right: 5%;
+}
+
+.slide-even ul
+{
+    margin-right: 40%;
+    margin-left: 5%;
+}
+
+.slide-odd a
+{
+    float:left;
+}
+
+.slide-even a
+{
+    float:right;
+}
+
+#language
+{
+    float:right;
+    width: 100px;
+    height: 20px;
+    margin-top:-100px;
+}

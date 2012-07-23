@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-client 0.4.1 released]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hop petite mise à jour du <a href="static1/downloads">songbook-client</a>.</p>
+<p>Depuis le temps qu'elle devait arriver ...</p>
+<p>En ce qui concerne les nouveautés:</p>
+
+<ul>
+<li>la sélection par langue des chansons</li>
+<li>éditeur amélioré avec la numérotation des lignes et la surbrillance de la ligne courante</li>
+<li>tout le système d'appel à des processus externes (comme le "make songbook.pdf" ou le "git clone") a été réécrit/factorisé</li>
+<li>la barre de recherche est nettement plus efficace et regarde uniquement dans les champs titre/auteur/album</li>
+<li>l'appli surveille les nouveaux fichiers qui apparaissent dans le répertoire "songbook" pour garder la base de données synchro</li>
+<li>l'interface a été pas mal simplifiée en mettant notamment toutes les options de personnalisation du recueil dans une boite de dialogue à part</li>
+<li>nouvelle boite de dialogue pour la création d'une nouvelle chanson</li>
+<li>coloration syntaxique des logs de compilation LaTeX</li>
+<li>simplifications et meilleure gestion des paramètres des templates du songbook</li>
+<li> ... et puis une bonne dose de trucs corrigés, ajustés, embellis etc.</li>
+</ul>
+
+<p>Et puis n'oublions pas les mercis :</p>
+<ul>
+<li>à Lohrun pour la réécriture du filtre de recherche et autres corrections</li>
+<li>à Matthias Bussonnier et Vincent pour le portage sous Mac OS X 
+(le dmg est dispo sur la page <a href="static1/downloads">downloads</a> mais il manque encore les toutes dernières modifs/traductions)</li>
+</ul>
+
+<p>Bonne soirée</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

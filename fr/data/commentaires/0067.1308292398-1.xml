@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[Simon]]></author>
+	<type>normal</type>
+	<ip>87.91.233.171</ip>
+	<mail><![CDATA[]]></mail>
+	<site><![CDATA[]]></site>
+	<content><![CDATA[Bonjour,
+voilà ce que j&#039;obtiens au Terminal :
+dyld: unknown required load command 0x80000022
+Trace/BPT trap]]></content>
+</comment>

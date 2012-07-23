@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Correction de bugs]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Et hop, une nouvelle release en ce gris week-end. Un bug plutôt gênant a été corrigé: les index étaient triés d'une façon un peu étrange, mais tout est maintenant rentré dans l'ordre :)</p>
+
+<p>
+Et puis comme on n'a pas chômé non plus, voici la traditionnelle liste des nouvelles chansons:</p>
+
+<strong>Alexandre Dupas:</strong>
+
+<ul>
+<li>Yodelice - Sunday with a flu</li>
+<li>The Çalling - Wherever you will go</li>
+</ul>
+
+<strong>Crep:</strong>
+
+<ul>
+    <li> Mes souliers sont rouges - Nuit humide </li>
+    <li> Ritchie Valens - Come on, let's go! </li>
+    <li> Claude Nougaro - Armstrong </li>
+    <li> Maxime Le Forestier - San Francisco </li>
+    <li> Simon &amp; Garfunkel - Mrs. Robinson </li>
+    <li> Les Fatals Picards - La ferme </li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

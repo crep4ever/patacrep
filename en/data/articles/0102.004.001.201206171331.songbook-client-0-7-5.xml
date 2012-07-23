@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook-Client 0.7.5]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Tant que j'y pense, il y a aussi une nouvelle version 0.7.5
+  du <a href="static1/downloads#Songbook-Client">songbook-client</a> qui
+  vient corriger et stabiliser l'appli (merci à Lohrun et Znoug) :</p>
+
+<ul>
+  <li>l'action pour générer les pdf est grisée si la bibliothèque est vide</li>
+  <li>un message d'avertissement apparaît si pdflatex et/ou python ne
+    sont pas installés</li>
+  <li>quelques tooltips n'étaient pas dessinés correctement</li>
+  <li>vérification du nombre de cordes lorsqu'on rajoute un nouveau diagramme</li>
+  <li>correction d'un crash lors de l'enregistrement d'une chanson vide</li>
+  <li>correction du premier caractère qui n'était pas correctement affiché dans l'éditeur</li>
+  <li>correction de la valeur par défaut du nombre de colonnes</li>
+  <li>les suggestions d'orthographes ne sont proposées que lorsque la correction orthographique est active</li>
+</ul>
+
+<p>Voilou, bon dimanche à tous</p>]]></content>
+	<tags><![CDATA[songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.0]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>La version 3.6.0 du <a href="data/documents/songbook.pdf">songbook</a> est dispo. À noter qu'une grosse passe de relecture/corrections corrige un paquet de coquilles sur plus de 150 chansons (notamment des histoires de diagrammes d'accords et de fautes d'orthographe).</p>
+
+<p>Les paquets Debian du <a href="static1/downloads#Songbook-Client">Songbook-Client</a> ont également été mis à jour vers la version 0.7.4 (thx Lohrun).</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>yoyoma</strong>
+<ul>
+  <li>Razorlight - America</li>
+  <li>U2 - One</li>
+  <li>America - A Horse With No Name</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Bloodhound Gang - Fire water burn</li>
+  <li>Pascale Picard - Smilin'</li>
+  <li>Coluche - Sois fainéant</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,158 @@
+/* ================================================================ 
+   This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menu/cssplayBox.html
+Copyright (c) 2005-2011 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+/* Modified for personnal use and non commercial usage.
+   Copyright (c) 2012 Romain Goffe <romain.goffe@gmail.com> */
+
+/* this is a CSS answer to fix the hover/focus '~' and hover/focus '+' problem in safari and chrome */
+/* tabindex="1" in the link code to fix the 'focus persist' problem in safari and chrome */
+html 
+{
+    -webkit-animation: safariSelectorFix infinite 1s;
+}
+
+@-webkit-keyframes safariSelectorFix 
+{
+    0%{	zoom:1;} 100% {zoom:1;}
+}
+
+/* a fix for :active + adjacent sibling selector in IE */
+a.lightBox, img.close 
+{
+    behavior:url(cssplayBox/trigger.htc)
+}
+
+a.lightBox 
+{
+    display:block; 
+    outline:0; 
+    padding:5px; 
+    margin:4px; 
+}
+
+img.small 
+{
+    display:block; 
+    border:0;
+}
+
+.cssBox 
+{
+    display:table; 
+    position:fixed; 
+    top:0; 
+    left:-9999px; 
+    width:100%; 
+    height:100%; 
+    z-index:500;
+}
+.cssBox .back 
+{
+    display:block; 
+    position:fixed; 
+    top:0; 
+    left:-9999px; 
+    width:100%; 
+    height:100%; 
+    background:#000; 
+    z-index:-1; 
+    opacity:0.5;filter: alpha(opacity=50);
+}
+.cssBox .holder 
+{
+    position:relative; 
+    z-index:100; 
+    text-align:center; 
+    display:table-cell; 
+    vertical-align:middle;
+}
+
+.cssBox .frame 
+{
+    display:inline-block; 
+    margin:0 auto; 
+    padding:15px; 
+    background:#fff; 
+    position:relative; 
+    text-align:left; 
+    font-family:arial, sans-serif;
+    -o-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+    -ms-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+.cssBox .large 
+{
+    display:inline-block; 
+    opacity:0; 
+    position:relative; 
+    z-index:100;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+}
+
+a.lightBox:active
+{
+    left:0;
+}
+
+a.lightBox:active + .cssBox .back 
+{
+    left:0;
+}
+
+a.lightBox:active + .cssBox .caption 
+{
+    opacity:1; 
+    margin-top:0;
+}
+
+a.lightBox:focus + div
+{
+    left:0;
+}
+
+a.lightBox:focus + .cssBox .back 
+{
+    left:0;
+}
+
+a.lightBox:focus + .cssBox .large 
+{
+    opacity:1;
+}
+
+a.lightBox:focus + .cssBox .caption 
+{
+    opacity:1; 
+    margin-top:0;
+}
+
+a.lightBox:focus + .cssBox .close 
+{
+    opacity:1;
+}
+
+.close 
+{
+    display:block; 
+    width:48px; 
+    height:48px; 
+    position:absolute; 
+    top:-23px; 
+    right:-23px; 
+    cursor:pointer;
+    z-index:150; 
+    opacity:0;
+}

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Période de transition]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Enfin une news après une certaine période de silence radio. Pas mal de raisons à cela dont une période de rédaction de thèse qui s'annonce éprouvante et chronophage et, chose qui vous intéressera plus, une transition assez importante dans l'organisation du songbook. Je vous renvoie d'ailleurs aux posts explicatifs de Lohrun sur le forum (oui je suis lâche).</p>
+
+<p>
+Voici néanmoins un petit résumé à ma sauce des changements majeurs:
+</p>
+
+<h3>Songbook</h3>
+
+<ul>
+ <li> nouveau système de templates: sorte d'extension du modèle de liste qu'il y avait jusqu'à présent (les anciens fichiers .sgl)
+Dorénavant, un fichier pdf est défini par un fichier songbook (.sb) qui contient la liste des chansons à prendre en compte ainsi que 
+le style de la page de garde et le genre de recueil qu'on cherche à construire (lilypond, chords, lyrics).</li>
+
+<li> il n'est plus nécessaire de lancer make lilypond pour construire les partitions, ceci est maintenant directement intégré au makefile qui, cerise sur le gâteau, ne compilera que les lilypond nécessaires d'après les chansons indiquées dans le modele.sb. </li>
+</ul>
+
+<h3>Songbook client</h3>
+
+La version dispo sur github (la future 0.3 une fois que plusieurs petits trucs auront été réglés) voit plusieurs nouveautés alléchantes.
+
+<ul>
+<li> un joli boulot de Lohrun pour adapter l'interface au nouveau système de templates. </li>
+<li> quelques petites améliorations au niveau de l'éditeur de chansons intégré </li>
+<li> les icônes de l'application sont maintenant celles du thème du système </li>
+<li> pas mal de réarrangements au niveau de l'agencement des menus, tooltips etc. </li>
+</ul>
+
+<ul>
+ <li> attention 1, la version 0.2 du client (donc les paquets debian) n'est plus compatible avec le nouveau système de templates du songbook.</li>
+ <li> attention 2, la version actuelle du dépôt est prévue pour du qt > 4.6 et n'a pas été testée autre part que sous Lucid Lynx. Il manque par ailleurs une bonne partie des traductions françaises.</li>
+</ul>
+
+<h3>Site web</h3>
+
+<ul>
+ <li> Mise à jour vers <a href="http://pluxml.org/">Pluxml 5</a> </li>
+ <li> Refonte de la page downloads. D'ailleurs, je laisse tomber le support des multiples versions pdf du songbook. Seules les 3 versions de base sont maintenues (le lilypondbook, chordbook et lyricbook). Les autres (les volumes et autres éditions spéciales) ne sont plus que proposées sous la forme de fichiers ".sb". L'idée étant d'en rajouter encore plusieurs pour proposer des songbooks par genre/langue/compositeur etc. Il n'était donc plus envisageable de proposer tous les pdfs à chaque fois. </li>
+<li> Mise à disposition du <a href="../data/documents/songbook-windows.zip">code</a> de Pierre Caserta pour Windows </li>
+<li> Mise à disposition d'un <a href="../data/documents/songbook-client-9999.ebuild">ebuild</a> Gentoo pour le songbook-client écrit par Guibou il y a longtemps c'est vrai :)</li> 
+</ul>
+
+<h3>Nouvelles chansons</h3>
+<strong>Lohrun</strong>
+<ul>
+  <li>Les Wriggles - Plouf</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Maxime Le Forestier - La rouille</li>
+  <li>Les Petites Bourrettes - Et si je t'aime</li>
+  <li>Les Cowboys Fringants - La bonne pomme</li>
+  <li>Les Cowboys Fringants - Entre deux taxis</li>
+  <li>Les Petites Bourrettes - Dans la tête</li>
+  <li>Les Petites Bourrettes - La vieille</li>
+  <li>As de Trêfle - Jessica</li>
+  <li>Le Colporteur - Comme on dit</li>
+  <li>Les Vieilles Valises - Émilie</li>
+  <li>Sansévérino - Dimanche dernier</li>
+  <li>Le livre de la Jungle - I wanna be like you</li>
+  <li>La Rue Kétanou - Sur les chemins de la bohème</li>
+  <li>Louise Attaque - Les nuits parisiennes</li>
+  <li>Marie Laforêt - Ivan, Boris et moi</li>
+</ul>
+
+
+<h3>À propos des retours utilisateurs</h3>
+
+<ul>
+ <li> Merci à Pierre Caserta pour son travail concernant la doc + le code pour la version windows. Et bravo pour toutes les <a href="http://github.com/casertap/UkuleleSongbook">chansons ukulélé écrites</a> que je rapatrierai prochainement (promis).</li>
+ <li>Merci aux commentaires encourageants et aux personnes qui nous rejoignent dans l'aventure.</li>
+ <li>Merci pour le site de tablatures de <a href="http://www.bossanovaguitar.com">bossa nova</a>, pointé par Philippe Rault. J'avoue que ça me fait un peu peur à transcrire mais j'essayerai d'en faire quelques unes.</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook, songbook-client]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>
