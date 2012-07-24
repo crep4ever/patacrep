@@ -13,8 +13,6 @@
                                     <p class="art-author"><?php $plxShow->lang('WRITTEN_BY') ?> <?php $plxShow->artAuthor() ?></p>
                                 </div>
 				<div class="art-content"><?php $plxShow->artContent(); ?></div>
-<g:plusone size="small"></g:plusone>
-<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
 
 				<div class="author-infos"><?php $plxShow->artAuthorInfos('#art_authorinfos'); ?></div>
                         </div>
