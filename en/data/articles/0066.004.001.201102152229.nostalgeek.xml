@@ -7,8 +7,8 @@
 	<content><![CDATA[<p>Un ptit air à la guitare pour la route (et pour les amoureux de jeux video surtout).</p>
 
 <audio controls preload>
-  <source src="data/audio/nostalgeek.ogg">
-  <source src="data/audio/nostalgeek.mp3">
+  <source src="../data/audio/nostalgeek.ogg">
+  <source src="../data/audio/nostalgeek.mp3">
   Audio not supported. Please use an HTML5 capable browser.
 </audio>
 

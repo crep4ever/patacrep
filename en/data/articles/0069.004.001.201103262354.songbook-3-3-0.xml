@@ -7,10 +7,10 @@
 	<content><![CDATA[<h3>Songbook</h3>
 
 <ul>
-<li>Première version du <a href="data/documents/volume-3.pdf">tome 3</a>. Banzai! 
-Comme d'habitude, il s'agit des chansons qui ne sont ni dans le <a href="data/documents/volume-1.pdf">tome 1</a>, 
-ni dans le <a href="data/documents/volume-2.pdf">tome 2</a>
-mais qui sont dans le <a href="data/documents/songbook.pdf">songbook complet</a>. 
+<li>Première version du <a href="../data/documents/volume-3.pdf">tome 3</a>. Banzai! 
+Comme d'habitude, il s'agit des chansons qui ne sont ni dans le <a href="../data/documents/volume-1.pdf">tome 1</a>, 
+ni dans le <a href="../data/documents/volume-2.pdf">tome 2</a>
+mais qui sont dans le <a href="../data/documents/songbook.pdf">songbook complet</a>. 
 Le coup des volumes permet de ne pas réimprimer l'intégralité du songbook à chaque nouvelle chanson ;)</li>
 <li> suppression des caractères de ponctuation "," et "." en fin
 de ligne.  Apparemment, ça ne se fait pas trop en poésie (les

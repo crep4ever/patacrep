@@ -10,13 +10,13 @@ En revanche, je compte pas tenir le rythme d'une chanson par soirée :p mais ce 
 </p>
 
 <audio controls preload>
-  <source src="data/audio/soiree_pepere.ogg">
-  <source src="data/audio/soiree_pepere.mp3">
+  <source src="../data/audio/soiree_pepere.ogg">
+  <source src="../data/audio/soiree_pepere.mp3">
   audio not supported
 </audio>
 
 <p>
-<a href="data/audio/soiree_pepere.pdf">paroles et tablature</a>
+<a href="../data/audio/soiree_pepere.pdf">paroles et tablature</a>
 </p>
 
 <p>

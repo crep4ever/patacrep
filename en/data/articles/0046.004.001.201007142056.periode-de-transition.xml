@@ -41,8 +41,8 @@ La version dispo sur github (la future 0.3 une fois que plusieurs petits trucs a
 <ul>
  <li> Mise à jour vers <a href="http://pluxml.org/">Pluxml 5</a> </li>
  <li> Refonte de la page downloads. D'ailleurs, je laisse tomber le support des multiples versions pdf du songbook. Seules les 3 versions de base sont maintenues (le lilypondbook, chordbook et lyricbook). Les autres (les volumes et autres éditions spéciales) ne sont plus que proposées sous la forme de fichiers ".sb". L'idée étant d'en rajouter encore plusieurs pour proposer des songbooks par genre/langue/compositeur etc. Il n'était donc plus envisageable de proposer tous les pdfs à chaque fois. </li>
-<li> Mise à disposition du <a href="data/documents/songbook-windows.zip">code</a> de Pierre Caserta pour Windows </li>
-<li> Mise à disposition d'un <a href="data/documents/songbook-client-9999.ebuild">ebuild</a> Gentoo pour le songbook-client écrit par Guibou il y a longtemps c'est vrai :)</li> 
+<li> Mise à disposition du <a href="../data/documents/songbook-windows.zip">code</a> de Pierre Caserta pour Windows </li>
+<li> Mise à disposition d'un <a href="../data/documents/songbook-client-9999.ebuild">ebuild</a> Gentoo pour le songbook-client écrit par Guibou il y a longtemps c'est vrai :)</li> 
 </ul>
 
 <h3>New songs</h3>

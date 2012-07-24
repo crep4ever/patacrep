@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Certainement la dernière <a href="data/documents/songbook.pdf">release</a> de 2011.</p>
+	<content><![CDATA[<p>Certainement la dernière <a href="../data/documents/songbook.pdf">release</a> de 2011.</p>
 
 <p>Bonne fêtes à tous.</p>
 

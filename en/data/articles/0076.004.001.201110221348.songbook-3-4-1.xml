@@ -42,7 +42,7 @@
   </div>
   Ce nouveau paramètre permet également de traduire les champs de la
   page de garde. La
-  version <a href="data/documents/lyricbook.pdf">english</a> affiche
+  version <a href="../data/documents/lyricbook.pdf">english</a> affiche
   donc le champs "authors" au lieu de "auteurs", ça fait moins tache,
   vous en conviendrez.
 </p>
@@ -91,7 +91,7 @@
   <ul>
     <li>compatibilité avec Lilypond 2.14 (merci à Gildas Prévot)</li>
     <li>le retour
-      du <a href="data/documents/lyricbook.pdf">lyricbook</a> dans la
+      du <a href="../data/documents/lyricbook.pdf">lyricbook</a> dans la
       section downloads. Pour rappel, il s'agit d'une version compacte
       contenant uniquement les paroles des chansons.</li>
     <li>support des chansons écrites en portugais</li>

@@ -7,14 +7,14 @@
 	<content><![CDATA[<div class="slide" style="background-color:#CCCCCC">
   <div class="slide-odd">
     <a class="lightBox" href="#" tabindex="1">
-      <img src="../data/images/books.png" alt="books" />
+      <img src="../../data/images/books.png" alt="books" />
     </a>
     <div class="cssBox">  	
       <div class="back"></div>
       <div class="holder">
 	<div class="frame">
-	  <img class="large" src="../data/images/books-full.png" alt="books-full" />
-	  <img class="close" src="../data/images/close.png" alt="close" />
+	  <img class="large" src="../../data/images/books-full.png" alt="books-full" />
+	  <img class="close" src="../../data/images/close.png" alt="close" />
 	</div>
       </div>
     </div>
@@ -29,14 +29,14 @@
 <div class="slide" style="background-color:#E7D6A0">
   <div class="slide-even">
     <a class="lightBox" href="#" tabindex="1">
-      <img src="../data/images/typo.png"  style="margin-left:-100px;" alt="typo" />
+      <img src="../../data/images/typo.png"  style="margin-left:-100px;" alt="typo" />
     </a>
     <div class="cssBox">  	
       <div class="back"></div>
       <div class="holder">
 	<div class="frame">
-	  <img class="large" src="../data/images/typo-full.png" alt="typo-full" />
-	  <img class="close" src="../data/images/close.png" alt="close" />
+	  <img class="large" src="../../data/images/typo-full.png" alt="typo-full" />
+	  <img class="close" src="../../data/images/close.png" alt="close" />
 	</div>
       </div>
     </div>
@@ -52,14 +52,14 @@
 <div class="slide" style="background-color:#CDBFD9">
   <div class="slide-odd">
     <a class="lightBox" href="#" tabindex="1">
-      <img src="../data/images/client.png" alt="songbook-client"/>
+      <img src="../../data/images/client.png" alt="songbook-client"/>
     </a>
     <div class="cssBox">  	
       <div class="back"></div>
       <div class="holder">
 	<div class="frame">
-	  <img class="large" src="../data/images/client-full.png" alt="songbook-client-full" />
-	  <img class="close" src="../data/images/close.png" alt="close" />
+	  <img class="large" src="../../data/images/client-full.png" alt="songbook-client-full" />
+	  <img class="close" src="../../data/images/close.png" alt="close" />
 	</div>
       </div>
     </div>
@@ -75,14 +75,14 @@
 <div class="slide" style="background-color:#CBD7AD">
   <div class="slide-even">
     <a class="lightBox" href="#" tabindex="1">
-      <img src="../data/images/foss.png" style="margin-left:-180px;" alt="foss"/>
+      <img src="../../data/images/foss.png" style="margin-left:-180px;" alt="foss"/>
     </a>
     <div class="cssBox">  	
       <div class="back"></div>
       <div class="holder">
 	<div class="frame">
-	  <img class="large" src="../data/images/foss-full.png" alt="foss-full"/>
-	  <img class="close" src="../data/images/close.png" alt="close" />
+	  <img class="large" src="../../data/images/foss-full.png" alt="foss-full"/>
+	  <img class="close" src="../../data/images/close.png" alt="close" />
 	</div>
       </div>
     </div>    

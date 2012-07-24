@@ -7,14 +7,14 @@
 	<content><![CDATA[<p>Bonsoir, bonsoir</p>
 
 <p>La version 3.5.3 du <a
-href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a>
+href="http://www.patacrep.com/../data/documents/songbook.pdf">songbook</a>
 est dispo. Un immense merci à tous les contributeurs ! Cette
 version est assez conséquente et contient pas mal de nouveautés sympatoches.</p>
 
 <ul>
 <li>Le songbook est maintenant basé sur la <a href="http://songs.sourceforge.net/history.html">nouvelle version 2.14</a> du <a href="http://songs.sourceforge.net/">Songs LaTeX Package</a>.</li>
 <li>Un récapitulatif des différents accords de guitare est inclus au début du PDF. C'est clairement un premier jet et il n'est pas impossible que des erreurs s'y soient glissées. Le fichier correspondant est dans tex/chords.tex pour ceux qui voudraient y jeter un oeil : vos suggestions sont les bienvenues !</li>
-<li>La <a href="http://www.patacrep.com/data/documents/doc_fr.pdf">doc</a> a été mise à jour par Matteo (et non, moi j'ai rien fait :p)</li>
+<li>La <a href="http://www.patacrep.com/../data/documents/doc_fr.pdf">doc</a> a été mise à jour par Matteo (et non, moi j'ai rien fait :p)</li>
 <li>Beaucoup de corrections et de nouvelles chansons ! Je crois qu'il s'agit d'un record sur une aussi courte période :)</li>
 </ul>
 

@@ -8,19 +8,19 @@
 
 <h3>Mélancolie</h3>
 <p><audio controls preload>
-  <source src="data/audio/melancolie.ogg">
+  <source src="../data/audio/melancolie.ogg">
   audio not supported
 </audio></p>
 
 <h3>Les ptits chemins</h3>
 <p><audio controls preload>
-  <source src="data/audio/les_ptits_chemins.ogg">
+  <source src="../data/audio/les_ptits_chemins.ogg">
   audio not supported
 </audio></p>
 
 <h3>Kartopo</h3>
 <p><audio controls preload>
-  <source src="data/audio/kartopo.ogg">
+  <source src="../data/audio/kartopo.ogg">
   audio not supported
 </audio></p>
 
@@ -33,9 +33,9 @@ Simplement épuisé ^^
 
 <p>Paroles et tablatures :</p>
 <ul>
-<li><a href="data/audio/melancolie.pdf">mélancolie</a></li>
-<li><a href="data/audio/les_ptits_chemins.pdf">les ptits chemins</a></li>
-<li><a href="data/audio/kartopo.pdf">kartopo</a></li>
+<li><a href="../data/audio/melancolie.pdf">mélancolie</a></li>
+<li><a href="../data/audio/les_ptits_chemins.pdf">les ptits chemins</a></li>
+<li><a href="../data/audio/kartopo.pdf">kartopo</a></li>
 </ul>
 
 <p>

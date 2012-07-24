@@ -9,26 +9,26 @@
 <h3>Songbook-client</h3>
 <p>Votre logiciel préféré pour l'édition de tablatures a évolué et est maintenant arrivé au level 0.2. Si vous trouviez la première version pratique, la seconde vous transcendera. Au rayon des nouveautés, on notera particulièrement la possibilité d'éditer les chansons depuis l'interface.</p>
 
-<a href="data/images/sbc-v0-2-01.png">
-<img src="data/images/sbc-v0-2-01.png.tb" alt="" />
+<a href="../data/images/sbc-v0-2-01.png">
+<img src="../data/images/sbc-v0-2-01.png.tb" alt="" />
 </a>
 
-<a href="data/images/sbc-v0-2-04.png">
-<img src="data/images/sbc-v0-2-04.png.tb" alt="" />
+<a href="../data/images/sbc-v0-2-04.png">
+<img src="../data/images/sbc-v0-2-04.png.tb" alt="" />
 </a>
 
 <p>On peut également noter le joli remaniement de <a href="http://git.lohrun.net/">Lohrun</a> pour optimiser l'agencement de l'interface (les possesseurs de netbooks apprécieront)</p>
 
 <p>Le menu préférences a été revu (d'autres changements internes majeurs sont à venir) comme précédemment évoqué.</p>
 
-<a href="data/images/sbc-v0-2-02.png">
-<img src="data/images/sbc-v0-2-02.png.tb" alt="" />
+<a href="../data/images/sbc-v0-2-02.png">
+<img src="../data/images/sbc-v0-2-02.png.tb" alt="" />
 </a>
 
 <p>Le troisième élément important concerne la possibilité de créer une nouvelle chanson directement depuis l'interface. Par le menu Fichier/Nouvelle chanson, vous obtiendrez une petite boîte de dialogue vous demandant quelques infos avant de générer le squelette de base de la chanson.</p>
 
-<a href="data/images/sbc-v0-2-03.png">
-<img src="data/images/sbc-v0-2-03.png.tb" alt="" />
+<a href="../data/images/sbc-v0-2-03.png">
+<img src="../data/images/sbc-v0-2-03.png.tb" alt="" />
 </a>
 
 <p>Les paquets <a href="http://www.debian.org">debian</a> sont dispos sur la page Downloads donc ruez-vous dessus, il n'y en aura pas pour tout le monde ! (ah, on me fait signe que si) </p>

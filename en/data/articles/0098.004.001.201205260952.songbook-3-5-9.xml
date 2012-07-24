@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Release 3.5.9 of the <a href="data/documents/songbook.pdf">songbook</a> is now available.</p>
+	<content><![CDATA[<p>Release 3.5.9 of the <a href="../data/documents/songbook.pdf">songbook</a> is now available.</p>
 <p>This release fixes a Windows bug: it is now possible to use "songs":"all" within .sb files.</p>
 <p>There is also the usual set of small corrections (note that the song <i>Poil aux yeux</i> has been ascribed to <i>Les Ogres</i>) and the following new songs:</p>
 

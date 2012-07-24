@@ -5,7 +5,7 @@
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
 	<content><![CDATA[<h3>Documentation</h3>
-<p>Tiens, ça faisait longtemps que je n'en avais pas parlé. La <a href="data/documents/doc.pdf">documentation</a> a été profondément remaniée. 
+<p>Tiens, ça faisait longtemps que je n'en avais pas parlé. La <a href="../data/documents/doc.pdf">documentation</a> a été profondément remaniée. 
   Il reste encore un peu de boulot par-ci par-là mais elle devrait être bien plus complète, à jour et agréable à lire ;)</p>
 
 <h3>Songbook-client 0.5</h3>
@@ -13,7 +13,7 @@
 
 <strong>Multiplateforme</strong>
 <ul>
-  <li> Windows: un des changements majeurs est qu'il est maintenant possible d'utiliser le songbook-client sous Windows. Attention cependant, il est nécessaire d'avoir installé une distribution LaTeX fonctionnelle et Python pour générer les pdf. Voir la <a href="data/documents/doc.pdf">doc</a> pour plus d'informations.</li>
+  <li> Windows: un des changements majeurs est qu'il est maintenant possible d'utiliser le songbook-client sous Windows. Attention cependant, il est nécessaire d'avoir installé une distribution LaTeX fonctionnelle et Python pour générer les pdf. Voir la <a href="../data/documents/doc.pdf">doc</a> pour plus d'informations.</li>
   <li>Mac: pas mal de petits couacs réglés mais la version 0.5 est encore en attente de packaging.</li>
   <li>Debian: suppression des dépendances relatives au songbook lui-même, elles sont maintenant "recommandées"</li>
   <li>Gentoo: mise à jour de l'ebuild</li>

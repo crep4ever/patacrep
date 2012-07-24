@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Hop, vlà quelques nouvelles chansons pour la version 3.4.4 du <a href="data/documents/songbook.pdf">songbook</a>.</p>
+	<content><![CDATA[<p>Hop, vlà quelques nouvelles chansons pour la version 3.4.4 du <a href="../data/documents/songbook.pdf">songbook</a>.</p>
 <p>À noter que je me suis fait détrôner sur le nombre de tabs ce coup-ci ^^</p>
 
 <h3>New songs</h3>

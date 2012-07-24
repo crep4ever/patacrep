@@ -7,15 +7,15 @@
 	<content><![CDATA[<p>Décidément en forme, voici une troisième petite chansonnette "engagée" (hum) ...</p>
 
 <audio controls preload>
-  <source src="data/audio/iscream.ogg">
-  <source src="data/audio/iscream.mp3">
+  <source src="../data/audio/iscream.ogg">
+  <source src="../data/audio/iscream.mp3">
   <script type="text/javascript">
-    AudioPlayer.embed("audioplayer_5600", {soundFile: "data/audio/iscream.ogg"});
+    AudioPlayer.embed("audioplayer_5600", {soundFile: "../data/audio/iscream.ogg"});
   </script>
 </audio>
 
 
-<p>Les paroles et la musique sont de moi et la tablature correspondante est <a href="data/audio/iscream.pdf">ici</a>.</p>
+<p>Les paroles et la musique sont de moi et la tablature correspondante est <a href="../data/audio/iscream.pdf">ici</a>.</p>
 
 <p>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">iScream</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/article57/iscream" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.

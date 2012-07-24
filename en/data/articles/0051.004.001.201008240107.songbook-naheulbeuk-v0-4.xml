@@ -4,13 +4,13 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Release aussi tardive que rapide pour annoncer la v0.4 de l'<a href="data/documents/naheulbeuk.pdf">édition Naheulbeuk</a>.
+	<content><![CDATA[<p>Release aussi tardive que rapide pour annoncer la v0.4 de l'<a href="../data/documents/naheulbeuk.pdf">édition Naheulbeuk</a>.
 Au menu:</p>
 
 <table>
 <tr>
 
-<td><img src="data/images/special.jpg" alt="" /></td>
+<td><img src="../data/images/special.jpg" alt="" /></td>
 
 <td><ul>
 <li> 2 nouvelles chansons pour un total de 22 dédiées à cette édition</li>
@@ -36,7 +36,7 @@ passer par le <a href="http://github.com/crep4ever/songbook-client">songbook cli
 
 <h3>Songbook</h3>
 
-<p>Quelques efforts de traduction pour la <a href="data/documents/english.pdf">version anglaise</a>, mise à jour des licences etc.</p>
+<p>Quelques efforts de traduction pour la <a href="../data/documents/english.pdf">version anglaise</a>, mise à jour des licences etc.</p>
 
 <p>Gros ménage à signaler au niveau des illustrations. J'ai supprimé tous les petits
 Tux ! Désolé pour ceux qui les aimaient bien :p mais :</p>

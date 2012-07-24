@@ -9,13 +9,13 @@ Désolé mais de temps en temps, c'est dur de tenir le coup sans s'évader un pe
 </p>
 
 <audio controls preload>
- <source src="data/audio/fichu_doctorat.ogg">
- <source src="data/audio/fichu_doctorat.mp3">
+ <source src="../data/audio/fichu_doctorat.ogg">
+ <source src="../data/audio/fichu_doctorat.mp3">
  audio not supported
 </audio>
 
 <p>
-EDIT: pour ceux que ça intéresse, la tablature et les paroles sont <a href="data/audio/fichu_doctorat.pdf">là</a>. Et juste pour préciser, les paroles sont de moi mais sont chantées sur l'air de <i>La jument de Michao</i> (air traditionnel surtout connu dans sa version chantée par <i>Tri Yann</i>).
+EDIT: pour ceux que ça intéresse, la tablature et les paroles sont <a href="../data/audio/fichu_doctorat.pdf">là</a>. Et juste pour préciser, les paroles sont de moi mais sont chantées sur l'air de <i>La jument de Michao</i> (air traditionnel surtout connu dans sa version chantée par <i>Tri Yann</i>).
 </p>
 
 <p>

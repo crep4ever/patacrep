@@ -6,7 +6,7 @@
 	<chapo><![CDATA[]]></chapo>
 	<content><![CDATA[<p>Bonsoir à tous,</p>
 
-<p>Nouvelle version du <a href="http://www.patacrep.com/data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.7 avec la 577ème tablature !</p>
+<p>Nouvelle version du <a href="http://www.patacrep.com/../data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.7 avec la 577ème tablature !</p>
 
 <p>Peu de nouvelles chansons depuis la dernière version mais pas mal de corrections. </p>
 <p>J'ai également pas mal bataillé avec les scripts utilitaires. Vous serez donc ravis d'apprendre que cette croisade contre le coquillage s'est soldée par une victoire triomphale du serpent... Bon en fait, ce sont les scripts shell <i>resize-covers.sh</i> et <i>typo.sh</i> qui ont été réécrits en python, et ça va juste 10x plus vite :) À noter que <i>typo.sh</i> a carrément été fusionné (sans boucles d'oreilles) avec <i>rules.py</i>. En bref, après avoir rédigé vos superbes nouvelles tablatures, n'oubliez pas la commande magique :

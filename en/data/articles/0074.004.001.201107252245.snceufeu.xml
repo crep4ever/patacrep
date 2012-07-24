@@ -7,8 +7,8 @@
 	<content><![CDATA[<p>Et c'est du vécu. J'uploaderai la tab plus tard et peut-être une version moins brouillon qui sait ^^</p>
 
 <audio controls>
-  <source src="data/audio/snceufeu.ogg">
-  <source src="data/audio/snceufeu.mp3">
+  <source src="../data/audio/snceufeu.ogg">
+  <source src="../data/audio/snceufeu.mp3">
   Audio not supported. Please use an HTML5 capable browser.
 </audio>
 

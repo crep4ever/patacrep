@@ -9,13 +9,13 @@ V'la le craquage du samedi avec la dénonciation d'un complot maléfique.
 </p>
 
 <audio controls preload>
-  <source src="data/audio/bioman.ogg">
-  <source src="data/audio/bioman.mp3">
+  <source src="../data/audio/bioman.ogg">
+  <source src="../data/audio/bioman.mp3">
   audio not supported
 </audio>
 
 <p>
-<a href="data/audio/bioman.pdf">paroles et tablature</a>.
+<a href="../data/audio/bioman.pdf">paroles et tablature</a>.
 </p>
 
 <p>

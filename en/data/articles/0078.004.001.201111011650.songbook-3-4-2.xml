@@ -4,14 +4,14 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Nouvelle version du <a href="data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.2.</p>
-<p>L'occasion de vous présenter en grande pompe les débuts du tout nouveau <a href="data/documents/volume-4.pdf">volume 4</a> qui pour l'instant contient les quelques nouvelles chansons suivantes :</p>
+	<content><![CDATA[<p>Nouvelle version du <a href="../data/documents/songbook.pdf">songbook</a> qui passe en version 3.4.2.</p>
+<p>L'occasion de vous présenter en grande pompe les débuts du tout nouveau <a href="../data/documents/volume-4.pdf">volume 4</a> qui pour l'instant contient les quelques nouvelles chansons suivantes :</p>
 
 <div class="left">
 <br />
-<a href="http://www.patacrep.com/data/images/music_by_lauratheartist.jpg" class="highslide"
+<a href="http://www.patacrep.com/../data/images/music_by_lauratheartist.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/data/images/music_by_lauratheartist.tb.jpg" alt="Highslide JS"
+    <img src="http://www.patacrep.com/../data/images/music_by_lauratheartist.tb.jpg" alt="Highslide JS"
         title="Music by LauraTheArtist @ deviantart.com" />
 </a>
 </div>

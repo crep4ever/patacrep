@@ -13,8 +13,8 @@
 <p>No doubt, this is the biggest change and you can't possibly miss it! The metadata of songs are seamlessly handled by the editor ie title, artist name, album, cover, diagrams etc.
 Here is a screenshot:</p>
 
-<a href="../data/images/sbc07-new-song.png"><img src="../data/images/sbc07-new-song.png" height="300" alt="new-song" /></a>
-<a href="../data/images/sbc07-song-editor.png"><img src="../data/images/sbc07-song-editor.png" height="300" alt="song-editor" /></a>
+<a href="../../data/images/sbc07-new-song.png"><img src="../../data/images/sbc07-new-song.png" height="300" alt="new-song" /></a>
+<a href="../../data/images/sbc07-song-editor.png"><img src="../../data/images/sbc07-song-editor.png" height="300" alt="song-editor" /></a>
 
 <ul>
 <li>the cover can be dropped from an external image file</li>
@@ -32,7 +32,7 @@ appropriate dictionary is loaded based on the language of the
 song. Unfortunately, inline chords tend to produce a lot of false
 positives.</p>
 
-<a href="../data/images/sbc07-spellchecker.png"><img src="../data/images/sbc07-spellchecker.png" height="200" alt="spellchecker" /></a>
+<a href="../../data/images/sbc07-spellchecker.png"><img src="../../data/images/sbc07-spellchecker.png" height="200" alt="spellchecker" /></a>
 
 
 <h3>Query replace</h3>
@@ -41,7 +41,7 @@ positives.</p>
 dialog ui is functional but will be improved following gedit's for the
 next version.</p>
 
-<a href="../data/images/sbc07-find-replace.png"><img src="../data/images/sbc07-find-replace.png" height="200" alt="find-replace" /></a>
+<a href="../../data/images/sbc07-find-replace.png"><img src="../../data/images/sbc07-find-replace.png" height="200" alt="find-replace" /></a>
 
 
 <h3>Completion menu for macros</h3>
@@ -53,14 +53,14 @@ next version.</p>
 
 <p>Diagrams can be edited via a dedicated dialog. Here is a screenshot:</p>
 
-<a href="../data/images/sbc07-diagram-editor.png"><img src="../data/images/sbc07-diagram-editor.png" height="200" alt="diagram-editor" /></a>
+<a href="../../data/images/sbc07-diagram-editor.png"><img src="../../data/images/sbc07-diagram-editor.png" height="200" alt="diagram-editor" /></a>
 
 
 <h3>Cancel progress bars</h3>
 
 <p>A new button has been added to progress bars to cancel the current process:</p>
 
-<a href="../data/images/sbc07-progress-bar.png"><img src="../data/images/sbc07-progress-bar.png" height="30" alt="progress-bar" /></a>
+<a href="../../data/images/sbc07-progress-bar.png"><img src="../../data/images/sbc07-progress-bar.png" height="30" alt="progress-bar" /></a>
 
 
 <h3>Library download</h3>
@@ -68,9 +68,9 @@ next version.</p>
 <p>A few tweaks for this dialog displaying download speed and received
 bytes. Note that a mirror url allows one to download the library from
 patacrep's archive
-(<a href="../data/documents/songbook.tar.gz">songbook.tar.gz</a>) (the git snapshot is still available)</p>
+(<a href="../../data/documents/songbook.tar.gz">songbook.tar.gz</a>) (the git snapshot is still available)</p>
 
-<a href="../data/images/sbc07-download-bar.png"><img src="../data/images/sbc07-download-bar.png" width="80%"  alt="download-bar" /></a>
+<a href="../../data/images/sbc07-download-bar.png"><img src="../../data/images/sbc07-download-bar.png" width="80%"  alt="download-bar" /></a>
 
 
 <p>And of course, there is a lot of smaller changes and bug fixes.

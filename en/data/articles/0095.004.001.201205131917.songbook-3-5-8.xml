@@ -7,7 +7,7 @@
 	<content><![CDATA[<p>Hello hello</p>
 
 
-<p>Une petite mise à jour du <a href="data/documents/songbook.pdf">songbook</a> qui passe en version 3.5.8.</p>
+<p>Une petite mise à jour du <a href="../data/documents/songbook.pdf">songbook</a> qui passe en version 3.5.8.</p>
 <p>Quelques petites choses à noter:</p>
 <ul>
 <li>Finalement, après discussion, je suis revenu à la notation "y'a" pour la contraction de "il y a".</li>
@@ -24,7 +24,7 @@ pdf.</li>
 <p>Les choses peuvent paraître calmes en ce moment mais il n'en est
 rien ;) La version 0.7 du <a href="http://github.com/crep4ever/songbook-client">songbook-client</a> est imminente (il reste
 juste à générer les paquets et autres exécutables mac/windows), il y a quelques efforts de faits sur
-la <a href="data/documents/doc_fr.pdf">documentation</a>, le <a href="http://github.com/crep4ever/songbook-emacs-mode">mode emacs</a> a été réécrit ... Bref, que de bonnes
+la <a href="../data/documents/doc_fr.pdf">documentation</a>, le <a href="http://github.com/crep4ever/songbook-emacs-mode">mode emacs</a> a été réécrit ... Bref, que de bonnes
 choses sur lesquelles je reviendrai un peu plus tard.</p>
 
 <h3>New songs</h3>

@@ -18,13 +18,13 @@
 <table>
 <tr>
 <td>
-<a href="data/images/mode-gedit-01.png">
-<img src="data/images/mode-gedit-01.png.tb" alt="" />
+<a href="../data/images/mode-gedit-01.png">
+<img src="../data/images/mode-gedit-01.png.tb" alt="" />
 </a>
 </td>
 <td>
-<a href="data/images/mode-gedit-02.png">
-<img src="data/images/mode-gedit-02.png.tb" alt="" />
+<a href="../data/images/mode-gedit-02.png">
+<img src="../data/images/mode-gedit-02.png.tb" alt="" />
 </a>
 </td>
 </tr>
@@ -36,8 +36,8 @@
 
 <p>Deux petits fichiers à télécharger et à mettre dans le bon dossier:</p>
 <ul>
-    <li> <a href="data/documents/songbook.lang">songbook.lang</a> à mettre dans ~/.local/share/gtksourceview-2.0/language-specs </li>
-    <li> <a href="data/documents/songbook.xml">songbook.xml</a> à mettre dans ~/.local/share/mime/packages </li>
+    <li> <a href="../data/documents/songbook.lang">songbook.lang</a> à mettre dans ~/.local/share/gtksourceview-2.0/language-specs </li>
+    <li> <a href="../data/documents/songbook.xml">songbook.xml</a> à mettre dans ~/.local/share/mime/packages </li>
 </ul>
 
 <p>Pensez à créer les dossiers s'ils n'existent pas déjà ;) </p>
