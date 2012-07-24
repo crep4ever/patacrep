@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document>
 	<parametre name="title"><![CDATA[Patacrep!]]></parametre>
-	<parametre name="description"><![CDATA[LaTeX Songbook for Guitar tabs]]></parametre>
+	<parametre name="description"><![CDATA[Recueils de chansons pour guitare]]></parametre>
 	<parametre name="racine"><![CDATA[http://www.patacrep.com/fr/]]></parametre>
 	<parametre name="allow_com">1</parametre>
 	<parametre name="mod_com">0</parametre>
@@ -37,7 +37,7 @@
 	<parametre name="bypage_archives">5</parametre>
 	<parametre name="userfolders">0</parametre>
 	<parametre name="plugins"><![CDATA[data/configuration/plugins.xml]]></parametre>
-	<parametre name="meta_description"><![CDATA[LaTeX Songbook for Guitar Tabs]]></parametre>
+	<parametre name="meta_description"><![CDATA[Recueils de chansons pour guitare]]></parametre>
 	<parametre name="meta_keywords"><![CDATA[patacrep, songbook, latex, guitar, tabs, recueil, chanson, partition, lilypond, pdf, crep, jamendo, music, free, open source, guitare, tab,  tablature, sheets, lilypond]]></parametre>
 	<parametre name="default_lang"><![CDATA[fr]]></parametre>
 	<parametre name="content"><![CDATA[]]></parametre>
