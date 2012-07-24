@@ -2,7 +2,7 @@
 <a name="Songbook"></a>
 <a href="#Songbook"><h3>Songbook PDF</h3></a>
 
-<p><b>version 3.6.2 -- 07/08/2012</b></p>
+<p><b>version 3.6.2 - 2012/07/08</b></p>
 
 <div class="left">
 <div class="left">
@@ -88,7 +88,7 @@
 <a name="Songbook-Client"></a>
 <a href="#Songbook-Client"><h3>Songbook Client</h3></a>
 
-<p><b>version 0.7.7 -- 07/08/2012</b></p>
+<p><b>version 0.7.7 - 2012/07/08</b></p>
 
 <div class="left">
   <br /><br />
