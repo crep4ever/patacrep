@@ -6,19 +6,17 @@
 	<chapo><![CDATA[]]></chapo>
 	<content><![CDATA[<p>Hello</p>
 
-<p>Voici la version 0.7.4 du Songbook-Client avec encore et toujours plus de bugs en moins qu'en plus.</p>
-<p>Normalement, sont corrigés :</p>
+<p>The <a href="static1/downloads#Songbook-Client">songbook-client</a> hits version 0.7.4. This is the forth bugfix release.</p>
+<p>Should be corrected:</p>
 <ul>
-<li>le problème avec le dernier diagramme gtab/utab qui n'était pas pris en compte lors de la création d'une nouvelle chanson</li>
-<li>un crash lorsqu'on essayait d'activer la correction orthographique  sans en avoir le dictionnaire</li>
-<li>un crash lors de l'interruption du téléchargement d'une nouvelle bibliothèque</li>
-<li>l'apparition de nouveaux fichiers pour les pochettes alors qu'on avait rien demandé</li>
-<li>certains caractères spéciaux LaTeX qui disparaissaient lors de la sauvegarde</li>
+<li>fix last diagram that was not taken into account for new songs</li>
+<li>fix crash when trying to enable spellchecking without a valid hunspell dictionary</li>
+<li>fix crash when aborting the download of a new library</li>
+<li>fix new duplicated cover files</li>
+<li>fix some LaTeX characters disappearing when saving a song</li>
 </ul>
 
-<p>Maintenant, à vous de tester :)</p>
-
-<p>La mise à jour vers la 0.7.4 est disponible pour Ubuntu et Windows. Les paquets Debian (thx Lohrun) et MacOS (thx Olivier) sont maintenant disponibles pour la version 0.7.3 (et bientôt pour la 0.7.4)</p>]]></content>
+<p><a href="static1/downloads#Songbook-Client">Songbook-Client</a> 0.7.4 is available for Ubuntu and Windows. Debian packages (thx Lohrun) and MacOS dmg (thx Olivier) have been updated to 0.7.3 (0.7.4 coming soon)</p>]]></content>
 	<tags><![CDATA[songbook-client]]></tags>
 	<meta_description><![CDATA[]]></meta_description>
 	<meta_keywords><![CDATA[]]></meta_keywords>

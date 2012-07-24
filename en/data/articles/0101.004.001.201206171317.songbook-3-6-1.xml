@@ -6,34 +6,24 @@
 	<chapo><![CDATA[]]></chapo>
 	<content><![CDATA[<p>Hi there</p>
 
-<p>V'la la petite 3.6.1 de
-  votre <a href="data/documents/songbook.pdf">songbook</a> préféré qui
-  apporte pas mal de changements visuels, une fois n'est pas coutume.
+<p>A new <a href="data/documents/songbook.pdf">songbook</a> release is now available. This version 3.6.1 brings a lot of visual tweaks.
 </p>
 
 <ul>
-  <li>Interligne réduit : et hop, 100 pages de moins. Les castors seront
-    contents. De mon point de vue, ça améliore la lisibilité en mettant
-    mieux en avant les blocs des différents couplets. En plus de ça, il y
-    a plus de chansons qui tiennent sur une seule page donc bien plus
-    pratique :)</li>
-  <li>Affichage du nom des albums : le nom de l'album apparaît en toutes
-    lettres sous le nom de l'artiste</li>
-  <li>Nouveaux champs 'original' et 'url' qui permettent d'indiquer la
-    chanson originale dans le cas des reprises ainsi qu'un lien vers le
-    site de l'artiste. Voir par exemple les chansons de <i>JCFrog</i></li>
-  <li>Nouvel apparence pour l'environnement 'bridge' : les ponts sont
-    plus facilement identifiables avec une petite barre verticale en
-    pointillés sur leurs côtés.</li>
-  <li>Nouvelle macro \Adlib</li>
-  <li>Nouvelle macro \transposition{n} indiquant un décalage ou
-    effectuant la transposition des accords en mode accords répétés (voir
-    par exemple <i>Barbara - L'aigle noir</i>)</li>
-  <li>Suppression du titre 'Liste des chansons' qui avait peu d'intérêt
-    en soi.</li>
-  <li>Réécriture de la liste des accords de guitare/ukulélé en début de
-    recueil. C'est un peu mieux aligné et plus joliment présenté. Merci à
-    Kaosun pour la liste des accords de ukulélé !</li>
+  <li>Reduced line spacing: cool, 100 pages saved! In my opinion, it
+  improves readability by emphasizing blocks for verses. Besides, more
+  songs fit in a single page so they are easier to read :)</li>
+  <li>Display album titles under artist name</li>
+  <li>New options 'original' and 'url' to indicate the original song
+  and a link to the artist website. For instance, see <i>JCFrog</i></li> songs.
+  <li>Revamped bridge environment with a dotted vertical bar.</li>
+  <li>New macro \Adlib</li>
+  <li>New macro \transposition{n} that indicates a shift or apply a
+  chord transposition if mode repeatedchords is on (for instance, see
+     <i>Barbara - L'aigle noir</i>)</li>
+  <li>Remove the section title 'List of songs' that was quite useless.</li>
+  <li>Rewrite the list of guitar/ukulele diagrams at the beginning of
+    the document with better aligned boxes and improved layout. Thanks to Kaosun for his list of ukulele chords!</li>
 </ul>
 
 <h3>New songs</h3>

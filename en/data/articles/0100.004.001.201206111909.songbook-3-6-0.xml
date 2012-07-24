@@ -4,9 +4,9 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>La version 3.6.0 du <a href="data/documents/songbook.pdf">songbook</a> est dispo. À noter qu'une grosse passe de relecture/corrections corrige un paquet de coquilles sur plus de 150 chansons (notamment des histoires de diagrammes d'accords et de fautes d'orthographe).</p>
+	<content><![CDATA[<p>A new release of the <a href="data/documents/songbook.pdf">songbook</a> is available. 3.60 features a heavy set of small corrections for more than 150 songs (mainly typos and diagrams).</p>
 
-<p>Les paquets Debian du <a href="static1/downloads#Songbook-Client">Songbook-Client</a> ont également été mis à jour vers la version 0.7.4 (thx Lohrun).</p>
+<p>Debian packages for the <a href="static1/downloads#Songbook-Client">Songbook-Client</a> have been updated to version 0.7.4 (thx Lohrun).</p>
 
 <h3>New songs</h3>
 
