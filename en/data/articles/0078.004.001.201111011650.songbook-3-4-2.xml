@@ -9,9 +9,9 @@
 
 <div class="left">
 <br />
-<a href="http://www.patacrep.com/../data/images/music_by_lauratheartist.jpg" class="highslide"
+<a href="../data/images/music_by_lauratheartist.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/music_by_lauratheartist.tb.jpg" alt="Highslide JS"
+    <img src="../data/images/music_by_lauratheartist.tb.jpg" alt="Highslide JS"
         title="Music by LauraTheArtist @ deviantart.com" />
 </a>
 </div>

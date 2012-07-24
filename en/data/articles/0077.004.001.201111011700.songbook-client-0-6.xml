@@ -22,17 +22,17 @@ Merci à Lohrun et Carreau pour leur participation plus que conséquente !
 <table>
 <tr>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.5-main.png" class="highslide"
+<a href="../data/images/sbc-0.5-main.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.5-main.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.5-main.tb.png" alt="Highslide JS"
         title="Interface songbook-client 0.5" />
 
 </a>
 </td>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-main.png" class="highslide"
+<a href="../data/images/sbc-0.6-main.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-main.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-main.tb.png" alt="Highslide JS"
         title="Interface songbook-client 0.6" />
 
 </a>
@@ -62,25 +62,25 @@ Tout le mécanisme a été revu et devrait être beaucoup plus intuitif et prati
 <table>
 <tr>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-preferences-01.png" class="highslide"
+<a href="../data/images/sbc-0.6-preferences-01.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-preferences-01.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-preferences-01.tb.png" alt="Highslide JS"
         title="songbook-client preferences 01" />
 
 </a>
 </td>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-preferences-02.png" class="highslide"
+<a href="../data/images/sbc-0.6-preferences-02.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-preferences-02.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-preferences-02.tb.png" alt="Highslide JS"
         title="songbook-client preferences 02" />
 
 </a>
 </td>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-preferences-03.png" class="highslide"
+<a href="../data/images/sbc-0.6-preferences-03.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-preferences-03.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-preferences-03.tb.png" alt="Highslide JS"
         title="songbook-client preferences 03" />
 
 </a>
@@ -110,17 +110,17 @@ Tout le mécanisme a été revu et devrait être beaucoup plus intuitif et prati
 <table>
 <tr>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-code-editor.png" class="highslide"
+<a href="../data/images/sbc-0.6-code-editor.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-code-editor.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-code-editor.tb.png" alt="Highslide JS"
         title="songbook-client song editor" />
 
 </a>
 </td>
 <td>
-<a href="http://www.patacrep.com/../data/images/sbc-0.6-clean-dialog.png" class="highslide"
+<a href="../data/images/sbc-0.6-clean-dialog.png" class="highslide"
         onclick="return hs.expand(this)">
-    <img src="http://www.patacrep.com/../data/images/sbc-0.6-clean-dialog.tb.png" alt="Highslide JS"
+    <img src="../data/images/sbc-0.6-clean-dialog.tb.png" alt="Highslide JS"
         title="songbook-client clean dialog" />
 
 </a>
@@ -132,7 +132,7 @@ Tout le mécanisme a été revu et devrait être beaucoup plus intuitif et prati
 La version 0.6 est disponible au <a href="http://www.patacrep.com/static1/">téléchargement</a> pour Windows/Linux. Malheureusement, Carreau ayant été victime d'un cambriolage, cette nouvelle version n'est pas (encore) disponible pour MacOS.
 </p>
 
-<p>Dernière chose, n'oubliez pas que le songbook-client est une interface au songbook ! Cela signifie que vous ne pourrez pas générer un pdf sans avoir installé une distribution LaTeX ainsi que Python au préalable. Je vous renvoie à la <a href="http://www.patacrep.com/../data/documents/doc_fr.pdf">documentation</a> pour plus d'explications à ce sujet ;)
+<p>Dernière chose, n'oubliez pas que le songbook-client est une interface au songbook ! Cela signifie que vous ne pourrez pas générer un pdf sans avoir installé une distribution LaTeX ainsi que Python au préalable. Je vous renvoie à la <a href="../data/documents/doc_fr.pdf">documentation</a> pour plus d'explications à ce sujet ;)
 </p>]]></content>
 	<tags><![CDATA[songbook-client]]></tags>
 	<meta_description><![CDATA[]]></meta_description>
