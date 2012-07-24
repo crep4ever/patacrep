@@ -32,22 +32,27 @@
 			<p><?php $plxShow->subTitle(); ?></p>
                 </div>
 
-	<?php
-	/*Fonction pour naviguer entre les langues*/
-	function getPageFolder($newLang) {
-                /*récupérer le nom de base de pluxml (avant le '?') */
-		$debURL = substr($_SERVER["REQUEST_URI"],0,strrpos($_SERVER["REQUEST_URI"],'?')-3);
-		/*récupérer la page appelée*/
-                $finURL = substr($_SERVER["REQUEST_URI"],strrpos($_SERVER["REQUEST_URI"],'?')-1);
-		return $debURL . $newLang . $finURL;
-	}
-	?>
-	<div id="language">
-		<ul>
-			<li><a href="<?php echo getPageFolder('en') ?>"><img src="../data/images/flag-en.png" alt="English" title="English"></img></a></li>
-			<li><a href="<?php echo getPageFolder('fr') ?>"><img src="../data/images/flag-fr.png" alt="Français" title="Français"></img></a></li>
-		</ul>
-	</div>
+  <?php function getPageFolder($lang)
+  {
+    $url = $_SERVER['REQUEST_URI'];
+    if ($lang == 'fr')
+      {
+        $url = str_replace("/en/", "/fr/", $url);
+      }
+    elseif ($lang == 'en')
+      {
+        $url = str_replace("/fr/", "/en/", $url);
+      }
+    return $url;
+  }
+  ?>
+  
+  <div id="language">
+     <ul>
+     <li><a href="<?php echo getPageFolder('en') ?>"><img src="../data/images/flag-en.png" alt="English" title="English" /></a></li>
+     <li><a href="<?php echo getPageFolder('fr') ?>"><img src="../data/images/flag-fr.png" alt="Français" title="Français" /></a></li>
+     </ul>
+  </div>
 
 		<ul id="nav">
 			<?php $plxShow->staticList($plxShow->getLang('HOME'),'<li id="#static_id"><a href="#static_url" class="#static_status" title="#static_name">#static_name</a></li>'); ?>
