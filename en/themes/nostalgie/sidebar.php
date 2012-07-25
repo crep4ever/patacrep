@@ -9,21 +9,21 @@
       <?php $plxShow->lastArtList('<li class="#art_status"><a href="#art_url" title="#art_title">#art_title</a></li>'); ?>
     </ul>
   </div>
-  
-  <div id="side-tags" class="side-2">
-    <h3><?php $plxShow->lang('TAGS') ?></h3>
-    <ul>
-      <?php $plxShow->tagList('<li class="#tag_status"><a href="#tag_url" title="#tag_name">#tag_name</a></li>', 20); ?>
-    </ul>
-  </div>
-  
+
   <div id="side-comments" class="side-5">
     <h3><?php $plxShow->lang('LAST_COMMENTS') ?></h3>
     <ul>
       <?php $plxShow->lastComList('<li><a href="#com_url">#com_author '.$plxShow->getLang('SAID').' : #com_content(34)</a></li>'); ?>
     </ul>
   </div>
-  
+
+  <div id="side-tags" class="side-2">
+    <h3><?php $plxShow->lang('TAGS') ?></h3>
+    <ul>
+      <?php $plxShow->tagList('<li class="#tag_status"><a href="#tag_url" title="#tag_name">#tag_name</a></li>', 20); ?>
+    </ul>
+  </div>
+
   <div id="side-categories" class="side-3">
     <h3><?php $plxShow->lang('LINKS') ?></h3>
     <ul>
