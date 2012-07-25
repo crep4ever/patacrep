@@ -16,6 +16,7 @@ $LANG = array(
 'LAST_ARTICLES'			=> 'Last articles',
 'LAST_COMMENTS'			=> 'Last comments',
 'ARCHIVES'				=> 'Archives',
+'LINKS'				=> 'A few links',
 
 # footer.php
 'POWERED_BY'			=> 'Powered by',

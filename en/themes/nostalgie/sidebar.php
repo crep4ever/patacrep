@@ -25,7 +25,7 @@
   </div>
   
   <div id="side-categories" class="side-3">
-    <h3>A few links</h3>
+    <h3><?php $plxShow->lang('LINKS') ?></h3>
     <ul>
       <li>   <a href="http://songs.sourceforge.net/">Songs LaTeX Package</a>  </li>
       <li>   <a href="http://git.lohrun.net/?p=songbook.git;a=summary">Lohrun's</a></li>
