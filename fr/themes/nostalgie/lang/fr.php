@@ -25,6 +25,7 @@ $LANG = array(
 'ADMINISTRATION'		=> 'Administration',
 'GOTO_TOP'				=> 'Remonter en haut de page',
 'TOP'					=> 'Haut de page',
+'FOOTER'		=> 'Ce recueil de chansons n&apos;a absolument aucune vocation commerciale et joue sur l&apos;autorisation tacite des auteurs et des ayants droits, pensant que la publication de ces tablatures repr&eacute;sente plut&ocirc;t une publicit&eacute; positive &agrave; leur &eacute;gard. Cependant, si un auteur ou une soci&eacute;t&eacute; accr&eacute;dit&eacute;e d&eacute;sire s&apos;opposer &agrave; la publication de ses tablatures, merci de nous contacter et celles-ci seront imm&eacute;diatement retir&eacute;es du site. Ces recueils de chansons sont &eacute;crits d&apos;apr&egrave;s le style du projet <a href="http://songs.sourceforge.net" style="color:#204a87;">Songs LaTeX Package</a>.',
 
 # erreur.php
 'ERROR'					=> 'Une erreur a &eacute;t&eacute; d&eacute;tect&eacute;e',

@@ -12,9 +12,7 @@
     <a id="foot-top" href="<?php echo $plxShow->urlRewrite('#top') ?>" title="<?php $plxShow->lang('GOTO_TOP') ?>"><?php $plxShow->lang('TOP') ?></a></div>
   
   <footer style="color:#2e3436;">
-    <p>
-      These songbooks are by no means a commercial product. The authors think that they benefit copyright holders as free advertisement. Anyway, if an author or an accredited company does not wish the distribution of his tabs, please contact us and they will be withdrawn. These songbooks are based on the <a href="http://songs.sourceforge.net" style="color:#204a87;">Songs LaTeX Package</a> project.
-    </p>
+    <p><?php $plxShow->lang('FOOTER') ?></p>
   </footer>
   
 </div>

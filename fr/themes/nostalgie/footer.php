@@ -12,10 +12,7 @@
     <a id="foot-top" href="<?php echo $plxShow->urlRewrite('#top') ?>" title="<?php $plxShow->lang('GOTO_TOP') ?>"><?php $plxShow->lang('TOP') ?></a></div>
   
   <footer style="color:#2e3436;">
-    <p>
-      Ce recueil de chansons n'a absolument aucune vocation commerciale et joue sur l'autorisation tacite des auteurs et des ayants droits, pensant que la publication de ces tablatures représente plutôt une publicité positive à leur égard.
-      Cependant, si un auteur ou une société accréditée désire s'opposer à la publication de ses tablatures, merci de nous contacter et celles-ci seront immédiatement retirées du site. Ces recueils de chansons sont écrits d'après le style du projet <a href="http://songs.sourceforge.net" style="color:#204a87;">Songs LaTeX Package</a>.
-    </p>
+    <p><?php $plxShow->lang('FOOTER') ?></p>
   </footer>
   
 </div>
