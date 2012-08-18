@@ -2,7 +2,7 @@
 <a name="Songbook"></a>
 <a href="#Songbook"><h3>Songbook PDF</h3></a>
 
-<p><b>version 3.6.2 du 08/07/2012</b></p>
+<p><b>version 3.6.3 du 17/08/2012</b></p>
 
 <div class="left">
 <div class="left">
@@ -11,8 +11,8 @@
 <div class="left">
   <p class="note">Éditions complètes</p>
   <ul>
-    <li><a href="../data/documents/songbook.pdf">songbook.pdf</a></li>
-    <li><a href="../data/documents/lyricbook.pdf">lyricbook.pdf</a></li>
+    <li><a href="../data/documents/songbook_fr.pdf">songbook.pdf</a></li>
+    <li><a href="../data/documents/lyricbook_fr.pdf">lyricbook.pdf</a></li>
   </ul>
 </div>
 </div>
