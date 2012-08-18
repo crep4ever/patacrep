@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Et hop, la version 3.5.4 du <a href="../data/documents/songbook.pdf">songbook</a> is out.</p>
+	<content><![CDATA[<p>Et hop, la version 3.5.4 du <a href="../data/documents/songbook_en.pdf">songbook</a> is out.</p>
 
 <p>Quelques trucs funs à signaler :</p>
 <ul>

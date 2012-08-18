@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Voici également la version 3.5.9 du <a href="../data/documents/songbook.pdf">songbook</a>.</p>
+	<content><![CDATA[<p>Voici également la version 3.5.9 du <a href="../data/documents/songbook_fr.pdf">songbook</a>.</p>
 <p>Cette version corrige un petit bug sous Windows qui permet maintenant d'utiliser l'option "songs":"all" dans les fichiers .sb.</p>
 <p>On y trouve le lot habituel de petites corrections à droite à gauche (à noter que la chanson <i>Poil aux yeux</i> a bien été réattribuée aux Ogres</i>) ainsi que les nouvelles chansons suivantes :</p>
 <p>Oh, j'allais oublier mais cette release est particulièrement démoniaque ... 666 pages pour le songbook ^^</p>

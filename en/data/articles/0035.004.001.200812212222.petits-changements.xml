@@ -13,7 +13,7 @@ Donc, au menu, que trouve-t-on ?
 
 <ul>
 <li>la section installation a été revue et corrigée en étant normalement plus claire et plus précise pour les windowsiens.</li>
-<li>une section index fait également son apparition qui liste toutes les chansons du <a href="../data/documents/songbook.pdf">songbook</a> (d'ailleurs, c'est pratique si on utilise la fonction rechercher du site car on peut voir immédiatement si une chanson est référencée)</li>
+<li>une section index fait également son apparition qui liste toutes les chansons du <a href="../data/documents/songbook_en.pdf">songbook</a> (d'ailleurs, c'est pratique si on utilise la fonction rechercher du site car on peut voir immédiatement si une chanson est référencée)</li>
 <li>suppression du wiki. Définitivement, les iframes, c'est pas terrible. Ce n'est pas forcément une suppression définitive. Si des gens le demandent, on peut toujours le remettre. En attendant, les contributeurs les plus motivés préféreront sans aucun doute le dépôt git de Lohrun.</li>
 </ul>
 

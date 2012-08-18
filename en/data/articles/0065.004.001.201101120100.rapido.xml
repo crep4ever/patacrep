@@ -4,7 +4,7 @@
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[<p>Hello web. Le <a href="../data/documents/songbook.pdf">songbook</a> passe en version 3.2.7. Release difficile s'il en est. Beaucoup de bugs de dernière minutes, de correctifs de correctifs et de prises de tête avec les branches de git. Bref. Au menu : 
+	<content><![CDATA[<p>Hello web. Le <a href="../data/documents/songbook_en.pdf">songbook</a> passe en version 3.2.7. Release difficile s'il en est. Beaucoup de bugs de dernière minutes, de correctifs de correctifs et de prises de tête avec les branches de git. Bref. Au menu : 
 </p>
 
 <ul>
