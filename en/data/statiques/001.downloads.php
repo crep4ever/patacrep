@@ -40,8 +40,8 @@
 <div class="left">
   <p class="note">Volumes by language</p>
   <ul>
-    <li><a href="data/documents/english.pdf">english.pdf</a></li>
-    <li><a href="data/documents/french.pdf">french.pdf</a></li>    
+    <li><a href="../data/documents/english.pdf">english.pdf</a></li>
+    <li><a href="../data/documents/french.pdf">french.pdf</a></li>
   </ul>
 </div>
 </div>
@@ -52,7 +52,7 @@
 <div class="left">
   <p class="note">Special editions</p>
   <ul>
-    <li><a href="data/documents/naheulbeuk.pdf">naheulbeuk.pdf</a></li>
+    <li><a href="../data/documents/naheulbeuk.pdf">naheulbeuk.pdf</a></li>
   </ul>
 
 </div>
