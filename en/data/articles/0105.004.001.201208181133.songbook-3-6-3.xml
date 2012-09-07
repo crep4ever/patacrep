@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.3]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>For those that survive the blazing sun playing the guitar in shady parks, enjoy the release
+3.6.3 of the <a href="../data/documents/songbook_en.pdf">songbook</a> :)</p>
+
+<h3>New songs</h3>
+
+<strong>broph</strong>
+<ul>
+  <li>Parabellum - Le dernier trocson</li>
+  <li>Noir Désir - Lola</li>
+  <li>Noir Désir - The holy economic war</li>
+  <li>Pink Floyd - Mother</li>
+  <li>REM - Losing my religion</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Karpatt - La chose qui dort dans mon lit</li>
+  <li>Bob Dylan - I want you</li>
+  <li>Pink Floyd - Another brick in the wall</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.4]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hi there!</p>
+<p>A new release 3.6.4 of the <a href="../data/documents/songbook_en.pdf">songbook</a> is now available :)</p>
+
+<h3>New songs</h3>
+
+<strong>broph</strong>
+<ul>
+  <li>The Rolling Stones - Gimme shelter</li>
+  <li>Parabellum - La belle</li>
+  <li>Parabellum - Osmose 99</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Green Day - Misery</li>
+  <li>Jacques Brel - Au suivant</li>
+  <li>Debout sur le zinc - Se dire adieu</li>
+  <li>Graeme Allwright - La ligne Holworth</li>
+  <li>La maison Tellier - Babouin</li>
+  <li>Antoine - Les élucubrations</li>
+  <li>Iggy Pop - In the death car</li>
+  <li>Vincent Malone - Bad Bili</li>
+  <li>Soul Asylum - Runaway train</li>
+  <li>Traditionnel - Greensleeves</li>
+  <li>Billy Ray Cyrus - Achy breaky heart</li>
+  <li>Bob Seger - Against the wind</li>
+  <li>Johnny Hallyday - Gabrielle</li>
+  <li>Yves Simon - Diabolo menthe</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>
