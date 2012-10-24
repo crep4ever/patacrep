@@ -2,7 +2,7 @@
 <a name="Songbook"></a>
 <a href="#Songbook"><h3>Songbook PDF</h3></a>
 
-<p><b>version 3.6.4 - 2012/09/06</b></p>
+<p><b>version 3.6.6 - 2012/10/13</b></p>
 
 <div class="left">
 <div class="left">
@@ -88,11 +88,11 @@
 <a name="Songbook-Client"></a>
 <a href="#Songbook-Client"><h3>Songbook Client</h3></a>
 
-<p><b>version 0.7.7 - 2012/07/08</b></p>
+<p><b>version 0.7.8 - 2012/24/10</b></p>
 
 <div class="left">
   <br /><br />
-  <img src="../data/images/songbook-client.png.tb" alt="" />
+  <img src="../data/images/songbook-client.png.tb" alt="Songbook-Client Logo" />
 </div>
 
 
@@ -104,15 +104,11 @@
 	  <a href="../data/songbook-client/debian/squeeze/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
 	  <a href="../data/songbook-client/debian/squeeze/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
         </li>
-        <li>Wheezy :
-	  <a href="../data/songbook-client/debian/wheezy/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
-	  <a href="../data/songbook-client/debian/wheezy/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
+        <li>Wheezy/Sid :
+	  <a href="../data/songbook-client/debian/songbook-client_0.7.8-1_amd64.deb">songbook-client_0.7.8-1_amd64.deb (64bits)</a>, 
+	  <a href="../data/songbook-client/debian/songbook-client_0.7.8-1_i386.deb">songbook-client_0.7.8-1_i386.deb (32bits)</a></li>
         </li>
-        <li>Sid :
-	  <a href="../data/songbook-client/debian/sid/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
-	  <a href="../data/songbook-client/debian/sid/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
-        </li>
-       </ul>
+      </ul>
 <!--    <li><img src="../data/images/gentoo.png" alt="" /> Gentoo : 
 	  <a href="../data/documents/songbook-client-9999.ebuild">ebuild</a></li> -->
 

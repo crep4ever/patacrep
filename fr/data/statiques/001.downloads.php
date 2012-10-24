@@ -2,7 +2,7 @@
 <a name="Songbook"></a>
 <a href="#Songbook"><h3>Songbook PDF</h3></a>
 
-<p><b>version 3.6.4 du 06/09/2012</b></p>
+<p><b>version 3.6.6 du 13/10/2012</b></p>
 
 <div class="left">
 <div class="left">
@@ -89,11 +89,11 @@
 <a name="Songbook-Client"></a>
 <a href="#Songbook-Client"><h3>Songbook Client</h3></a>
 
-<p><b>version 0.7.7 du 08/07/2012</b></p>
+<p><b>version 0.7.8 du 24/10/2012</b></p>
 
 <div class="left">
   <br /><br />
-  <img src="../data/images/songbook-client.png.tb" alt="" />
+  <img src="../data/images/songbook-client.png.tb" alt="Songbook-Client Logo" />
 </div>
 
 
@@ -105,22 +105,18 @@
 	  <a href="../data/songbook-client/debian/squeeze/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
 	  <a href="../data/songbook-client/debian/squeeze/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
         </li>
-        <li>Wheezy :
-	  <a href="../data/songbook-client/debian/wheezy/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
-	  <a href="../data/songbook-client/debian/wheezy/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
+        <li>Wheezy/Sid :
+	  <a href="../data/songbook-client/debian/songbook-client_0.7.8-1_amd64.deb">songbook-client_0.7.8-1_amd64.deb (64bits)</a>, 
+	  <a href="../data/songbook-client/debian/songbook-client_0.7.8-1_i386.deb">songbook-client_0.7.8-1_i386.deb (32bits)</a></li>
         </li>
-        <li>Sid :
-	  <a href="../data/songbook-client/debian/sid/songbook-client_0.7.4-1_amd64.deb">songbook-client_0.7.4-1_amd64.deb (64bits)</a>, 
-	  <a href="../data/songbook-client/debian/sid/songbook-client_0.7.4-1_i386.deb">songbook-client_0.7.4-1_i386.deb (32bits)</a></li>
-        </li>
-       </ul>
+      </ul>
 <!--    <li><img src="../data/images/gentoo.png" alt="" /> Gentoo : 
 	  <a href="../data/documents/songbook-client-9999.ebuild">ebuild</a></li> -->
 
     <li><img src="../data/images/osx.png" alt="Mac Os X" /> Mac OS X : 
           <a href="../data/songbook-client/macos/Songbook-Client-0.7.3.dmg">Songbook-Client-0.7.3.dmg</a></li>
     <li><img src="../data/images/windows.png" alt="Windows" /> Windows : 
-	  <a href="../data/songbook-client/windows/Songbook-Client-0.7.7-Setup.exe">Songbook-Client-0.7.7-Setup.exe</a></li>
+	  <a href="../data/songbook-client/windows/Songbook-Client-0.7.8-Setup.exe">Songbook-Client-0.7.8-Setup.exe</a></li>
   <li><img src="../data/images/ubuntu.png" alt="Ubuntu" />Ubuntu :
     <div class="unix">
 <code>$ sudo add-apt-repository ppa:romain-goffe/patacrep
