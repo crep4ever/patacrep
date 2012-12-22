@@ -308,6 +308,35 @@ Chanson chantée sur l'air de La jument de Michao (air traditionnel surtout conn
 <hr/>
 </div>
 
+<!-- ________________________ Ptit pingouin ________________________ -->
+
+<div class="song">
+<h3>Ptit pingouin</h3>
+
+<p>
+
+<audio controls>
+  <source src="../data/audio/ptit_pingouin.ogg">
+  <source src="../data/audio/ptit_pingouin.mp3">
+  Audio is not supported. Please use a HTML5 capable browser such as 
+  <a href="http://www.firefox.com">Firefox</a> or 
+  <a href="http://www.google.fr/chrome">Chrome</a>.
+</audio>
+
+<a href="../data/audio/ptit_pingouin.mp3">
+  <img title="Téléchargement" alt="Téléchargement" height="24" src="../data/images/download.png" />
+</a>
+
+<a href="../data/audio/ptit_pingouin.pdf">
+  <img title="Tablature" alt="Tablature" height="24" src="../data/images/pdf.png" />
+</a>
+</p>
+
+<div class="note">Une histoire banale.</div>
+
+<hr/>
+</div>
+
 <!-- ____________________________________________________________________________ -->
 
 <footer style="clear:both;">
