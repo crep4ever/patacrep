@@ -2,7 +2,7 @@
 <a name="Songbook"></a>
 <a href="#Songbook"><h3>Songbook PDF</h3></a>
 
-<p><b>version 3.6.6 - 2012/10/13</b></p>
+<p><b>version 3.6.7 - 2012/12/22</b></p>
 
 <div class="left">
 <div class="left">
