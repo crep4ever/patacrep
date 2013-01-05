@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.6]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonjour à tous !</p>
+<p>La version 3.6.6 du <a href="../data/documents/songbook_fr.pdf">songbook</a> est dispo. Comme d'habitude, un grand merci à tous les contributeurs :)</p>
+
+<h3>Nouvelles chansons</h3>
+
+<strong>Charles Flèche</strong>
+<ul>
+<li>Noir Désir - Un jour en France</li>
+<li>Creedence Clearwater Revival - Bad moon rising</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+  <li>Manu chao - Bongo bong</li>
+  <li>Manu Chao - Je ne t'aime plus</li>
+  <li>Renaud - Morgane de toi</li>
+  <li>Les Ogres de Barback - Le voyageur</li>
+  <li>La Rue Kétanou - Où je vais</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>John Denver - The last hobo</li>
+  <li>La chanson du dimanche - Super pouvoir d'achat</li>
+  <li>Georges Brassens - Quatre-vingt-quinze pour cent</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

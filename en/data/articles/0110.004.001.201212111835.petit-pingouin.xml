@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Petit pingouin]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>I had not recorded anything in a long time :)</p>
+
+<p>
+
+<audio controls>
+  <source src="../data/audio/ptit_pingouin.ogg">
+  <source src="../data/audio/ptit_pingouin.mp3">
+  Audio is not supported. Please use a HTML5 capable browser such as 
+  <a href="http://www.firefox.com">Firefox</a> or 
+  <a href="http://www.google.fr/chrome">Chrome</a>.
+</audio>
+
+<a href="../data/audio/ptit_pingouin.mp3">
+  <img title="Téléchargement" alt="Téléchargement" height="24" src="../data/images/download.png" />
+</a>
+
+<a href="../data/audio/ptit_pingouin.pdf">
+  <img title="Tablature" alt="Tablature" height="24" src="../data/images/pdf.png" />
+</a>
+</p>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">Ptit pingouin</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.patacrep.com/static5/audio" property="cc:attributionName" rel="cc:attributionURL">Crep (R. Goffe)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons Attribution-ShareAlike 2.0 France License</a>.
+</p>]]></content>
+	<tags><![CDATA[audio]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

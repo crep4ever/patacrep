@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.7]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello, hello!</p>
+<p>A new release 3.6.7 of the <a href="../data/documents/songbook_en.pdf">songbook</a> is now available. Thank you everybody :)</p>
+
+<h3>New songs</h3>
+
+<strong>Mickael Chazaux</strong>
+<ul>
+<li>Jean-Jacques Goldman - Et l'on y peut rien</li>
+</ul>
+
+<strong>Kaosun</strong>
+<ul>
+<li>Manu Chao - El viente</li>
+</ul>
+
+<strong>Pipiou</strong>
+<ul>
+  <li>Georges Brassens - L'orage</li>
+</ul>
+
+<strong>broph</strong>
+<ul>
+  <li>Pink Floyd - Comfortably numb</li>
+  <li>The Rolling Stones - Mother's little helper</li>
+  <li>Pink Floyd - Hey you</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Michael Jackson - We are the world</li>
+  <li>Crep - Ptit pingouin</li>
+  <li>Adele - Rolling in the deep</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

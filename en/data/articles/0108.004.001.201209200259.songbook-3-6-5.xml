@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Songbook 3.6.5]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Hello, hello!</p>
+<p>A new release 3.6.5 of the <a href="../data/documents/songbook_en.pdf">songbook</a> is now available. As usual, big kudos to everyone involved :)</p>
+
+<h3>New songs</h3>
+
+<strong>JBB</strong>
+<ul>
+  <li>3 doors down - Here without you</li>
+  <li>Arlo Guthrie - Hobos lullaby</li>
+  <li>Ralph McTell - Streets of London</li>
+  <li>Raphael - Caravane</li>
+</ul>
+
+<strong>karagrat</strong>
+<ul>
+  <li>Les Innocents - Un homme extraordinaire</li>
+  <li>Balbino Medellin - Super héros</li>
+</ul>
+
+<strong>Crep</strong>
+<ul>
+  <li>Booze Brothers - I'm sorry</li>
+  <li>Charlie Winston - Like a hobo</li>
+  <li>Tom Petty - American girl</li>
+</ul>]]></content>
+	<tags><![CDATA[songbook]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>
